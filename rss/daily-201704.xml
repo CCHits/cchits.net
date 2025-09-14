@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Daily Shows (April 2017)</title>
+        <link>https://archive.cchits.net/shows/daily/</link>
+        <description>Creative Commons music podcast - daily shows from April 2017</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Daily Show - April 30, 2017</title>
+            <link>https://archive.cchits.net/show/3471/</link>
+            <description>Featured tracks: The Funny Farm - Welcome To The Funny Farm</description>
+            <guid>https://archive.cchits.net/show/3471/</guid>
+            <pubDate>Sun, 30 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 29, 2017</title>
+            <link>https://archive.cchits.net/show/3470/</link>
+            <description>Featured tracks: Thin Men - Knock Em Stiff</description>
+            <guid>https://archive.cchits.net/show/3470/</guid>
+            <pubDate>Sat, 29 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 28, 2017</title>
+            <link>https://archive.cchits.net/show/3468/</link>
+            <description>Featured tracks: Kankel - Llueven Indirectas</description>
+            <guid>https://archive.cchits.net/show/3468/</guid>
+            <pubDate>Fri, 28 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 27, 2017</title>
+            <link>https://archive.cchits.net/show/3467/</link>
+            <description>Featured tracks: Jonathan Relf - The Bugcast vs. Grapes - I Dunno (The Poultry Edition)</description>
+            <guid>https://archive.cchits.net/show/3467/</guid>
+            <pubDate>Thu, 27 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 26, 2017</title>
+            <link>https://archive.cchits.net/show/3466/</link>
+            <description>Featured tracks: Giulia Ermellino - Hey</description>
+            <guid>https://archive.cchits.net/show/3466/</guid>
+            <pubDate>Wed, 26 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 25, 2017</title>
+            <link>https://archive.cchits.net/show/3465/</link>
+            <description>Featured tracks: Aussens@iter - One Way</description>
+            <guid>https://archive.cchits.net/show/3465/</guid>
+            <pubDate>Tue, 25 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 24, 2017</title>
+            <link>https://archive.cchits.net/show/3464/</link>
+            <description>Featured tracks: anastazia - Pittbull</description>
+            <guid>https://archive.cchits.net/show/3464/</guid>
+            <pubDate>Mon, 24 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 23, 2017</title>
+            <link>https://archive.cchits.net/show/3462/</link>
+            <description>Featured tracks: CrumbSnatchers - Swimming Upstream</description>
+            <guid>https://archive.cchits.net/show/3462/</guid>
+            <pubDate>Sun, 23 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 22, 2017</title>
+            <link>https://archive.cchits.net/show/3461/</link>
+            <description>Featured tracks: Tyler Adam - Great Lakes (Original Mix)</description>
+            <guid>https://archive.cchits.net/show/3461/</guid>
+            <pubDate>Sat, 22 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 21, 2017</title>
+            <link>https://archive.cchits.net/show/3459/</link>
+            <description>Featured tracks: Rusty Tea Makers - Shut Up You Lie</description>
+            <guid>https://archive.cchits.net/show/3459/</guid>
+            <pubDate>Fri, 21 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 20, 2017</title>
+            <link>https://archive.cchits.net/show/3458/</link>
+            <description>Featured tracks: Dorine Levy - Lost Control</description>
+            <guid>https://archive.cchits.net/show/3458/</guid>
+            <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 19, 2017</title>
+            <link>https://archive.cchits.net/show/3457/</link>
+            <description>Featured tracks: Delitto Su Carta - Occhi Nuovi</description>
+            <guid>https://archive.cchits.net/show/3457/</guid>
+            <pubDate>Wed, 19 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 18, 2017</title>
+            <link>https://archive.cchits.net/show/3456/</link>
+            <description>Featured tracks: Bi-Jo - Чужое Кино</description>
+            <guid>https://archive.cchits.net/show/3456/</guid>
+            <pubDate>Tue, 18 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 17, 2017</title>
+            <link>https://archive.cchits.net/show/3455/</link>
+            <description>Featured tracks: The Riders - So Far</description>
+            <guid>https://archive.cchits.net/show/3455/</guid>
+            <pubDate>Mon, 17 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 16, 2017</title>
+            <link>https://archive.cchits.net/show/3453/</link>
+            <description>Featured tracks: A Cup Of Bossas - Game To Play</description>
+            <guid>https://archive.cchits.net/show/3453/</guid>
+            <pubDate>Sun, 16 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 15, 2017</title>
+            <link>https://archive.cchits.net/show/3452/</link>
+            <description>Featured tracks: John Dada &amp; the Weathermen - Flying On A Cloud</description>
+            <guid>https://archive.cchits.net/show/3452/</guid>
+            <pubDate>Sat, 15 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 14, 2017</title>
+            <link>https://archive.cchits.net/show/3450/</link>
+            <description>Featured tracks: Boogie Belgique - Gabriel</description>
+            <guid>https://archive.cchits.net/show/3450/</guid>
+            <pubDate>Fri, 14 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 13, 2017</title>
+            <link>https://archive.cchits.net/show/3449/</link>
+            <description>Featured tracks: waterpistol - Floating In Medicine</description>
+            <guid>https://archive.cchits.net/show/3449/</guid>
+            <pubDate>Thu, 13 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 12, 2017</title>
+            <link>https://archive.cchits.net/show/3448/</link>
+            <description>Featured tracks: The Heavy Crawls - Too Much Rock&#x27;n&#x27;Roll</description>
+            <guid>https://archive.cchits.net/show/3448/</guid>
+            <pubDate>Wed, 12 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 11, 2017</title>
+            <link>https://archive.cchits.net/show/3447/</link>
+            <description>Featured tracks: OnesteP - Illusion</description>
+            <guid>https://archive.cchits.net/show/3447/</guid>
+            <pubDate>Tue, 11 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 10, 2017</title>
+            <link>https://archive.cchits.net/show/3446/</link>
+            <description>Featured tracks: Train Room - Grace</description>
+            <guid>https://archive.cchits.net/show/3446/</guid>
+            <pubDate>Mon, 10 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 09, 2017</title>
+            <link>https://archive.cchits.net/show/3444/</link>
+            <description>Featured tracks: Le-Fly - Shady Lady</description>
+            <guid>https://archive.cchits.net/show/3444/</guid>
+            <pubDate>Sun, 09 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 08, 2017</title>
+            <link>https://archive.cchits.net/show/3443/</link>
+            <description>Featured tracks: Black Ship Company - Pick Me Up</description>
+            <guid>https://archive.cchits.net/show/3443/</guid>
+            <pubDate>Sat, 08 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 07, 2017</title>
+            <link>https://archive.cchits.net/show/3441/</link>
+            <description>Featured tracks: Avi Rosenfeld - Many Years Ago</description>
+            <guid>https://archive.cchits.net/show/3441/</guid>
+            <pubDate>Fri, 07 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 06, 2017</title>
+            <link>https://archive.cchits.net/show/3440/</link>
+            <description>Featured tracks: Sydney Leigh - Walls</description>
+            <guid>https://archive.cchits.net/show/3440/</guid>
+            <pubDate>Thu, 06 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 05, 2017</title>
+            <link>https://archive.cchits.net/show/3439/</link>
+            <description>Featured tracks: Bobby, White and Brownz - Insane Curves</description>
+            <guid>https://archive.cchits.net/show/3439/</guid>
+            <pubDate>Wed, 05 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 04, 2017</title>
+            <link>https://archive.cchits.net/show/3438/</link>
+            <description>Featured tracks: Oko Ono - Fly On The Fire</description>
+            <guid>https://archive.cchits.net/show/3438/</guid>
+            <pubDate>Tue, 04 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 03, 2017</title>
+            <link>https://archive.cchits.net/show/3437/</link>
+            <description>Featured tracks: Zip Kortnicks - Arina</description>
+            <guid>https://archive.cchits.net/show/3437/</guid>
+            <pubDate>Mon, 03 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 02, 2017</title>
+            <link>https://archive.cchits.net/show/3435/</link>
+            <description>Featured tracks: RogerThat - Life Is Wonderful</description>
+            <guid>https://archive.cchits.net/show/3435/</guid>
+            <pubDate>Sun, 02 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 01, 2017</title>
+            <link>https://archive.cchits.net/show/3434/</link>
+            <description>Featured tracks: Allie Farris - Love Won&#x27;t Let You Down</description>
+            <guid>https://archive.cchits.net/show/3434/</guid>
+            <pubDate>Sat, 01 Apr 2017 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

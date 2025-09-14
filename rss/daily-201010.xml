@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Daily Shows (October 2010)</title>
+        <link>https://archive.cchits.net/shows/daily/</link>
+        <description>Creative Commons music podcast - daily shows from October 2010</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Daily Show - October 31, 2010</title>
+            <link>https://archive.cchits.net/show/8/</link>
+            <description>Featured tracks: Ant Neely - Lucky</description>
+            <guid>https://archive.cchits.net/show/8/</guid>
+            <pubDate>Sun, 31 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 30, 2010</title>
+            <link>https://archive.cchits.net/show/7/</link>
+            <description>Featured tracks: Circa Vitae - Shine</description>
+            <guid>https://archive.cchits.net/show/7/</guid>
+            <pubDate>Sat, 30 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 29, 2010</title>
+            <link>https://archive.cchits.net/show/6/</link>
+            <description>Featured tracks: The Phase - Dirty angel</description>
+            <guid>https://archive.cchits.net/show/6/</guid>
+            <pubDate>Fri, 29 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 28, 2010</title>
+            <link>https://archive.cchits.net/show/5/</link>
+            <description>Featured tracks: Spinmeister - Remixing is OK</description>
+            <guid>https://archive.cchits.net/show/5/</guid>
+            <pubDate>Thu, 28 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 27, 2010</title>
+            <link>https://archive.cchits.net/show/4/</link>
+            <description>Featured tracks: Mo0t - Dancing Nowhere</description>
+            <guid>https://archive.cchits.net/show/4/</guid>
+            <pubDate>Wed, 27 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 26, 2010</title>
+            <link>https://archive.cchits.net/show/3/</link>
+            <description>Featured tracks: Starlight Girls - It&#x27;s Up To You</description>
+            <guid>https://archive.cchits.net/show/3/</guid>
+            <pubDate>Tue, 26 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 25, 2010</title>
+            <link>https://archive.cchits.net/show/2/</link>
+            <description>Featured tracks: Krayne - Salvia</description>
+            <guid>https://archive.cchits.net/show/2/</guid>
+            <pubDate>Mon, 25 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 24, 2010</title>
+            <link>https://archive.cchits.net/show/1/</link>
+            <description>Featured tracks: morgantj - café connection</description>
+            <guid>https://archive.cchits.net/show/1/</guid>
+            <pubDate>Sun, 24 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

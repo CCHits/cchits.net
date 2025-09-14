@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Daily Shows (2010)</title>
+        <link>https://archive.cchits.net/shows/daily/</link>
+        <description>Creative Commons music podcast - daily shows from 2010</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Daily Show - December 31, 2010</title>
+            <link>https://archive.cchits.net/show/101/</link>
+            <description>Featured tracks: Cavanaugh - Far From Chicago</description>
+            <guid>https://archive.cchits.net/show/101/</guid>
+            <pubDate>Fri, 31 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 30, 2010</title>
+            <link>https://archive.cchits.net/show/100/</link>
+            <description>Featured tracks: Die Bordkapelle - Alle, die mit uns den Bundestag entern</description>
+            <guid>https://archive.cchits.net/show/100/</guid>
+            <pubDate>Thu, 30 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 29, 2010</title>
+            <link>https://archive.cchits.net/show/99/</link>
+            <description>Featured tracks: Dumbo Gets Mad - Eclectic Prawn</description>
+            <guid>https://archive.cchits.net/show/99/</guid>
+            <pubDate>Wed, 29 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 28, 2010</title>
+            <link>https://archive.cchits.net/show/98/</link>
+            <description>Featured tracks: Lagomorpha - Skyline</description>
+            <guid>https://archive.cchits.net/show/98/</guid>
+            <pubDate>Tue, 28 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 27, 2010</title>
+            <link>https://archive.cchits.net/show/97/</link>
+            <description>Featured tracks: The Juice Media - Rap News 6 - Wikileaks&#x27; Cablegate: the truth is out there</description>
+            <guid>https://archive.cchits.net/show/97/</guid>
+            <pubDate>Mon, 27 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 26, 2010</title>
+            <link>https://archive.cchits.net/show/95/</link>
+            <description>Featured tracks: Nine Inch Nails - 1,000,000</description>
+            <guid>https://archive.cchits.net/show/95/</guid>
+            <pubDate>Sun, 26 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 25, 2010</title>
+            <link>https://archive.cchits.net/show/94/</link>
+            <description>Featured tracks: Fit and the Conniptions - Sweet Sister Starlight</description>
+            <guid>https://archive.cchits.net/show/94/</guid>
+            <pubDate>Sat, 25 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 24, 2010</title>
+            <link>https://archive.cchits.net/show/93/</link>
+            <description>Featured tracks: Fit and the Conniptions - Drinking On My Own Again</description>
+            <guid>https://archive.cchits.net/show/93/</guid>
+            <pubDate>Fri, 24 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 23, 2010</title>
+            <link>https://archive.cchits.net/show/92/</link>
+            <description>Featured tracks: Blue Swerver - Zinedine Zidane</description>
+            <guid>https://archive.cchits.net/show/92/</guid>
+            <pubDate>Thu, 23 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 22, 2010</title>
+            <link>https://archive.cchits.net/show/91/</link>
+            <description>Featured tracks: Ant On Wax - Magic Of Dreams</description>
+            <guid>https://archive.cchits.net/show/91/</guid>
+            <pubDate>Wed, 22 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 21, 2010</title>
+            <link>https://archive.cchits.net/show/90/</link>
+            <description>Featured tracks: Juanitos - Buenos Dias Senorita</description>
+            <guid>https://archive.cchits.net/show/90/</guid>
+            <pubDate>Tue, 21 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 20, 2010</title>
+            <link>https://archive.cchits.net/show/89/</link>
+            <description>Featured tracks: Shearer - Pirates</description>
+            <guid>https://archive.cchits.net/show/89/</guid>
+            <pubDate>Mon, 20 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 19, 2010</title>
+            <link>https://archive.cchits.net/show/85/</link>
+            <description>Featured tracks: WEXIN - Into The Sea</description>
+            <guid>https://archive.cchits.net/show/85/</guid>
+            <pubDate>Sun, 19 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 18, 2010</title>
+            <link>https://archive.cchits.net/show/84/</link>
+            <description>Featured tracks: Hungry Lucy - The Chase (F9 Mix)</description>
+            <guid>https://archive.cchits.net/show/84/</guid>
+            <pubDate>Sat, 18 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 17, 2010</title>
+            <link>https://archive.cchits.net/show/83/</link>
+            <description>Featured tracks: tet production - yepa</description>
+            <guid>https://archive.cchits.net/show/83/</guid>
+            <pubDate>Fri, 17 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 16, 2010</title>
+            <link>https://archive.cchits.net/show/81/</link>
+            <description>Featured tracks: Jonay - Skydiving feat. Jasmine Kara</description>
+            <guid>https://archive.cchits.net/show/81/</guid>
+            <pubDate>Thu, 16 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 15, 2010</title>
+            <link>https://archive.cchits.net/show/80/</link>
+            <description>Featured tracks: ish_kosova - Missing You</description>
+            <guid>https://archive.cchits.net/show/80/</guid>
+            <pubDate>Wed, 15 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 14, 2010</title>
+            <link>https://archive.cchits.net/show/79/</link>
+            <description>Featured tracks: The Rest - The Close Western</description>
+            <guid>https://archive.cchits.net/show/79/</guid>
+            <pubDate>Tue, 14 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 13, 2010</title>
+            <link>https://archive.cchits.net/show/78/</link>
+            <description>Featured tracks: Jonathan Coulton - Blue Sunny Day</description>
+            <guid>https://archive.cchits.net/show/78/</guid>
+            <pubDate>Mon, 13 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 12, 2010</title>
+            <link>https://archive.cchits.net/show/76/</link>
+            <description>Featured tracks: Severed Fifth - Fallout</description>
+            <guid>https://archive.cchits.net/show/76/</guid>
+            <pubDate>Sun, 12 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 11, 2010</title>
+            <link>https://archive.cchits.net/show/75/</link>
+            <description>Featured tracks: Loveshadow - The Sweetest Sin</description>
+            <guid>https://archive.cchits.net/show/75/</guid>
+            <pubDate>Sat, 11 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 10, 2010</title>
+            <link>https://archive.cchits.net/show/74/</link>
+            <description>Featured tracks: Crazy Quilt Bouquet - (I&#x27;ve Got A) Woolly Hat</description>
+            <guid>https://archive.cchits.net/show/74/</guid>
+            <pubDate>Fri, 10 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 09, 2010</title>
+            <link>https://archive.cchits.net/show/67/</link>
+            <description>Featured tracks: 20lb Sounds - Jimmy Carter</description>
+            <guid>https://archive.cchits.net/show/67/</guid>
+            <pubDate>Thu, 09 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 08, 2010</title>
+            <link>https://archive.cchits.net/show/64/</link>
+            <description>Featured tracks: Moneypenny - Destroy (Midnight Conspiracy Remix)</description>
+            <guid>https://archive.cchits.net/show/64/</guid>
+            <pubDate>Wed, 08 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 07, 2010</title>
+            <link>https://archive.cchits.net/show/63/</link>
+            <description>Featured tracks: Strobelight - This Gravity</description>
+            <guid>https://archive.cchits.net/show/63/</guid>
+            <pubDate>Tue, 07 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 06, 2010</title>
+            <link>https://archive.cchits.net/show/62/</link>
+            <description>Featured tracks: Baby Scream - Nicole</description>
+            <guid>https://archive.cchits.net/show/62/</guid>
+            <pubDate>Mon, 06 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 05, 2010</title>
+            <link>https://archive.cchits.net/show/60/</link>
+            <description>Featured tracks: Dan Lynch - The Elephant In The Room</description>
+            <guid>https://archive.cchits.net/show/60/</guid>
+            <pubDate>Sun, 05 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 04, 2010</title>
+            <link>https://archive.cchits.net/show/58/</link>
+            <description>Featured tracks: Room 101 - Machine</description>
+            <guid>https://archive.cchits.net/show/58/</guid>
+            <pubDate>Sat, 04 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 03, 2010</title>
+            <link>https://archive.cchits.net/show/56/</link>
+            <description>Featured tracks: Mad Mush - Don&#x27;t tell me that I don&#x27;t care</description>
+            <guid>https://archive.cchits.net/show/56/</guid>
+            <pubDate>Fri, 03 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 02, 2010</title>
+            <link>https://archive.cchits.net/show/55/</link>
+            <description>Featured tracks: Trundicho - Leolyna</description>
+            <guid>https://archive.cchits.net/show/55/</guid>
+            <pubDate>Thu, 02 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 01, 2010</title>
+            <link>https://archive.cchits.net/show/53/</link>
+            <description>Featured tracks: Bert Jerred - Paramour</description>
+            <guid>https://archive.cchits.net/show/53/</guid>
+            <pubDate>Wed, 01 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 30, 2010</title>
+            <link>https://archive.cchits.net/show/52/</link>
+            <description>Featured tracks: tenpenny joke - Evil Things</description>
+            <guid>https://archive.cchits.net/show/52/</guid>
+            <pubDate>Tue, 30 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 29, 2010</title>
+            <link>https://archive.cchits.net/show/51/</link>
+            <description>Featured tracks: Professor Kliq - All Control (Hard Version)</description>
+            <guid>https://archive.cchits.net/show/51/</guid>
+            <pubDate>Mon, 29 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 28, 2010</title>
+            <link>https://archive.cchits.net/show/49/</link>
+            <description>Featured tracks: James Corachea - Confidence</description>
+            <guid>https://archive.cchits.net/show/49/</guid>
+            <pubDate>Sun, 28 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 27, 2010</title>
+            <link>https://archive.cchits.net/show/43/</link>
+            <description>Featured tracks: Blackwell - I Neva</description>
+            <guid>https://archive.cchits.net/show/43/</guid>
+            <pubDate>Sat, 27 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 26, 2010</title>
+            <link>https://archive.cchits.net/show/42/</link>
+            <description>Featured tracks: Paul Lisak &amp; After The Ice - Tripping</description>
+            <guid>https://archive.cchits.net/show/42/</guid>
+            <pubDate>Fri, 26 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 25, 2010</title>
+            <link>https://archive.cchits.net/show/40/</link>
+            <description>Featured tracks: Allison Crowe - Sea of a Million Faces</description>
+            <guid>https://archive.cchits.net/show/40/</guid>
+            <pubDate>Thu, 25 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 24, 2010</title>
+            <link>https://archive.cchits.net/show/39/</link>
+            <description>Featured tracks: Neil Leyton - Soliloquy</description>
+            <guid>https://archive.cchits.net/show/39/</guid>
+            <pubDate>Wed, 24 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 23, 2010</title>
+            <link>https://archive.cchits.net/show/38/</link>
+            <description>Featured tracks: Shearer - Change</description>
+            <guid>https://archive.cchits.net/show/38/</guid>
+            <pubDate>Tue, 23 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 22, 2010</title>
+            <link>https://archive.cchits.net/show/37/</link>
+            <description>Featured tracks: Crazed Outlook - Trivial Details</description>
+            <guid>https://archive.cchits.net/show/37/</guid>
+            <pubDate>Mon, 22 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 21, 2010</title>
+            <link>https://archive.cchits.net/show/35/</link>
+            <description>Featured tracks: Allison Crowe - Skeletons and Spirits</description>
+            <guid>https://archive.cchits.net/show/35/</guid>
+            <pubDate>Sun, 21 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 20, 2010</title>
+            <link>https://archive.cchits.net/show/34/</link>
+            <description>Featured tracks: USE TO ABUSE - I Wanna Go</description>
+            <guid>https://archive.cchits.net/show/34/</guid>
+            <pubDate>Sat, 20 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 19, 2010</title>
+            <link>https://archive.cchits.net/show/33/</link>
+            <description>Featured tracks: DevonMiles - Bad Habits</description>
+            <guid>https://archive.cchits.net/show/33/</guid>
+            <pubDate>Fri, 19 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 18, 2010</title>
+            <link>https://archive.cchits.net/show/32/</link>
+            <description>Featured tracks: George_Ellinas - Hornet</description>
+            <guid>https://archive.cchits.net/show/32/</guid>
+            <pubDate>Thu, 18 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 17, 2010</title>
+            <link>https://archive.cchits.net/show/31/</link>
+            <description>Featured tracks: Houdini Roadshow - Down in the City</description>
+            <guid>https://archive.cchits.net/show/31/</guid>
+            <pubDate>Wed, 17 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 16, 2010</title>
+            <link>https://archive.cchits.net/show/30/</link>
+            <description>Featured tracks: snowflake - Persephone</description>
+            <guid>https://archive.cchits.net/show/30/</guid>
+            <pubDate>Tue, 16 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 15, 2010</title>
+            <link>https://archive.cchits.net/show/29/</link>
+            <description>Featured tracks: Jonathan Coulton - Pull The String</description>
+            <guid>https://archive.cchits.net/show/29/</guid>
+            <pubDate>Mon, 15 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 14, 2010</title>
+            <link>https://archive.cchits.net/show/27/</link>
+            <description>Featured tracks: Ghost_k - Stop (blue mix)</description>
+            <guid>https://archive.cchits.net/show/27/</guid>
+            <pubDate>Sun, 14 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 13, 2010</title>
+            <link>https://archive.cchits.net/show/26/</link>
+            <description>Featured tracks: Loudog - Gone</description>
+            <guid>https://archive.cchits.net/show/26/</guid>
+            <pubDate>Sat, 13 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 12, 2010</title>
+            <link>https://archive.cchits.net/show/25/</link>
+            <description>Featured tracks: DROP ALIVE - Never Happy</description>
+            <guid>https://archive.cchits.net/show/25/</guid>
+            <pubDate>Fri, 12 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 11, 2010</title>
+            <link>https://archive.cchits.net/show/24/</link>
+            <description>Featured tracks: Jamie Rumley - Anywhere But Here</description>
+            <guid>https://archive.cchits.net/show/24/</guid>
+            <pubDate>Thu, 11 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 10, 2010</title>
+            <link>https://archive.cchits.net/show/23/</link>
+            <description>Featured tracks: Amélie - Do It Over</description>
+            <guid>https://archive.cchits.net/show/23/</guid>
+            <pubDate>Wed, 10 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 09, 2010</title>
+            <link>https://archive.cchits.net/show/22/</link>
+            <description>Featured tracks: Last Sunday - A Part of me</description>
+            <guid>https://archive.cchits.net/show/22/</guid>
+            <pubDate>Tue, 09 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 08, 2010</title>
+            <link>https://archive.cchits.net/show/20/</link>
+            <description>Featured tracks: Flykkiller - Sell My Pulse</description>
+            <guid>https://archive.cchits.net/show/20/</guid>
+            <pubDate>Mon, 08 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 07, 2010</title>
+            <link>https://archive.cchits.net/show/18/</link>
+            <description>Featured tracks: Paper Plane Pilots - The Accident</description>
+            <guid>https://archive.cchits.net/show/18/</guid>
+            <pubDate>Sun, 07 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 06, 2010</title>
+            <link>https://archive.cchits.net/show/15/</link>
+            <description>Featured tracks: Jonay - Whatcha Wanna Do</description>
+            <guid>https://archive.cchits.net/show/15/</guid>
+            <pubDate>Sat, 06 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 05, 2010</title>
+            <link>https://archive.cchits.net/show/13/</link>
+            <description>Featured tracks: Predator - I Love Alcohol</description>
+            <guid>https://archive.cchits.net/show/13/</guid>
+            <pubDate>Fri, 05 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 04, 2010</title>
+            <link>https://archive.cchits.net/show/12/</link>
+            <description>Featured tracks: Lorenzo&#x27;s Music - Straight To Hell</description>
+            <guid>https://archive.cchits.net/show/12/</guid>
+            <pubDate>Thu, 04 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 03, 2010</title>
+            <link>https://archive.cchits.net/show/11/</link>
+            <description>Featured tracks: Reform The Resistance - Arise</description>
+            <guid>https://archive.cchits.net/show/11/</guid>
+            <pubDate>Wed, 03 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 02, 2010</title>
+            <link>https://archive.cchits.net/show/10/</link>
+            <description>Featured tracks: Sway - Going Blind</description>
+            <guid>https://archive.cchits.net/show/10/</guid>
+            <pubDate>Tue, 02 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 01, 2010</title>
+            <link>https://archive.cchits.net/show/9/</link>
+            <description>Featured tracks: The Scare Bears - Girls Don&#x27;t Game</description>
+            <guid>https://archive.cchits.net/show/9/</guid>
+            <pubDate>Mon, 01 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 31, 2010</title>
+            <link>https://archive.cchits.net/show/8/</link>
+            <description>Featured tracks: Ant Neely - Lucky</description>
+            <guid>https://archive.cchits.net/show/8/</guid>
+            <pubDate>Sun, 31 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 30, 2010</title>
+            <link>https://archive.cchits.net/show/7/</link>
+            <description>Featured tracks: Circa Vitae - Shine</description>
+            <guid>https://archive.cchits.net/show/7/</guid>
+            <pubDate>Sat, 30 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 29, 2010</title>
+            <link>https://archive.cchits.net/show/6/</link>
+            <description>Featured tracks: The Phase - Dirty angel</description>
+            <guid>https://archive.cchits.net/show/6/</guid>
+            <pubDate>Fri, 29 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 28, 2010</title>
+            <link>https://archive.cchits.net/show/5/</link>
+            <description>Featured tracks: Spinmeister - Remixing is OK</description>
+            <guid>https://archive.cchits.net/show/5/</guid>
+            <pubDate>Thu, 28 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 27, 2010</title>
+            <link>https://archive.cchits.net/show/4/</link>
+            <description>Featured tracks: Mo0t - Dancing Nowhere</description>
+            <guid>https://archive.cchits.net/show/4/</guid>
+            <pubDate>Wed, 27 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 26, 2010</title>
+            <link>https://archive.cchits.net/show/3/</link>
+            <description>Featured tracks: Starlight Girls - It&#x27;s Up To You</description>
+            <guid>https://archive.cchits.net/show/3/</guid>
+            <pubDate>Tue, 26 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 25, 2010</title>
+            <link>https://archive.cchits.net/show/2/</link>
+            <description>Featured tracks: Krayne - Salvia</description>
+            <guid>https://archive.cchits.net/show/2/</guid>
+            <pubDate>Mon, 25 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 24, 2010</title>
+            <link>https://archive.cchits.net/show/1/</link>
+            <description>Featured tracks: morgantj - café connection</description>
+            <guid>https://archive.cchits.net/show/1/</guid>
+            <pubDate>Sun, 24 Oct 2010 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,2572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Daily Shows (2016)</title>
+        <link>https://archive.cchits.net/shows/daily/</link>
+        <description>Creative Commons music podcast - daily shows from 2016</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Daily Show - December 31, 2016</title>
+            <link>https://archive.cchits.net/show/3312/</link>
+            <description>Featured tracks: Roller Genoa - Freak Show (Demo)</description>
+            <guid>https://archive.cchits.net/show/3312/</guid>
+            <pubDate>Sat, 31 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 30, 2016</title>
+            <link>https://archive.cchits.net/show/3310/</link>
+            <description>Featured tracks: Williamson Vedder - Crimson Tears</description>
+            <guid>https://archive.cchits.net/show/3310/</guid>
+            <pubDate>Fri, 30 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 29, 2016</title>
+            <link>https://archive.cchits.net/show/3309/</link>
+            <description>Featured tracks: Michael Harren - Five Tasks Of Grief</description>
+            <guid>https://archive.cchits.net/show/3309/</guid>
+            <pubDate>Thu, 29 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 28, 2016</title>
+            <link>https://archive.cchits.net/show/3308/</link>
+            <description>Featured tracks: Birdeatsbaby - Through Ten Walls</description>
+            <guid>https://archive.cchits.net/show/3308/</guid>
+            <pubDate>Wed, 28 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 27, 2016</title>
+            <link>https://archive.cchits.net/show/3307/</link>
+            <description>Featured tracks: Soundstatues - Admire: Inhumanize</description>
+            <guid>https://archive.cchits.net/show/3307/</guid>
+            <pubDate>Tue, 27 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 26, 2016</title>
+            <link>https://archive.cchits.net/show/3306/</link>
+            <description>Featured tracks: Racecar - Nashville</description>
+            <guid>https://archive.cchits.net/show/3306/</guid>
+            <pubDate>Mon, 26 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 25, 2016</title>
+            <link>https://archive.cchits.net/show/3304/</link>
+            <description>Featured tracks: Stoneface Priest - Rocky Road</description>
+            <guid>https://archive.cchits.net/show/3304/</guid>
+            <pubDate>Sun, 25 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 24, 2016</title>
+            <link>https://archive.cchits.net/show/3303/</link>
+            <description>Featured tracks: Fader Hill - Something&#x27;s Goin&#x27; On</description>
+            <guid>https://archive.cchits.net/show/3303/</guid>
+            <pubDate>Sat, 24 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 23, 2016</title>
+            <link>https://archive.cchits.net/show/3301/</link>
+            <description>Featured tracks: Zoro - Jah Warriors:Singama Warrior</description>
+            <guid>https://archive.cchits.net/show/3301/</guid>
+            <pubDate>Fri, 23 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 22, 2016</title>
+            <link>https://archive.cchits.net/show/3300/</link>
+            <description>Featured tracks: Kyle Cox - Life Is Good</description>
+            <guid>https://archive.cchits.net/show/3300/</guid>
+            <pubDate>Thu, 22 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 21, 2016</title>
+            <link>https://archive.cchits.net/show/3299/</link>
+            <description>Featured tracks: Indytronics - Mark Your Ships</description>
+            <guid>https://archive.cchits.net/show/3299/</guid>
+            <pubDate>Wed, 21 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 20, 2016</title>
+            <link>https://archive.cchits.net/show/3298/</link>
+            <description>Featured tracks: Azwel - Out On A Limb</description>
+            <guid>https://archive.cchits.net/show/3298/</guid>
+            <pubDate>Tue, 20 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 19, 2016</title>
+            <link>https://archive.cchits.net/show/3297/</link>
+            <description>Featured tracks: Warsaw Gun - IDA</description>
+            <guid>https://archive.cchits.net/show/3297/</guid>
+            <pubDate>Mon, 19 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 18, 2016</title>
+            <link>https://archive.cchits.net/show/3295/</link>
+            <description>Featured tracks: Melanie Ungar - What Is Love</description>
+            <guid>https://archive.cchits.net/show/3295/</guid>
+            <pubDate>Sun, 18 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 17, 2016</title>
+            <link>https://archive.cchits.net/show/3294/</link>
+            <description>Featured tracks: Jody Pou - Black Coffee</description>
+            <guid>https://archive.cchits.net/show/3294/</guid>
+            <pubDate>Sat, 17 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 16, 2016</title>
+            <link>https://archive.cchits.net/show/3293/</link>
+            <description>Featured tracks: Golden Duck Orchestra - On Sale</description>
+            <guid>https://archive.cchits.net/show/3293/</guid>
+            <pubDate>Fri, 16 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 15, 2016</title>
+            <link>https://archive.cchits.net/show/3292/</link>
+            <description>Featured tracks: waterpistol - The Blue, The Green And The Violet</description>
+            <guid>https://archive.cchits.net/show/3292/</guid>
+            <pubDate>Thu, 15 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 14, 2016</title>
+            <link>https://archive.cchits.net/show/3291/</link>
+            <description>Featured tracks: The Woods - An Angel In Fly</description>
+            <guid>https://archive.cchits.net/show/3291/</guid>
+            <pubDate>Wed, 14 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 13, 2016</title>
+            <link>https://archive.cchits.net/show/3288/</link>
+            <description>Featured tracks: Avenger Kills - The Trap</description>
+            <guid>https://archive.cchits.net/show/3288/</guid>
+            <pubDate>Tue, 13 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 12, 2016</title>
+            <link>https://archive.cchits.net/show/3287/</link>
+            <description>Featured tracks: Zack Linton - West Coast Highway</description>
+            <guid>https://archive.cchits.net/show/3287/</guid>
+            <pubDate>Mon, 12 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 11, 2016</title>
+            <link>https://archive.cchits.net/show/3284/</link>
+            <description>Featured tracks: Icon Girl Pistols - I Quit The Beatles</description>
+            <guid>https://archive.cchits.net/show/3284/</guid>
+            <pubDate>Sun, 11 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 10, 2016</title>
+            <link>https://archive.cchits.net/show/3282/</link>
+            <description>Featured tracks: Le-Fly - Sunset Party</description>
+            <guid>https://archive.cchits.net/show/3282/</guid>
+            <pubDate>Sat, 10 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 09, 2016</title>
+            <link>https://archive.cchits.net/show/3279/</link>
+            <description>Featured tracks: Jaief &amp;amp; Asong - Get Away (feat. Rebekka Salomea)</description>
+            <guid>https://archive.cchits.net/show/3279/</guid>
+            <pubDate>Fri, 09 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 08, 2016</title>
+            <link>https://archive.cchits.net/show/3277/</link>
+            <description>Featured tracks: Tamara Laurel - Come On Come On</description>
+            <guid>https://archive.cchits.net/show/3277/</guid>
+            <pubDate>Thu, 08 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 07, 2016</title>
+            <link>https://archive.cchits.net/show/3275/</link>
+            <description>Featured tracks: Anitek - Raining Rome</description>
+            <guid>https://archive.cchits.net/show/3275/</guid>
+            <pubDate>Wed, 07 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 06, 2016</title>
+            <link>https://archive.cchits.net/show/3273/</link>
+            <description>Featured tracks: Kaceo - Un p&#x27;tit crédit</description>
+            <guid>https://archive.cchits.net/show/3273/</guid>
+            <pubDate>Tue, 06 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 05, 2016</title>
+            <link>https://archive.cchits.net/show/3270/</link>
+            <description>Featured tracks: The Madpix Project - Say Goodbye</description>
+            <guid>https://archive.cchits.net/show/3270/</guid>
+            <pubDate>Mon, 05 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 04, 2016</title>
+            <link>https://archive.cchits.net/show/3268/</link>
+            <description>Featured tracks: Jokriss - Guayeteo (Dembow)</description>
+            <guid>https://archive.cchits.net/show/3268/</guid>
+            <pubDate>Sun, 04 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 03, 2016</title>
+            <link>https://archive.cchits.net/show/3266/</link>
+            <description>Featured tracks: Zamza - I Wanna Move</description>
+            <guid>https://archive.cchits.net/show/3266/</guid>
+            <pubDate>Sat, 03 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 02, 2016</title>
+            <link>https://archive.cchits.net/show/3263/</link>
+            <description>Featured tracks: Mad Glory - Red Wine Blues</description>
+            <guid>https://archive.cchits.net/show/3263/</guid>
+            <pubDate>Fri, 02 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 01, 2016</title>
+            <link>https://archive.cchits.net/show/3261/</link>
+            <description>Featured tracks: I&#x27;m Fresh! You&#x27;re Pretty! - Date</description>
+            <guid>https://archive.cchits.net/show/3261/</guid>
+            <pubDate>Thu, 01 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 30, 2016</title>
+            <link>https://archive.cchits.net/show/3258/</link>
+            <description>Featured tracks: Michael Corvin - SHAfT - Game Over</description>
+            <guid>https://archive.cchits.net/show/3258/</guid>
+            <pubDate>Wed, 30 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 29, 2016</title>
+            <link>https://archive.cchits.net/show/3256/</link>
+            <description>Featured tracks: Saeed AlSuri - Neon Lights</description>
+            <guid>https://archive.cchits.net/show/3256/</guid>
+            <pubDate>Tue, 29 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 28, 2016</title>
+            <link>https://archive.cchits.net/show/3254/</link>
+            <description>Featured tracks: Seralola - Yang Kau Butuhkan Ke Depan</description>
+            <guid>https://archive.cchits.net/show/3254/</guid>
+            <pubDate>Mon, 28 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 27, 2016</title>
+            <link>https://archive.cchits.net/show/3251/</link>
+            <description>Featured tracks: Dead Cinderella - Give It A Try</description>
+            <guid>https://archive.cchits.net/show/3251/</guid>
+            <pubDate>Sun, 27 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 26, 2016</title>
+            <link>https://archive.cchits.net/show/3249/</link>
+            <description>Featured tracks: Filthy Kicks - Break The Addiction</description>
+            <guid>https://archive.cchits.net/show/3249/</guid>
+            <pubDate>Sat, 26 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 25, 2016</title>
+            <link>https://archive.cchits.net/show/3247/</link>
+            <description>Featured tracks: Yon Cuyan - Dame</description>
+            <guid>https://archive.cchits.net/show/3247/</guid>
+            <pubDate>Fri, 25 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 24, 2016</title>
+            <link>https://archive.cchits.net/show/3244/</link>
+            <description>Featured tracks: Emily Richards - One Way</description>
+            <guid>https://archive.cchits.net/show/3244/</guid>
+            <pubDate>Thu, 24 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 23, 2016</title>
+            <link>https://archive.cchits.net/show/3242/</link>
+            <description>Featured tracks: Brain Purist - Curse the Day (Radio Edit)</description>
+            <guid>https://archive.cchits.net/show/3242/</guid>
+            <pubDate>Wed, 23 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 22, 2016</title>
+            <link>https://archive.cchits.net/show/3240/</link>
+            <description>Featured tracks: Waycup - Personal Battle</description>
+            <guid>https://archive.cchits.net/show/3240/</guid>
+            <pubDate>Tue, 22 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 21, 2016</title>
+            <link>https://archive.cchits.net/show/3239/</link>
+            <description>Featured tracks: Kévin Bourgey - Plus une minute a perdre</description>
+            <guid>https://archive.cchits.net/show/3239/</guid>
+            <pubDate>Mon, 21 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 20, 2016</title>
+            <link>https://archive.cchits.net/show/3235/</link>
+            <description>Featured tracks: The Karma Nites - Liar</description>
+            <guid>https://archive.cchits.net/show/3235/</guid>
+            <pubDate>Sun, 20 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 19, 2016</title>
+            <link>https://archive.cchits.net/show/3232/</link>
+            <description>Featured tracks: Sydney Leigh - Out Of Air</description>
+            <guid>https://archive.cchits.net/show/3232/</guid>
+            <pubDate>Sat, 19 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 18, 2016</title>
+            <link>https://archive.cchits.net/show/3230/</link>
+            <description>Featured tracks: Ghost Kollective - Ad Astra (Nethis Nostalgia Mix)</description>
+            <guid>https://archive.cchits.net/show/3230/</guid>
+            <pubDate>Fri, 18 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 17, 2016</title>
+            <link>https://archive.cchits.net/show/3228/</link>
+            <description>Featured tracks: Deanmoore - Waves</description>
+            <guid>https://archive.cchits.net/show/3228/</guid>
+            <pubDate>Thu, 17 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 16, 2016</title>
+            <link>https://archive.cchits.net/show/3225/</link>
+            <description>Featured tracks: Alexey Krasnoslobodtsev - Someday</description>
+            <guid>https://archive.cchits.net/show/3225/</guid>
+            <pubDate>Wed, 16 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 15, 2016</title>
+            <link>https://archive.cchits.net/show/3223/</link>
+            <description>Featured tracks: waterpistol - Always And Never</description>
+            <guid>https://archive.cchits.net/show/3223/</guid>
+            <pubDate>Tue, 15 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 14, 2016</title>
+            <link>https://archive.cchits.net/show/3222/</link>
+            <description>Featured tracks: Berkley Mallin - The Plough</description>
+            <guid>https://archive.cchits.net/show/3222/</guid>
+            <pubDate>Mon, 14 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 13, 2016</title>
+            <link>https://archive.cchits.net/show/3218/</link>
+            <description>Featured tracks: Karissa Hobbs - House Burnin&#x27; Down</description>
+            <guid>https://archive.cchits.net/show/3218/</guid>
+            <pubDate>Sun, 13 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 12, 2016</title>
+            <link>https://archive.cchits.net/show/3216/</link>
+            <description>Featured tracks: Billy Boguard - Chronos</description>
+            <guid>https://archive.cchits.net/show/3216/</guid>
+            <pubDate>Sat, 12 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 11, 2016</title>
+            <link>https://archive.cchits.net/show/3213/</link>
+            <description>Featured tracks: No Plans For Tomorrow - 5K Miles</description>
+            <guid>https://archive.cchits.net/show/3213/</guid>
+            <pubDate>Fri, 11 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 10, 2016</title>
+            <link>https://archive.cchits.net/show/3211/</link>
+            <description>Featured tracks: Indytronics - Ocean In The Lungs</description>
+            <guid>https://archive.cchits.net/show/3211/</guid>
+            <pubDate>Thu, 10 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 09, 2016</title>
+            <link>https://archive.cchits.net/show/3210/</link>
+            <description>Featured tracks: Death To The McKenzies - The 80s Wave</description>
+            <guid>https://archive.cchits.net/show/3210/</guid>
+            <pubDate>Wed, 09 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 08, 2016</title>
+            <link>https://archive.cchits.net/show/3208/</link>
+            <description>Featured tracks: Deep Down Inside - Where Dreams Begin</description>
+            <guid>https://archive.cchits.net/show/3208/</guid>
+            <pubDate>Tue, 08 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 07, 2016</title>
+            <link>https://archive.cchits.net/show/3206/</link>
+            <description>Featured tracks: The Artisans Beats - Snow Plow</description>
+            <guid>https://archive.cchits.net/show/3206/</guid>
+            <pubDate>Mon, 07 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 06, 2016</title>
+            <link>https://archive.cchits.net/show/3202/</link>
+            <description>Featured tracks: Rusty Tea Makers - Summer</description>
+            <guid>https://archive.cchits.net/show/3202/</guid>
+            <pubDate>Sun, 06 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 05, 2016</title>
+            <link>https://archive.cchits.net/show/3198/</link>
+            <description>Featured tracks: Mercury &amp;amp; The Architects - Life We Found</description>
+            <guid>https://archive.cchits.net/show/3198/</guid>
+            <pubDate>Sat, 05 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 04, 2016</title>
+            <link>https://archive.cchits.net/show/3196/</link>
+            <description>Featured tracks: Thomas Allan - By My Side</description>
+            <guid>https://archive.cchits.net/show/3196/</guid>
+            <pubDate>Fri, 04 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 03, 2016</title>
+            <link>https://archive.cchits.net/show/3195/</link>
+            <description>Featured tracks: Sianoa - Only Lonely For You</description>
+            <guid>https://archive.cchits.net/show/3195/</guid>
+            <pubDate>Thu, 03 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 02, 2016</title>
+            <link>https://archive.cchits.net/show/3194/</link>
+            <description>Featured tracks: Gidgets Ga Ga - Good Enough</description>
+            <guid>https://archive.cchits.net/show/3194/</guid>
+            <pubDate>Wed, 02 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 01, 2016</title>
+            <link>https://archive.cchits.net/show/3192/</link>
+            <description>Featured tracks: The Freaks - These Are Things I Never Saw</description>
+            <guid>https://archive.cchits.net/show/3192/</guid>
+            <pubDate>Tue, 01 Nov 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 31, 2016</title>
+            <link>https://archive.cchits.net/show/3189/</link>
+            <description>Featured tracks: Roman Ram Lobashkov - I Can Do Whatever I Wanna Do</description>
+            <guid>https://archive.cchits.net/show/3189/</guid>
+            <pubDate>Mon, 31 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 30, 2016</title>
+            <link>https://archive.cchits.net/show/3187/</link>
+            <description>Featured tracks: Fresh Body Shop - Superman Kid</description>
+            <guid>https://archive.cchits.net/show/3187/</guid>
+            <pubDate>Sun, 30 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 29, 2016</title>
+            <link>https://archive.cchits.net/show/3186/</link>
+            <description>Featured tracks: Staggered Crossing - When The Rain&#x27;s All Gone</description>
+            <guid>https://archive.cchits.net/show/3186/</guid>
+            <pubDate>Sat, 29 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 28, 2016</title>
+            <link>https://archive.cchits.net/show/3184/</link>
+            <description>Featured tracks: Atlas Engine - Everest</description>
+            <guid>https://archive.cchits.net/show/3184/</guid>
+            <pubDate>Fri, 28 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 27, 2016</title>
+            <link>https://archive.cchits.net/show/3183/</link>
+            <description>Featured tracks: The League - Kill The Old</description>
+            <guid>https://archive.cchits.net/show/3183/</guid>
+            <pubDate>Thu, 27 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 26, 2016</title>
+            <link>https://archive.cchits.net/show/3182/</link>
+            <description>Featured tracks: LukHash - The Other Side</description>
+            <guid>https://archive.cchits.net/show/3182/</guid>
+            <pubDate>Wed, 26 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 25, 2016</title>
+            <link>https://archive.cchits.net/show/3181/</link>
+            <description>Featured tracks: Doppelagenten - Don&#x27;t Kill Yourself</description>
+            <guid>https://archive.cchits.net/show/3181/</guid>
+            <pubDate>Tue, 25 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 24, 2016</title>
+            <link>https://archive.cchits.net/show/3180/</link>
+            <description>Featured tracks: Jai Lynn - I&#x27;m Not Her</description>
+            <guid>https://archive.cchits.net/show/3180/</guid>
+            <pubDate>Mon, 24 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 23, 2016</title>
+            <link>https://archive.cchits.net/show/3178/</link>
+            <description>Featured tracks: HonH - For You</description>
+            <guid>https://archive.cchits.net/show/3178/</guid>
+            <pubDate>Sun, 23 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 22, 2016</title>
+            <link>https://archive.cchits.net/show/3177/</link>
+            <description>Featured tracks: Fox &amp;amp; Mew - Oui</description>
+            <guid>https://archive.cchits.net/show/3177/</guid>
+            <pubDate>Sat, 22 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 21, 2016</title>
+            <link>https://archive.cchits.net/show/3175/</link>
+            <description>Featured tracks: Axl &amp;amp; Arth - Funktown</description>
+            <guid>https://archive.cchits.net/show/3175/</guid>
+            <pubDate>Fri, 21 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 19, 2016</title>
+            <link>https://archive.cchits.net/show/3174/</link>
+            <description>Featured tracks: Union Hills - Quantum Jump</description>
+            <guid>https://archive.cchits.net/show/3174/</guid>
+            <pubDate>Wed, 19 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 18, 2016</title>
+            <link>https://archive.cchits.net/show/3173/</link>
+            <description>Featured tracks: After The Rain - Set Me Free (Entwurf)</description>
+            <guid>https://archive.cchits.net/show/3173/</guid>
+            <pubDate>Tue, 18 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 17, 2016</title>
+            <link>https://archive.cchits.net/show/3172/</link>
+            <description>Featured tracks: The Vow - Coal Fire (Burn The Changes)</description>
+            <guid>https://archive.cchits.net/show/3172/</guid>
+            <pubDate>Mon, 17 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 16, 2016</title>
+            <link>https://archive.cchits.net/show/3170/</link>
+            <description>Featured tracks: Chancius - Hold On</description>
+            <guid>https://archive.cchits.net/show/3170/</guid>
+            <pubDate>Sun, 16 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 15, 2016</title>
+            <link>https://archive.cchits.net/show/3169/</link>
+            <description>Featured tracks: Jon Maurer - Horse Tamer</description>
+            <guid>https://archive.cchits.net/show/3169/</guid>
+            <pubDate>Sat, 15 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 14, 2016</title>
+            <link>https://archive.cchits.net/show/3167/</link>
+            <description>Featured tracks: The Bourgeois - Electric Shock Value</description>
+            <guid>https://archive.cchits.net/show/3167/</guid>
+            <pubDate>Fri, 14 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 13, 2016</title>
+            <link>https://archive.cchits.net/show/3166/</link>
+            <description>Featured tracks: Desfatinaction Trio - Tra la gente</description>
+            <guid>https://archive.cchits.net/show/3166/</guid>
+            <pubDate>Thu, 13 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 12, 2016</title>
+            <link>https://archive.cchits.net/show/3165/</link>
+            <description>Featured tracks: Bryyn - All My Life</description>
+            <guid>https://archive.cchits.net/show/3165/</guid>
+            <pubDate>Wed, 12 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 11, 2016</title>
+            <link>https://archive.cchits.net/show/3164/</link>
+            <description>Featured tracks: The Madpix Project - Feel</description>
+            <guid>https://archive.cchits.net/show/3164/</guid>
+            <pubDate>Tue, 11 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 10, 2016</title>
+            <link>https://archive.cchits.net/show/3163/</link>
+            <description>Featured tracks: Zamza - If You Don&#x27;t Try (feat. Lynsey Tibbs)</description>
+            <guid>https://archive.cchits.net/show/3163/</guid>
+            <pubDate>Mon, 10 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 09, 2016</title>
+            <link>https://archive.cchits.net/show/3161/</link>
+            <description>Featured tracks: Le-Fly - In The Nite</description>
+            <guid>https://archive.cchits.net/show/3161/</guid>
+            <pubDate>Sun, 09 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 08, 2016</title>
+            <link>https://archive.cchits.net/show/3160/</link>
+            <description>Featured tracks: Boogie Belgique - Hello Sinner</description>
+            <guid>https://archive.cchits.net/show/3160/</guid>
+            <pubDate>Sat, 08 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 07, 2016</title>
+            <link>https://archive.cchits.net/show/3158/</link>
+            <description>Featured tracks: Niki J Crawford - Spread Your Wings</description>
+            <guid>https://archive.cchits.net/show/3158/</guid>
+            <pubDate>Fri, 07 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 06, 2016</title>
+            <link>https://archive.cchits.net/show/3157/</link>
+            <description>Featured tracks: Fuse - The Game</description>
+            <guid>https://archive.cchits.net/show/3157/</guid>
+            <pubDate>Thu, 06 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 05, 2016</title>
+            <link>https://archive.cchits.net/show/3156/</link>
+            <description>Featured tracks: Kate Orange - My Weapon</description>
+            <guid>https://archive.cchits.net/show/3156/</guid>
+            <pubDate>Wed, 05 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 04, 2016</title>
+            <link>https://archive.cchits.net/show/3155/</link>
+            <description>Featured tracks: Soldiah Beez - LNP Roots Family - Reggae Music (Acoustic)</description>
+            <guid>https://archive.cchits.net/show/3155/</guid>
+            <pubDate>Tue, 04 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 03, 2016</title>
+            <link>https://archive.cchits.net/show/3154/</link>
+            <description>Featured tracks: The League - The Wrong Sail</description>
+            <guid>https://archive.cchits.net/show/3154/</guid>
+            <pubDate>Mon, 03 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 02, 2016</title>
+            <link>https://archive.cchits.net/show/3152/</link>
+            <description>Featured tracks: Cory Feigen - Castles In The Sky</description>
+            <guid>https://archive.cchits.net/show/3152/</guid>
+            <pubDate>Sun, 02 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 01, 2016</title>
+            <link>https://archive.cchits.net/show/3151/</link>
+            <description>Featured tracks: Sean Brookes - Only Truths</description>
+            <guid>https://archive.cchits.net/show/3151/</guid>
+            <pubDate>Sat, 01 Oct 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 30, 2016</title>
+            <link>https://archive.cchits.net/show/3148/</link>
+            <description>Featured tracks: The Madpix Project - Wish You Were Here</description>
+            <guid>https://archive.cchits.net/show/3148/</guid>
+            <pubDate>Fri, 30 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 29, 2016</title>
+            <link>https://archive.cchits.net/show/3147/</link>
+            <description>Featured tracks: Neon NiteClub - Moments</description>
+            <guid>https://archive.cchits.net/show/3147/</guid>
+            <pubDate>Thu, 29 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 28, 2016</title>
+            <link>https://archive.cchits.net/show/3146/</link>
+            <description>Featured tracks: 10 Code - Transmitter</description>
+            <guid>https://archive.cchits.net/show/3146/</guid>
+            <pubDate>Wed, 28 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 27, 2016</title>
+            <link>https://archive.cchits.net/show/3145/</link>
+            <description>Featured tracks: Familia Reggae - What You Gonna Do</description>
+            <guid>https://archive.cchits.net/show/3145/</guid>
+            <pubDate>Tue, 27 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 26, 2016</title>
+            <link>https://archive.cchits.net/show/3144/</link>
+            <description>Featured tracks: Matti Paalanen - Emotion</description>
+            <guid>https://archive.cchits.net/show/3144/</guid>
+            <pubDate>Mon, 26 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 25, 2016</title>
+            <link>https://archive.cchits.net/show/3142/</link>
+            <description>Featured tracks: Terrible Terrible - Between A Breath</description>
+            <guid>https://archive.cchits.net/show/3142/</guid>
+            <pubDate>Sun, 25 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 24, 2016</title>
+            <link>https://archive.cchits.net/show/3141/</link>
+            <description>Featured tracks: Vulcano - Ride Of Your Life</description>
+            <guid>https://archive.cchits.net/show/3141/</guid>
+            <pubDate>Sat, 24 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 23, 2016</title>
+            <link>https://archive.cchits.net/show/3140/</link>
+            <description>Featured tracks: Kattie - Dig A Hole</description>
+            <guid>https://archive.cchits.net/show/3140/</guid>
+            <pubDate>Fri, 23 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 22, 2016</title>
+            <link>https://archive.cchits.net/show/3138/</link>
+            <description>Featured tracks: Boogie Belgique - Mr Fisher</description>
+            <guid>https://archive.cchits.net/show/3138/</guid>
+            <pubDate>Thu, 22 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 21, 2016</title>
+            <link>https://archive.cchits.net/show/3137/</link>
+            <description>Featured tracks: H2O - Wake Up In Your Love</description>
+            <guid>https://archive.cchits.net/show/3137/</guid>
+            <pubDate>Wed, 21 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 20, 2016</title>
+            <link>https://archive.cchits.net/show/3136/</link>
+            <description>Featured tracks: Les humeurs cérébrales - Oyez oyez</description>
+            <guid>https://archive.cchits.net/show/3136/</guid>
+            <pubDate>Tue, 20 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 19, 2016</title>
+            <link>https://archive.cchits.net/show/3135/</link>
+            <description>Featured tracks: Longed For Fusion - In Memory</description>
+            <guid>https://archive.cchits.net/show/3135/</guid>
+            <pubDate>Mon, 19 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 18, 2016</title>
+            <link>https://archive.cchits.net/show/3133/</link>
+            <description>Featured tracks: Sticky Tickets - Beneath The Surface</description>
+            <guid>https://archive.cchits.net/show/3133/</guid>
+            <pubDate>Sun, 18 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 17, 2016</title>
+            <link>https://archive.cchits.net/show/3132/</link>
+            <description>Featured tracks: The Madpix Project - Edge (Radio Edit)</description>
+            <guid>https://archive.cchits.net/show/3132/</guid>
+            <pubDate>Sat, 17 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 16, 2016</title>
+            <link>https://archive.cchits.net/show/3130/</link>
+            <description>Featured tracks: Johnny Bemolle&#x27;s - Johnny</description>
+            <guid>https://archive.cchits.net/show/3130/</guid>
+            <pubDate>Fri, 16 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 15, 2016</title>
+            <link>https://archive.cchits.net/show/3129/</link>
+            <description>Featured tracks: Kinematic - Louder</description>
+            <guid>https://archive.cchits.net/show/3129/</guid>
+            <pubDate>Thu, 15 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 14, 2016</title>
+            <link>https://archive.cchits.net/show/3128/</link>
+            <description>Featured tracks: Explosive Ear Candy - My Favorite Escape</description>
+            <guid>https://archive.cchits.net/show/3128/</guid>
+            <pubDate>Wed, 14 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 13, 2016</title>
+            <link>https://archive.cchits.net/show/3127/</link>
+            <description>Featured tracks: Fresh Body Shop - Blazing Sunlight</description>
+            <guid>https://archive.cchits.net/show/3127/</guid>
+            <pubDate>Tue, 13 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 12, 2016</title>
+            <link>https://archive.cchits.net/show/3126/</link>
+            <description>Featured tracks: Steep - It Could Be You</description>
+            <guid>https://archive.cchits.net/show/3126/</guid>
+            <pubDate>Mon, 12 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 11, 2016</title>
+            <link>https://archive.cchits.net/show/3124/</link>
+            <description>Featured tracks: Sound Of Jack - Mr Sax</description>
+            <guid>https://archive.cchits.net/show/3124/</guid>
+            <pubDate>Sun, 11 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 10, 2016</title>
+            <link>https://archive.cchits.net/show/3123/</link>
+            <description>Featured tracks: Karissa Hobbs - White Flag</description>
+            <guid>https://archive.cchits.net/show/3123/</guid>
+            <pubDate>Sat, 10 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 09, 2016</title>
+            <link>https://archive.cchits.net/show/3121/</link>
+            <description>Featured tracks: Fuse - No Matter How You See It</description>
+            <guid>https://archive.cchits.net/show/3121/</guid>
+            <pubDate>Fri, 09 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 08, 2016</title>
+            <link>https://archive.cchits.net/show/3120/</link>
+            <description>Featured tracks: Three Lucky Seven - The Ride</description>
+            <guid>https://archive.cchits.net/show/3120/</guid>
+            <pubDate>Thu, 08 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 07, 2016</title>
+            <link>https://archive.cchits.net/show/3119/</link>
+            <description>Featured tracks: Niki J Crawford - No Fear</description>
+            <guid>https://archive.cchits.net/show/3119/</guid>
+            <pubDate>Wed, 07 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 06, 2016</title>
+            <link>https://archive.cchits.net/show/3118/</link>
+            <description>Featured tracks: Arrow &amp;amp; Olive - Whiskey Woman</description>
+            <guid>https://archive.cchits.net/show/3118/</guid>
+            <pubDate>Tue, 06 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 05, 2016</title>
+            <link>https://archive.cchits.net/show/3117/</link>
+            <description>Featured tracks: Cortland Goffena - The Numbers Game</description>
+            <guid>https://archive.cchits.net/show/3117/</guid>
+            <pubDate>Mon, 05 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 04, 2016</title>
+            <link>https://archive.cchits.net/show/3115/</link>
+            <description>Featured tracks: Tyler Adam - Take Action (Original Mix)</description>
+            <guid>https://archive.cchits.net/show/3115/</guid>
+            <pubDate>Sun, 04 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 03, 2016</title>
+            <link>https://archive.cchits.net/show/3114/</link>
+            <description>Featured tracks: Aniqatia - Like Leaves</description>
+            <guid>https://archive.cchits.net/show/3114/</guid>
+            <pubDate>Sat, 03 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 02, 2016</title>
+            <link>https://archive.cchits.net/show/3112/</link>
+            <description>Featured tracks: Black Ship Company - Outside of History</description>
+            <guid>https://archive.cchits.net/show/3112/</guid>
+            <pubDate>Fri, 02 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 01, 2016</title>
+            <link>https://archive.cchits.net/show/3111/</link>
+            <description>Featured tracks: Jeffrey Philip Nelson - Better Memories</description>
+            <guid>https://archive.cchits.net/show/3111/</guid>
+            <pubDate>Thu, 01 Sep 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 31, 2016</title>
+            <link>https://archive.cchits.net/show/3109/</link>
+            <description>Featured tracks: VOIC3S - People From The Underground</description>
+            <guid>https://archive.cchits.net/show/3109/</guid>
+            <pubDate>Wed, 31 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 30, 2016</title>
+            <link>https://archive.cchits.net/show/3108/</link>
+            <description>Featured tracks: CightNore - No No No</description>
+            <guid>https://archive.cchits.net/show/3108/</guid>
+            <pubDate>Tue, 30 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 29, 2016</title>
+            <link>https://archive.cchits.net/show/3107/</link>
+            <description>Featured tracks: The Mind Orchestra - Little Spirit</description>
+            <guid>https://archive.cchits.net/show/3107/</guid>
+            <pubDate>Mon, 29 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 28, 2016</title>
+            <link>https://archive.cchits.net/show/3105/</link>
+            <description>Featured tracks: Black Star - Fight</description>
+            <guid>https://archive.cchits.net/show/3105/</guid>
+            <pubDate>Sun, 28 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 27, 2016</title>
+            <link>https://archive.cchits.net/show/3104/</link>
+            <description>Featured tracks: Saint Jayne - Curses</description>
+            <guid>https://archive.cchits.net/show/3104/</guid>
+            <pubDate>Sat, 27 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 26, 2016</title>
+            <link>https://archive.cchits.net/show/3102/</link>
+            <description>Featured tracks: Sons Of Sin - The Dream</description>
+            <guid>https://archive.cchits.net/show/3102/</guid>
+            <pubDate>Fri, 26 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 25, 2016</title>
+            <link>https://archive.cchits.net/show/3101/</link>
+            <description>Featured tracks: Jon Maurer - Burning Bright</description>
+            <guid>https://archive.cchits.net/show/3101/</guid>
+            <pubDate>Thu, 25 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 24, 2016</title>
+            <link>https://archive.cchits.net/show/3100/</link>
+            <description>Featured tracks: Heartskin - Ocean</description>
+            <guid>https://archive.cchits.net/show/3100/</guid>
+            <pubDate>Wed, 24 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 23, 2016</title>
+            <link>https://archive.cchits.net/show/3099/</link>
+            <description>Featured tracks: Ty Andelman - Dancing Machine</description>
+            <guid>https://archive.cchits.net/show/3099/</guid>
+            <pubDate>Tue, 23 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 22, 2016</title>
+            <link>https://archive.cchits.net/show/3098/</link>
+            <description>Featured tracks: Asha Lightbearer - Love Knows the Way</description>
+            <guid>https://archive.cchits.net/show/3098/</guid>
+            <pubDate>Mon, 22 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 21, 2016</title>
+            <link>https://archive.cchits.net/show/3095/</link>
+            <description>Featured tracks: Luck - Le Choix</description>
+            <guid>https://archive.cchits.net/show/3095/</guid>
+            <pubDate>Sun, 21 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 20, 2016</title>
+            <link>https://archive.cchits.net/show/3094/</link>
+            <description>Featured tracks: Jespa - Belong To You</description>
+            <guid>https://archive.cchits.net/show/3094/</guid>
+            <pubDate>Sat, 20 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 19, 2016</title>
+            <link>https://archive.cchits.net/show/3093/</link>
+            <description>Featured tracks: Jemex - Over Me</description>
+            <guid>https://archive.cchits.net/show/3093/</guid>
+            <pubDate>Fri, 19 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 18, 2016</title>
+            <link>https://archive.cchits.net/show/3092/</link>
+            <description>Featured tracks: Yury - Moments</description>
+            <guid>https://archive.cchits.net/show/3092/</guid>
+            <pubDate>Thu, 18 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 17, 2016</title>
+            <link>https://archive.cchits.net/show/3091/</link>
+            <description>Featured tracks: Danielle Helena - Next</description>
+            <guid>https://archive.cchits.net/show/3091/</guid>
+            <pubDate>Wed, 17 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 16, 2016</title>
+            <link>https://archive.cchits.net/show/3090/</link>
+            <description>Featured tracks: Sean Fournier - nnm</description>
+            <guid>https://archive.cchits.net/show/3090/</guid>
+            <pubDate>Tue, 16 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 15, 2016</title>
+            <link>https://archive.cchits.net/show/3089/</link>
+            <description>Featured tracks: Leo Bowers - Born Of Love</description>
+            <guid>https://archive.cchits.net/show/3089/</guid>
+            <pubDate>Mon, 15 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 14, 2016</title>
+            <link>https://archive.cchits.net/show/3087/</link>
+            <description>Featured tracks: Portrayal - Departures</description>
+            <guid>https://archive.cchits.net/show/3087/</guid>
+            <pubDate>Sun, 14 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 13, 2016</title>
+            <link>https://archive.cchits.net/show/3086/</link>
+            <description>Featured tracks: Rusty Tea Makers - Hello</description>
+            <guid>https://archive.cchits.net/show/3086/</guid>
+            <pubDate>Sat, 13 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 12, 2016</title>
+            <link>https://archive.cchits.net/show/3084/</link>
+            <description>Featured tracks: T Bird and the Breaks - Blackberry Brandy</description>
+            <guid>https://archive.cchits.net/show/3084/</guid>
+            <pubDate>Fri, 12 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 11, 2016</title>
+            <link>https://archive.cchits.net/show/3083/</link>
+            <description>Featured tracks: Nick Varvaro - For Now</description>
+            <guid>https://archive.cchits.net/show/3083/</guid>
+            <pubDate>Thu, 11 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 10, 2016</title>
+            <link>https://archive.cchits.net/show/3082/</link>
+            <description>Featured tracks: Emerald Park - Liberteens</description>
+            <guid>https://archive.cchits.net/show/3082/</guid>
+            <pubDate>Wed, 10 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 09, 2016</title>
+            <link>https://archive.cchits.net/show/3081/</link>
+            <description>Featured tracks: Salim Chakroun - Lost In Oblivion</description>
+            <guid>https://archive.cchits.net/show/3081/</guid>
+            <pubDate>Tue, 09 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 08, 2016</title>
+            <link>https://archive.cchits.net/show/3080/</link>
+            <description>Featured tracks: Fullkimo - Par tous les temps</description>
+            <guid>https://archive.cchits.net/show/3080/</guid>
+            <pubDate>Mon, 08 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 07, 2016</title>
+            <link>https://archive.cchits.net/show/3078/</link>
+            <description>Featured tracks: Shearer - Insides Outsides</description>
+            <guid>https://archive.cchits.net/show/3078/</guid>
+            <pubDate>Sun, 07 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 06, 2016</title>
+            <link>https://archive.cchits.net/show/3077/</link>
+            <description>Featured tracks: Jara - Leather Jacket</description>
+            <guid>https://archive.cchits.net/show/3077/</guid>
+            <pubDate>Sat, 06 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 05, 2016</title>
+            <link>https://archive.cchits.net/show/3075/</link>
+            <description>Featured tracks: Cortland Goffena - Fault In My Stars</description>
+            <guid>https://archive.cchits.net/show/3075/</guid>
+            <pubDate>Fri, 05 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 04, 2016</title>
+            <link>https://archive.cchits.net/show/3074/</link>
+            <description>Featured tracks: Anna Jordan - She Dances</description>
+            <guid>https://archive.cchits.net/show/3074/</guid>
+            <pubDate>Thu, 04 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 03, 2016</title>
+            <link>https://archive.cchits.net/show/3073/</link>
+            <description>Featured tracks: Chord of Souls - Haunted</description>
+            <guid>https://archive.cchits.net/show/3073/</guid>
+            <pubDate>Wed, 03 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 02, 2016</title>
+            <link>https://archive.cchits.net/show/3072/</link>
+            <description>Featured tracks: Backnbloom - Empty Spaces</description>
+            <guid>https://archive.cchits.net/show/3072/</guid>
+            <pubDate>Tue, 02 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 01, 2016</title>
+            <link>https://archive.cchits.net/show/3071/</link>
+            <description>Featured tracks: Four - Youth</description>
+            <guid>https://archive.cchits.net/show/3071/</guid>
+            <pubDate>Mon, 01 Aug 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 31, 2016</title>
+            <link>https://archive.cchits.net/show/3068/</link>
+            <description>Featured tracks: Tarra Layne - Heated</description>
+            <guid>https://archive.cchits.net/show/3068/</guid>
+            <pubDate>Sun, 31 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 30, 2016</title>
+            <link>https://archive.cchits.net/show/3067/</link>
+            <description>Featured tracks: Futurelight - Back To You</description>
+            <guid>https://archive.cchits.net/show/3067/</guid>
+            <pubDate>Sat, 30 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 29, 2016</title>
+            <link>https://archive.cchits.net/show/3065/</link>
+            <description>Featured tracks: Lindsey White - Equinox</description>
+            <guid>https://archive.cchits.net/show/3065/</guid>
+            <pubDate>Fri, 29 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 28, 2016</title>
+            <link>https://archive.cchits.net/show/3064/</link>
+            <description>Featured tracks: Explosive Ear Candy - Do You Still Dream</description>
+            <guid>https://archive.cchits.net/show/3064/</guid>
+            <pubDate>Thu, 28 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 27, 2016</title>
+            <link>https://archive.cchits.net/show/3063/</link>
+            <description>Featured tracks: Julien Poirier - I Am</description>
+            <guid>https://archive.cchits.net/show/3063/</guid>
+            <pubDate>Wed, 27 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 26, 2016</title>
+            <link>https://archive.cchits.net/show/3062/</link>
+            <description>Featured tracks: Albin Andersson - Blind</description>
+            <guid>https://archive.cchits.net/show/3062/</guid>
+            <pubDate>Tue, 26 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 25, 2016</title>
+            <link>https://archive.cchits.net/show/3061/</link>
+            <description>Featured tracks: Malevo - Odio Odiar</description>
+            <guid>https://archive.cchits.net/show/3061/</guid>
+            <pubDate>Mon, 25 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 24, 2016</title>
+            <link>https://archive.cchits.net/show/3059/</link>
+            <description>Featured tracks: Antony Raijekov - When Waves Trying To Catch A Marvel</description>
+            <guid>https://archive.cchits.net/show/3059/</guid>
+            <pubDate>Sun, 24 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 23, 2016</title>
+            <link>https://archive.cchits.net/show/3058/</link>
+            <description>Featured tracks: Flat People - Sensitive Clumsy Astronaut</description>
+            <guid>https://archive.cchits.net/show/3058/</guid>
+            <pubDate>Sat, 23 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 22, 2016</title>
+            <link>https://archive.cchits.net/show/3056/</link>
+            <description>Featured tracks: JekK - Roses</description>
+            <guid>https://archive.cchits.net/show/3056/</guid>
+            <pubDate>Fri, 22 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 21, 2016</title>
+            <link>https://archive.cchits.net/show/3055/</link>
+            <description>Featured tracks: The Damn Tracks - Down Below</description>
+            <guid>https://archive.cchits.net/show/3055/</guid>
+            <pubDate>Thu, 21 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 20, 2016</title>
+            <link>https://archive.cchits.net/show/3054/</link>
+            <description>Featured tracks: Kattie - You Are Unstoppable</description>
+            <guid>https://archive.cchits.net/show/3054/</guid>
+            <pubDate>Wed, 20 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 19, 2016</title>
+            <link>https://archive.cchits.net/show/3053/</link>
+            <description>Featured tracks: Tyler Adam - Don&#x27;t Give Up (Original Mix)</description>
+            <guid>https://archive.cchits.net/show/3053/</guid>
+            <pubDate>Tue, 19 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 18, 2016</title>
+            <link>https://archive.cchits.net/show/3052/</link>
+            <description>Featured tracks: Daniel Catarino - Life After Grief</description>
+            <guid>https://archive.cchits.net/show/3052/</guid>
+            <pubDate>Mon, 18 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 17, 2016</title>
+            <link>https://archive.cchits.net/show/3050/</link>
+            <description>Featured tracks: Niki J Crawford - Get Up</description>
+            <guid>https://archive.cchits.net/show/3050/</guid>
+            <pubDate>Sun, 17 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 16, 2016</title>
+            <link>https://archive.cchits.net/show/3049/</link>
+            <description>Featured tracks: Light Among Shadows - Children of the Underworld</description>
+            <guid>https://archive.cchits.net/show/3049/</guid>
+            <pubDate>Sat, 16 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 15, 2016</title>
+            <link>https://archive.cchits.net/show/3048/</link>
+            <description>Featured tracks: Amanda Palmer &amp; The Grand Theft Orchestra - Do It With A Rockstar</description>
+            <guid>https://archive.cchits.net/show/3048/</guid>
+            <pubDate>Fri, 15 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 14, 2016</title>
+            <link>https://archive.cchits.net/show/3046/</link>
+            <description>Featured tracks: Lawrence Beamen - Round And Round</description>
+            <guid>https://archive.cchits.net/show/3046/</guid>
+            <pubDate>Thu, 14 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 13, 2016</title>
+            <link>https://archive.cchits.net/show/3045/</link>
+            <description>Featured tracks: Michael Harren - Mango</description>
+            <guid>https://archive.cchits.net/show/3045/</guid>
+            <pubDate>Wed, 13 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 12, 2016</title>
+            <link>https://archive.cchits.net/show/3044/</link>
+            <description>Featured tracks: Heifervescent - Seriously, What&#x27;s the Rush ?</description>
+            <guid>https://archive.cchits.net/show/3044/</guid>
+            <pubDate>Tue, 12 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 11, 2016</title>
+            <link>https://archive.cchits.net/show/3043/</link>
+            <description>Featured tracks: Blue Wave Theory - Lava Spout</description>
+            <guid>https://archive.cchits.net/show/3043/</guid>
+            <pubDate>Mon, 11 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 10, 2016</title>
+            <link>https://archive.cchits.net/show/3041/</link>
+            <description>Featured tracks: Deadly Past - Memories</description>
+            <guid>https://archive.cchits.net/show/3041/</guid>
+            <pubDate>Sun, 10 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 09, 2016</title>
+            <link>https://archive.cchits.net/show/3040/</link>
+            <description>Featured tracks: Over All Brothers - Dance</description>
+            <guid>https://archive.cchits.net/show/3040/</guid>
+            <pubDate>Sat, 09 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 08, 2016</title>
+            <link>https://archive.cchits.net/show/3038/</link>
+            <description>Featured tracks: Those Things - 1985</description>
+            <guid>https://archive.cchits.net/show/3038/</guid>
+            <pubDate>Fri, 08 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 07, 2016</title>
+            <link>https://archive.cchits.net/show/3037/</link>
+            <description>Featured tracks: Jasmine Jordan - Time Travel (feat. Blanchard De Wave)</description>
+            <guid>https://archive.cchits.net/show/3037/</guid>
+            <pubDate>Thu, 07 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 06, 2016</title>
+            <link>https://archive.cchits.net/show/3036/</link>
+            <description>Featured tracks: Ty Andelman - Midnight Mind</description>
+            <guid>https://archive.cchits.net/show/3036/</guid>
+            <pubDate>Wed, 06 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 05, 2016</title>
+            <link>https://archive.cchits.net/show/3035/</link>
+            <description>Featured tracks: Devyn Rose - Very Merry Christmas</description>
+            <guid>https://archive.cchits.net/show/3035/</guid>
+            <pubDate>Tue, 05 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 04, 2016</title>
+            <link>https://archive.cchits.net/show/3034/</link>
+            <description>Featured tracks: Les Dud - Dudic Life Reloaded</description>
+            <guid>https://archive.cchits.net/show/3034/</guid>
+            <pubDate>Mon, 04 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 03, 2016</title>
+            <link>https://archive.cchits.net/show/3032/</link>
+            <description>Featured tracks: DisH - Grave Digger</description>
+            <guid>https://archive.cchits.net/show/3032/</guid>
+            <pubDate>Sun, 03 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 02, 2016</title>
+            <link>https://archive.cchits.net/show/3030/</link>
+            <description>Featured tracks: StrangeZero - Nanofly</description>
+            <guid>https://archive.cchits.net/show/3030/</guid>
+            <pubDate>Sat, 02 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 01, 2016</title>
+            <link>https://archive.cchits.net/show/3029/</link>
+            <description>Featured tracks: Overuse - Pause</description>
+            <guid>https://archive.cchits.net/show/3029/</guid>
+            <pubDate>Fri, 01 Jul 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 30, 2016</title>
+            <link>https://archive.cchits.net/show/3027/</link>
+            <description>Featured tracks: Cortland Goffena - Inside Of Me</description>
+            <guid>https://archive.cchits.net/show/3027/</guid>
+            <pubDate>Thu, 30 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 29, 2016</title>
+            <link>https://archive.cchits.net/show/3026/</link>
+            <description>Featured tracks: Antarhes - Still Fighting</description>
+            <guid>https://archive.cchits.net/show/3026/</guid>
+            <pubDate>Wed, 29 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 28, 2016</title>
+            <link>https://archive.cchits.net/show/3025/</link>
+            <description>Featured tracks: Vienna Ditto - Feeling Good</description>
+            <guid>https://archive.cchits.net/show/3025/</guid>
+            <pubDate>Tue, 28 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 27, 2016</title>
+            <link>https://archive.cchits.net/show/3024/</link>
+            <description>Featured tracks: Slow Corpse - Moons</description>
+            <guid>https://archive.cchits.net/show/3024/</guid>
+            <pubDate>Mon, 27 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 26, 2016</title>
+            <link>https://archive.cchits.net/show/3022/</link>
+            <description>Featured tracks: Fuse - People</description>
+            <guid>https://archive.cchits.net/show/3022/</guid>
+            <pubDate>Sun, 26 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 25, 2016</title>
+            <link>https://archive.cchits.net/show/3021/</link>
+            <description>Featured tracks: Ice On Fire - Like The Ice On Fire</description>
+            <guid>https://archive.cchits.net/show/3021/</guid>
+            <pubDate>Sat, 25 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 24, 2016</title>
+            <link>https://archive.cchits.net/show/3019/</link>
+            <description>Featured tracks: Taiwo Heard - Cyclone</description>
+            <guid>https://archive.cchits.net/show/3019/</guid>
+            <pubDate>Fri, 24 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 23, 2016</title>
+            <link>https://archive.cchits.net/show/3018/</link>
+            <description>Featured tracks: Sean Daygo - Because of You</description>
+            <guid>https://archive.cchits.net/show/3018/</guid>
+            <pubDate>Thu, 23 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 22, 2016</title>
+            <link>https://archive.cchits.net/show/3017/</link>
+            <description>Featured tracks: Kinematic - Come Into The Light</description>
+            <guid>https://archive.cchits.net/show/3017/</guid>
+            <pubDate>Wed, 22 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 21, 2016</title>
+            <link>https://archive.cchits.net/show/3016/</link>
+            <description>Featured tracks: madelyniris - Adventure</description>
+            <guid>https://archive.cchits.net/show/3016/</guid>
+            <pubDate>Tue, 21 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 20, 2016</title>
+            <link>https://archive.cchits.net/show/3015/</link>
+            <description>Featured tracks: Deep Down Inside - The Kite</description>
+            <guid>https://archive.cchits.net/show/3015/</guid>
+            <pubDate>Mon, 20 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 19, 2016</title>
+            <link>https://archive.cchits.net/show/3013/</link>
+            <description>Featured tracks: Sterling Fox - Ghost</description>
+            <guid>https://archive.cchits.net/show/3013/</guid>
+            <pubDate>Sun, 19 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 18, 2016</title>
+            <link>https://archive.cchits.net/show/3012/</link>
+            <description>Featured tracks: Joshua Ticsay - Blue Neighbourhood</description>
+            <guid>https://archive.cchits.net/show/3012/</guid>
+            <pubDate>Sat, 18 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 17, 2016</title>
+            <link>https://archive.cchits.net/show/3010/</link>
+            <description>Featured tracks: AJC &amp; The Envelope Pushers - Dreams</description>
+            <guid>https://archive.cchits.net/show/3010/</guid>
+            <pubDate>Fri, 17 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 16, 2016</title>
+            <link>https://archive.cchits.net/show/3009/</link>
+            <description>Featured tracks: The Prefab Messiahs - Weirdoz Everywhere</description>
+            <guid>https://archive.cchits.net/show/3009/</guid>
+            <pubDate>Thu, 16 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 15, 2016</title>
+            <link>https://archive.cchits.net/show/3008/</link>
+            <description>Featured tracks: Heartskin - Take Me</description>
+            <guid>https://archive.cchits.net/show/3008/</guid>
+            <pubDate>Wed, 15 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 14, 2016</title>
+            <link>https://archive.cchits.net/show/3007/</link>
+            <description>Featured tracks: Nicolas Falcon - Big Big Boss</description>
+            <guid>https://archive.cchits.net/show/3007/</guid>
+            <pubDate>Tue, 14 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 13, 2016</title>
+            <link>https://archive.cchits.net/show/3006/</link>
+            <description>Featured tracks: AJC &amp;amp; The Envelope Pushers - Fallen Star</description>
+            <guid>https://archive.cchits.net/show/3006/</guid>
+            <pubDate>Mon, 13 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 12, 2016</title>
+            <link>https://archive.cchits.net/show/3004/</link>
+            <description>Featured tracks: Liv Margaret - Spinning</description>
+            <guid>https://archive.cchits.net/show/3004/</guid>
+            <pubDate>Sun, 12 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 11, 2016</title>
+            <link>https://archive.cchits.net/show/3003/</link>
+            <description>Featured tracks: Futurelight - Better Place</description>
+            <guid>https://archive.cchits.net/show/3003/</guid>
+            <pubDate>Sat, 11 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 10, 2016</title>
+            <link>https://archive.cchits.net/show/3002/</link>
+            <description>Featured tracks: The Kyoto Connection - Samurai Spirit</description>
+            <guid>https://archive.cchits.net/show/3002/</guid>
+            <pubDate>Fri, 10 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 09, 2016</title>
+            <link>https://archive.cchits.net/show/3001/</link>
+            <description>Featured tracks: Josh Woodward - Half-Life</description>
+            <guid>https://archive.cchits.net/show/3001/</guid>
+            <pubDate>Thu, 09 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 08, 2016</title>
+            <link>https://archive.cchits.net/show/2999/</link>
+            <description>Featured tracks: Relict - Один</description>
+            <guid>https://archive.cchits.net/show/2999/</guid>
+            <pubDate>Wed, 08 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 07, 2016</title>
+            <link>https://archive.cchits.net/show/2998/</link>
+            <description>Featured tracks: Mr Dutilleul - The Man Who Would Not Commit</description>
+            <guid>https://archive.cchits.net/show/2998/</guid>
+            <pubDate>Tue, 07 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 06, 2016</title>
+            <link>https://archive.cchits.net/show/2997/</link>
+            <description>Featured tracks: Elysian Bailey - Every Time</description>
+            <guid>https://archive.cchits.net/show/2997/</guid>
+            <pubDate>Mon, 06 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 05, 2016</title>
+            <link>https://archive.cchits.net/show/2995/</link>
+            <description>Featured tracks: SugarLab - Dernier Verre</description>
+            <guid>https://archive.cchits.net/show/2995/</guid>
+            <pubDate>Sun, 05 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 04, 2016</title>
+            <link>https://archive.cchits.net/show/2994/</link>
+            <description>Featured tracks: Abscondo - Blue House</description>
+            <guid>https://archive.cchits.net/show/2994/</guid>
+            <pubDate>Sat, 04 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 03, 2016</title>
+            <link>https://archive.cchits.net/show/2992/</link>
+            <description>Featured tracks: Quietly Concerned - Life In Pursuit</description>
+            <guid>https://archive.cchits.net/show/2992/</guid>
+            <pubDate>Fri, 03 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 02, 2016</title>
+            <link>https://archive.cchits.net/show/2991/</link>
+            <description>Featured tracks: Port Of Est - Transparent</description>
+            <guid>https://archive.cchits.net/show/2991/</guid>
+            <pubDate>Thu, 02 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 01, 2016</title>
+            <link>https://archive.cchits.net/show/2989/</link>
+            <description>Featured tracks: Röntgenschall - Almost Real Joy</description>
+            <guid>https://archive.cchits.net/show/2989/</guid>
+            <pubDate>Wed, 01 Jun 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 31, 2016</title>
+            <link>https://archive.cchits.net/show/2987/</link>
+            <description>Featured tracks: ProleteR - Inna</description>
+            <guid>https://archive.cchits.net/show/2987/</guid>
+            <pubDate>Tue, 31 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 30, 2016</title>
+            <link>https://archive.cchits.net/show/2985/</link>
+            <description>Featured tracks: George Loukissas - Hear My Roar</description>
+            <guid>https://archive.cchits.net/show/2985/</guid>
+            <pubDate>Mon, 30 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 29, 2016</title>
+            <link>https://archive.cchits.net/show/2983/</link>
+            <description>Featured tracks: Heroes - The Circles</description>
+            <guid>https://archive.cchits.net/show/2983/</guid>
+            <pubDate>Sun, 29 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 28, 2016</title>
+            <link>https://archive.cchits.net/show/2982/</link>
+            <description>Featured tracks: MindFlow - Under an Alias - MindFlow</description>
+            <guid>https://archive.cchits.net/show/2982/</guid>
+            <pubDate>Sat, 28 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 27, 2016</title>
+            <link>https://archive.cchits.net/show/2981/</link>
+            <description>Featured tracks: Enemy Jack - An Awesome End</description>
+            <guid>https://archive.cchits.net/show/2981/</guid>
+            <pubDate>Fri, 27 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 26, 2016</title>
+            <link>https://archive.cchits.net/show/2979/</link>
+            <description>Featured tracks: Potta - Skibidubap</description>
+            <guid>https://archive.cchits.net/show/2979/</guid>
+            <pubDate>Thu, 26 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 25, 2016</title>
+            <link>https://archive.cchits.net/show/2978/</link>
+            <description>Featured tracks: Obsidian Shell - Fear</description>
+            <guid>https://archive.cchits.net/show/2978/</guid>
+            <pubDate>Wed, 25 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 24, 2016</title>
+            <link>https://archive.cchits.net/show/2977/</link>
+            <description>Featured tracks: Mel&#x27;s - Hey Girl (english version)</description>
+            <guid>https://archive.cchits.net/show/2977/</guid>
+            <pubDate>Tue, 24 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 23, 2016</title>
+            <link>https://archive.cchits.net/show/2976/</link>
+            <description>Featured tracks: Kévin Bourgey - A chacun sa peine</description>
+            <guid>https://archive.cchits.net/show/2976/</guid>
+            <pubDate>Mon, 23 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 22, 2016</title>
+            <link>https://archive.cchits.net/show/2974/</link>
+            <description>Featured tracks: germain - Saison Morte</description>
+            <guid>https://archive.cchits.net/show/2974/</guid>
+            <pubDate>Sun, 22 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 21, 2016</title>
+            <link>https://archive.cchits.net/show/2973/</link>
+            <description>Featured tracks: Thoola - Echoes</description>
+            <guid>https://archive.cchits.net/show/2973/</guid>
+            <pubDate>Sat, 21 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 20, 2016</title>
+            <link>https://archive.cchits.net/show/2971/</link>
+            <description>Featured tracks: Sweet Play - Lonely</description>
+            <guid>https://archive.cchits.net/show/2971/</guid>
+            <pubDate>Fri, 20 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 19, 2016</title>
+            <link>https://archive.cchits.net/show/2970/</link>
+            <description>Featured tracks: ...anabase* - L&#x27;équation Chimique</description>
+            <guid>https://archive.cchits.net/show/2970/</guid>
+            <pubDate>Thu, 19 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 18, 2016</title>
+            <link>https://archive.cchits.net/show/2969/</link>
+            <description>Featured tracks: The Insorribles - Not As I Imagined</description>
+            <guid>https://archive.cchits.net/show/2969/</guid>
+            <pubDate>Wed, 18 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 17, 2016</title>
+            <link>https://archive.cchits.net/show/2968/</link>
+            <description>Featured tracks: Inspired and the Sleep - Sleeps Well On Knives</description>
+            <guid>https://archive.cchits.net/show/2968/</guid>
+            <pubDate>Tue, 17 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 16, 2016</title>
+            <link>https://archive.cchits.net/show/2966/</link>
+            <description>Featured tracks: Arrow &amp;amp; Olive - Black &amp;amp; White</description>
+            <guid>https://archive.cchits.net/show/2966/</guid>
+            <pubDate>Mon, 16 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 15, 2016</title>
+            <link>https://archive.cchits.net/show/2964/</link>
+            <description>Featured tracks: The Environment - GMT</description>
+            <guid>https://archive.cchits.net/show/2964/</guid>
+            <pubDate>Sun, 15 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 14, 2016</title>
+            <link>https://archive.cchits.net/show/2963/</link>
+            <description>Featured tracks: Far Magic - NoRaNeKo Rhythm</description>
+            <guid>https://archive.cchits.net/show/2963/</guid>
+            <pubDate>Sat, 14 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 13, 2016</title>
+            <link>https://archive.cchits.net/show/2961/</link>
+            <description>Featured tracks: Port Of Est - Valentine In My Headphones</description>
+            <guid>https://archive.cchits.net/show/2961/</guid>
+            <pubDate>Fri, 13 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 12, 2016</title>
+            <link>https://archive.cchits.net/show/2960/</link>
+            <description>Featured tracks: Jay Hollin - Monster</description>
+            <guid>https://archive.cchits.net/show/2960/</guid>
+            <pubDate>Thu, 12 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 11, 2016</title>
+            <link>https://archive.cchits.net/show/2959/</link>
+            <description>Featured tracks: The Evil O&#x27;Brians - Do The Skeleton</description>
+            <guid>https://archive.cchits.net/show/2959/</guid>
+            <pubDate>Wed, 11 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 10, 2016</title>
+            <link>https://archive.cchits.net/show/2958/</link>
+            <description>Featured tracks: Lawrence Beamen - The Christmas Song</description>
+            <guid>https://archive.cchits.net/show/2958/</guid>
+            <pubDate>Tue, 10 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 09, 2016</title>
+            <link>https://archive.cchits.net/show/2957/</link>
+            <description>Featured tracks: Maverick - Cat Got Your Tongue</description>
+            <guid>https://archive.cchits.net/show/2957/</guid>
+            <pubDate>Mon, 09 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 08, 2016</title>
+            <link>https://archive.cchits.net/show/2955/</link>
+            <description>Featured tracks: Shearer - The Future Is Lost</description>
+            <guid>https://archive.cchits.net/show/2955/</guid>
+            <pubDate>Sun, 08 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 07, 2016</title>
+            <link>https://archive.cchits.net/show/2954/</link>
+            <description>Featured tracks: Roller Genoa - Safe And Warm In Hunter&#x27;s Arms</description>
+            <guid>https://archive.cchits.net/show/2954/</guid>
+            <pubDate>Sat, 07 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 06, 2016</title>
+            <link>https://archive.cchits.net/show/2952/</link>
+            <description>Featured tracks: JekK - First</description>
+            <guid>https://archive.cchits.net/show/2952/</guid>
+            <pubDate>Fri, 06 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 05, 2016</title>
+            <link>https://archive.cchits.net/show/2951/</link>
+            <description>Featured tracks: Chip Ray - Abandoned</description>
+            <guid>https://archive.cchits.net/show/2951/</guid>
+            <pubDate>Thu, 05 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 04, 2016</title>
+            <link>https://archive.cchits.net/show/2950/</link>
+            <description>Featured tracks: Robert Avellanet - When I Have You</description>
+            <guid>https://archive.cchits.net/show/2950/</guid>
+            <pubDate>Wed, 04 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 03, 2016</title>
+            <link>https://archive.cchits.net/show/2949/</link>
+            <description>Featured tracks: Devon Elizabeth - If Only</description>
+            <guid>https://archive.cchits.net/show/2949/</guid>
+            <pubDate>Tue, 03 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 02, 2016</title>
+            <link>https://archive.cchits.net/show/2948/</link>
+            <description>Featured tracks: Moon I Mean - Paradise</description>
+            <guid>https://archive.cchits.net/show/2948/</guid>
+            <pubDate>Mon, 02 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 01, 2016</title>
+            <link>https://archive.cchits.net/show/2945/</link>
+            <description>Featured tracks: Wild Freedom - I Am (What You&#x27;re Afraid To Be)</description>
+            <guid>https://archive.cchits.net/show/2945/</guid>
+            <pubDate>Sun, 01 May 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 30, 2016</title>
+            <link>https://archive.cchits.net/show/2943/</link>
+            <description>Featured tracks: Danie Nel - Stone</description>
+            <guid>https://archive.cchits.net/show/2943/</guid>
+            <pubDate>Sat, 30 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 29, 2016</title>
+            <link>https://archive.cchits.net/show/2942/</link>
+            <description>Featured tracks: Bella Ruse - Hold Me Close</description>
+            <guid>https://archive.cchits.net/show/2942/</guid>
+            <pubDate>Fri, 29 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 28, 2016</title>
+            <link>https://archive.cchits.net/show/2940/</link>
+            <description>Featured tracks: Mister Sir - Pick Me Up (Stage N1)</description>
+            <guid>https://archive.cchits.net/show/2940/</guid>
+            <pubDate>Thu, 28 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 27, 2016</title>
+            <link>https://archive.cchits.net/show/2939/</link>
+            <description>Featured tracks: Bad With Names - Blankets</description>
+            <guid>https://archive.cchits.net/show/2939/</guid>
+            <pubDate>Wed, 27 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 26, 2016</title>
+            <link>https://archive.cchits.net/show/2938/</link>
+            <description>Featured tracks: Color Out - Ghosts</description>
+            <guid>https://archive.cchits.net/show/2938/</guid>
+            <pubDate>Tue, 26 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 25, 2016</title>
+            <link>https://archive.cchits.net/show/2937/</link>
+            <description>Featured tracks: Rinzo &amp; The Hey Hey Panthers - Run Run Superman</description>
+            <guid>https://archive.cchits.net/show/2937/</guid>
+            <pubDate>Mon, 25 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 24, 2016</title>
+            <link>https://archive.cchits.net/show/2935/</link>
+            <description>Featured tracks: Obsidian Shell - Vadon Rejteke</description>
+            <guid>https://archive.cchits.net/show/2935/</guid>
+            <pubDate>Sun, 24 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 23, 2016</title>
+            <link>https://archive.cchits.net/show/2934/</link>
+            <description>Featured tracks: Black Cougars - Political Correct</description>
+            <guid>https://archive.cchits.net/show/2934/</guid>
+            <pubDate>Sat, 23 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 22, 2016</title>
+            <link>https://archive.cchits.net/show/2933/</link>
+            <description>Featured tracks: David Amber - Smile</description>
+            <guid>https://archive.cchits.net/show/2933/</guid>
+            <pubDate>Fri, 22 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 21, 2016</title>
+            <link>https://archive.cchits.net/show/2931/</link>
+            <description>Featured tracks: Antagònics - Freedom</description>
+            <guid>https://archive.cchits.net/show/2931/</guid>
+            <pubDate>Thu, 21 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 20, 2016</title>
+            <link>https://archive.cchits.net/show/2930/</link>
+            <description>Featured tracks: Sean Brookes - You</description>
+            <guid>https://archive.cchits.net/show/2930/</guid>
+            <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 19, 2016</title>
+            <link>https://archive.cchits.net/show/2929/</link>
+            <description>Featured tracks: Townhouse Woods - Deerfield Lake</description>
+            <guid>https://archive.cchits.net/show/2929/</guid>
+            <pubDate>Tue, 19 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 18, 2016</title>
+            <link>https://archive.cchits.net/show/2928/</link>
+            <description>Featured tracks: Introversia - Sintomo</description>
+            <guid>https://archive.cchits.net/show/2928/</guid>
+            <pubDate>Mon, 18 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 17, 2016</title>
+            <link>https://archive.cchits.net/show/2926/</link>
+            <description>Featured tracks: Modern Pitch - Eye Of The Storm</description>
+            <guid>https://archive.cchits.net/show/2926/</guid>
+            <pubDate>Sun, 17 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 16, 2016</title>
+            <link>https://archive.cchits.net/show/2925/</link>
+            <description>Featured tracks: Jeffrey Philip Nelson - Joy To The World</description>
+            <guid>https://archive.cchits.net/show/2925/</guid>
+            <pubDate>Sat, 16 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 15, 2016</title>
+            <link>https://archive.cchits.net/show/2923/</link>
+            <description>Featured tracks: Emerald Park - Graduation Failed</description>
+            <guid>https://archive.cchits.net/show/2923/</guid>
+            <pubDate>Fri, 15 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 14, 2016</title>
+            <link>https://archive.cchits.net/show/2922/</link>
+            <description>Featured tracks: Nate Maingard - 9 Lives (Cat&#x27;s Got Time)</description>
+            <guid>https://archive.cchits.net/show/2922/</guid>
+            <pubDate>Thu, 14 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 13, 2016</title>
+            <link>https://archive.cchits.net/show/2921/</link>
+            <description>Featured tracks: NEW$HOES - Strm</description>
+            <guid>https://archive.cchits.net/show/2921/</guid>
+            <pubDate>Wed, 13 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 12, 2016</title>
+            <link>https://archive.cchits.net/show/2920/</link>
+            <description>Featured tracks: Michael Ellis - Merry Christmas, Mr Moffatt</description>
+            <guid>https://archive.cchits.net/show/2920/</guid>
+            <pubDate>Tue, 12 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 11, 2016</title>
+            <link>https://archive.cchits.net/show/2919/</link>
+            <description>Featured tracks: Karissa Hobbs - Age Of Flowers</description>
+            <guid>https://archive.cchits.net/show/2919/</guid>
+            <pubDate>Mon, 11 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 10, 2016</title>
+            <link>https://archive.cchits.net/show/2917/</link>
+            <description>Featured tracks: Talking Machine - Can You Feel It</description>
+            <guid>https://archive.cchits.net/show/2917/</guid>
+            <pubDate>Sun, 10 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 09, 2016</title>
+            <link>https://archive.cchits.net/show/2916/</link>
+            <description>Featured tracks: Jessie - Reggae Lovers</description>
+            <guid>https://archive.cchits.net/show/2916/</guid>
+            <pubDate>Sat, 09 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 08, 2016</title>
+            <link>https://archive.cchits.net/show/2914/</link>
+            <description>Featured tracks: Kate Orange - Carols Of The Bells</description>
+            <guid>https://archive.cchits.net/show/2914/</guid>
+            <pubDate>Fri, 08 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 07, 2016</title>
+            <link>https://archive.cchits.net/show/2913/</link>
+            <description>Featured tracks: The Dream Pop Project - Afraid To Love</description>
+            <guid>https://archive.cchits.net/show/2913/</guid>
+            <pubDate>Thu, 07 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 06, 2016</title>
+            <link>https://archive.cchits.net/show/2912/</link>
+            <description>Featured tracks: The Romantic Era - Alone</description>
+            <guid>https://archive.cchits.net/show/2912/</guid>
+            <pubDate>Wed, 06 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 05, 2016</title>
+            <link>https://archive.cchits.net/show/2911/</link>
+            <description>Featured tracks: The Big East - I Can&#x27;t Let Go</description>
+            <guid>https://archive.cchits.net/show/2911/</guid>
+            <pubDate>Tue, 05 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 04, 2016</title>
+            <link>https://archive.cchits.net/show/2910/</link>
+            <description>Featured tracks: Roller Genoa - Little Liar</description>
+            <guid>https://archive.cchits.net/show/2910/</guid>
+            <pubDate>Mon, 04 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 03, 2016</title>
+            <link>https://archive.cchits.net/show/2908/</link>
+            <description>Featured tracks: Manhat10 - Fine</description>
+            <guid>https://archive.cchits.net/show/2908/</guid>
+            <pubDate>Sun, 03 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 02, 2016</title>
+            <link>https://archive.cchits.net/show/2907/</link>
+            <description>Featured tracks: Eleison Band - Junto A Mi</description>
+            <guid>https://archive.cchits.net/show/2907/</guid>
+            <pubDate>Sat, 02 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 01, 2016</title>
+            <link>https://archive.cchits.net/show/2905/</link>
+            <description>Featured tracks: Draco and the Zodiac - Shadows</description>
+            <guid>https://archive.cchits.net/show/2905/</guid>
+            <pubDate>Fri, 01 Apr 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 31, 2016</title>
+            <link>https://archive.cchits.net/show/2903/</link>
+            <description>Featured tracks: Emily Richards - Let&#x27;s Pretend</description>
+            <guid>https://archive.cchits.net/show/2903/</guid>
+            <pubDate>Thu, 31 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 30, 2016</title>
+            <link>https://archive.cchits.net/show/2902/</link>
+            <description>Featured tracks: Nicole-Marie - If You&#x27;re In Heaven</description>
+            <guid>https://archive.cchits.net/show/2902/</guid>
+            <pubDate>Wed, 30 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 29, 2016</title>
+            <link>https://archive.cchits.net/show/2901/</link>
+            <description>Featured tracks: Conway Hambone - Boot Full Of Blues</description>
+            <guid>https://archive.cchits.net/show/2901/</guid>
+            <pubDate>Tue, 29 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 28, 2016</title>
+            <link>https://archive.cchits.net/show/2900/</link>
+            <description>Featured tracks: Great White Buffalo - Detroit</description>
+            <guid>https://archive.cchits.net/show/2900/</guid>
+            <pubDate>Mon, 28 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 27, 2016</title>
+            <link>https://archive.cchits.net/show/2898/</link>
+            <description>Featured tracks: The New Valleys - She&#x27;s Everything</description>
+            <guid>https://archive.cchits.net/show/2898/</guid>
+            <pubDate>Sun, 27 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 26, 2016</title>
+            <link>https://archive.cchits.net/show/2897/</link>
+            <description>Featured tracks: 1984 - Cache-Cache</description>
+            <guid>https://archive.cchits.net/show/2897/</guid>
+            <pubDate>Sat, 26 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 25, 2016</title>
+            <link>https://archive.cchits.net/show/2895/</link>
+            <description>Featured tracks: aliveway - Stars</description>
+            <guid>https://archive.cchits.net/show/2895/</guid>
+            <pubDate>Fri, 25 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 24, 2016</title>
+            <link>https://archive.cchits.net/show/2894/</link>
+            <description>Featured tracks: Colaars - Hurricane</description>
+            <guid>https://archive.cchits.net/show/2894/</guid>
+            <pubDate>Thu, 24 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 23, 2016</title>
+            <link>https://archive.cchits.net/show/2893/</link>
+            <description>Featured tracks: Now Endeavor - Dirt Road Path</description>
+            <guid>https://archive.cchits.net/show/2893/</guid>
+            <pubDate>Wed, 23 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 22, 2016</title>
+            <link>https://archive.cchits.net/show/2892/</link>
+            <description>Featured tracks: Brigitte Bop - Punk Rock Show</description>
+            <guid>https://archive.cchits.net/show/2892/</guid>
+            <pubDate>Tue, 22 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 21, 2016</title>
+            <link>https://archive.cchits.net/show/2891/</link>
+            <description>Featured tracks: Dead Relic - Blindness remains</description>
+            <guid>https://archive.cchits.net/show/2891/</guid>
+            <pubDate>Mon, 21 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 20, 2016</title>
+            <link>https://archive.cchits.net/show/2889/</link>
+            <description>Featured tracks: Maze Of The Globe - Rock&#x27;n&#x27;Roll Band</description>
+            <guid>https://archive.cchits.net/show/2889/</guid>
+            <pubDate>Sun, 20 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 19, 2016</title>
+            <link>https://archive.cchits.net/show/2888/</link>
+            <description>Featured tracks: Jokriss - Back When</description>
+            <guid>https://archive.cchits.net/show/2888/</guid>
+            <pubDate>Sat, 19 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 18, 2016</title>
+            <link>https://archive.cchits.net/show/2886/</link>
+            <description>Featured tracks: The Rinn - Voices</description>
+            <guid>https://archive.cchits.net/show/2886/</guid>
+            <pubDate>Fri, 18 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 17, 2016</title>
+            <link>https://archive.cchits.net/show/2885/</link>
+            <description>Featured tracks: Lorenzo&#x27;s Music - God Rest Ye Merry Gentlemen</description>
+            <guid>https://archive.cchits.net/show/2885/</guid>
+            <pubDate>Thu, 17 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 16, 2016</title>
+            <link>https://archive.cchits.net/show/2884/</link>
+            <description>Featured tracks: Heifervescent - Colder Than The Edge Of Space</description>
+            <guid>https://archive.cchits.net/show/2884/</guid>
+            <pubDate>Wed, 16 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 15, 2016</title>
+            <link>https://archive.cchits.net/show/2883/</link>
+            <description>Featured tracks: Marcello Correa e Castro - Ponta De Faca</description>
+            <guid>https://archive.cchits.net/show/2883/</guid>
+            <pubDate>Tue, 15 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 14, 2016</title>
+            <link>https://archive.cchits.net/show/2882/</link>
+            <description>Featured tracks: ccMixter - Noel (Snowflake Mix feat. Frozen Silence)</description>
+            <guid>https://archive.cchits.net/show/2882/</guid>
+            <pubDate>Mon, 14 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 13, 2016</title>
+            <link>https://archive.cchits.net/show/2880/</link>
+            <description>Featured tracks: Brandon Liew - All Out Of Time</description>
+            <guid>https://archive.cchits.net/show/2880/</guid>
+            <pubDate>Sun, 13 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 12, 2016</title>
+            <link>https://archive.cchits.net/show/2879/</link>
+            <description>Featured tracks: Albin Andersson - Mayfly</description>
+            <guid>https://archive.cchits.net/show/2879/</guid>
+            <pubDate>Sat, 12 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 11, 2016</title>
+            <link>https://archive.cchits.net/show/2877/</link>
+            <description>Featured tracks: Seba Lay - Piedra Sobre Piedra</description>
+            <guid>https://archive.cchits.net/show/2877/</guid>
+            <pubDate>Fri, 11 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 10, 2016</title>
+            <link>https://archive.cchits.net/show/2876/</link>
+            <description>Featured tracks: Arrow &amp;amp; Olive - Our Place</description>
+            <guid>https://archive.cchits.net/show/2876/</guid>
+            <pubDate>Thu, 10 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 09, 2016</title>
+            <link>https://archive.cchits.net/show/2875/</link>
+            <description>Featured tracks: enry - Look At Me</description>
+            <guid>https://archive.cchits.net/show/2875/</guid>
+            <pubDate>Wed, 09 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 08, 2016</title>
+            <link>https://archive.cchits.net/show/2874/</link>
+            <description>Featured tracks: The Samuel Band - Demon</description>
+            <guid>https://archive.cchits.net/show/2874/</guid>
+            <pubDate>Tue, 08 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 07, 2016</title>
+            <link>https://archive.cchits.net/show/2873/</link>
+            <description>Featured tracks: Maze - Randall Scandal</description>
+            <guid>https://archive.cchits.net/show/2873/</guid>
+            <pubDate>Mon, 07 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 06, 2016</title>
+            <link>https://archive.cchits.net/show/2871/</link>
+            <description>Featured tracks: Psychostasia - Jonesin</description>
+            <guid>https://archive.cchits.net/show/2871/</guid>
+            <pubDate>Sun, 06 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 05, 2016</title>
+            <link>https://archive.cchits.net/show/2870/</link>
+            <description>Featured tracks: Zapple Pie - I Will Never Let You Go</description>
+            <guid>https://archive.cchits.net/show/2870/</guid>
+            <pubDate>Sat, 05 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 04, 2016</title>
+            <link>https://archive.cchits.net/show/2868/</link>
+            <description>Featured tracks: Arun Chillara - Ye Mausam</description>
+            <guid>https://archive.cchits.net/show/2868/</guid>
+            <pubDate>Fri, 04 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 03, 2016</title>
+            <link>https://archive.cchits.net/show/2867/</link>
+            <description>Featured tracks: Kara Square and Piero Peluche - Save The Nerd</description>
+            <guid>https://archive.cchits.net/show/2867/</guid>
+            <pubDate>Thu, 03 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 02, 2016</title>
+            <link>https://archive.cchits.net/show/2866/</link>
+            <description>Featured tracks: Deep Down Inside - Bad Kind</description>
+            <guid>https://archive.cchits.net/show/2866/</guid>
+            <pubDate>Wed, 02 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 01, 2016</title>
+            <link>https://archive.cchits.net/show/2865/</link>
+            <description>Featured tracks: Four - Perfect</description>
+            <guid>https://archive.cchits.net/show/2865/</guid>
+            <pubDate>Tue, 01 Mar 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 29, 2016</title>
+            <link>https://archive.cchits.net/show/2863/</link>
+            <description>Featured tracks: Steven Dunston - When I Was With You</description>
+            <guid>https://archive.cchits.net/show/2863/</guid>
+            <pubDate>Mon, 29 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 28, 2016</title>
+            <link>https://archive.cchits.net/show/2861/</link>
+            <description>Featured tracks: Publisher - Empty Hands</description>
+            <guid>https://archive.cchits.net/show/2861/</guid>
+            <pubDate>Sun, 28 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 27, 2016</title>
+            <link>https://archive.cchits.net/show/2860/</link>
+            <description>Featured tracks: The Kinky Fingers - Buzz and Bee</description>
+            <guid>https://archive.cchits.net/show/2860/</guid>
+            <pubDate>Sat, 27 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 26, 2016</title>
+            <link>https://archive.cchits.net/show/2858/</link>
+            <description>Featured tracks: Marco Buono - Halloween</description>
+            <guid>https://archive.cchits.net/show/2858/</guid>
+            <pubDate>Fri, 26 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 25, 2016</title>
+            <link>https://archive.cchits.net/show/2857/</link>
+            <description>Featured tracks: Louis Lingg and the Bombs - Conspiracy</description>
+            <guid>https://archive.cchits.net/show/2857/</guid>
+            <pubDate>Thu, 25 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 24, 2016</title>
+            <link>https://archive.cchits.net/show/2856/</link>
+            <description>Featured tracks: DARKROOMNEGATIVE - Mirror</description>
+            <guid>https://archive.cchits.net/show/2856/</guid>
+            <pubDate>Wed, 24 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 23, 2016</title>
+            <link>https://archive.cchits.net/show/2855/</link>
+            <description>Featured tracks: CrumbSnatchers - Rubituckin</description>
+            <guid>https://archive.cchits.net/show/2855/</guid>
+            <pubDate>Tue, 23 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 22, 2016</title>
+            <link>https://archive.cchits.net/show/2854/</link>
+            <description>Featured tracks: Jason Silver - Psalm 2</description>
+            <guid>https://archive.cchits.net/show/2854/</guid>
+            <pubDate>Mon, 22 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 21, 2016</title>
+            <link>https://archive.cchits.net/show/2852/</link>
+            <description>Featured tracks: Chill Carrier - The Dead Just Wanna Party</description>
+            <guid>https://archive.cchits.net/show/2852/</guid>
+            <pubDate>Sun, 21 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 20, 2016</title>
+            <link>https://archive.cchits.net/show/2851/</link>
+            <description>Featured tracks: This Public Life - Capulate</description>
+            <guid>https://archive.cchits.net/show/2851/</guid>
+            <pubDate>Sat, 20 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 19, 2016</title>
+            <link>https://archive.cchits.net/show/2849/</link>
+            <description>Featured tracks: Boogie Belgique - Smile</description>
+            <guid>https://archive.cchits.net/show/2849/</guid>
+            <pubDate>Fri, 19 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 18, 2016</title>
+            <link>https://archive.cchits.net/show/2848/</link>
+            <description>Featured tracks: Inspired and the Sleep - Time Travel</description>
+            <guid>https://archive.cchits.net/show/2848/</guid>
+            <pubDate>Thu, 18 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 17, 2016</title>
+            <link>https://archive.cchits.net/show/2847/</link>
+            <description>Featured tracks: Patsy Whyte - We Are Skittles</description>
+            <guid>https://archive.cchits.net/show/2847/</guid>
+            <pubDate>Wed, 17 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 16, 2016</title>
+            <link>https://archive.cchits.net/show/2846/</link>
+            <description>Featured tracks: Go Fight - Gay on the Dancefloor</description>
+            <guid>https://archive.cchits.net/show/2846/</guid>
+            <pubDate>Tue, 16 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 15, 2016</title>
+            <link>https://archive.cchits.net/show/2845/</link>
+            <description>Featured tracks: Bronze - Fade To Brown</description>
+            <guid>https://archive.cchits.net/show/2845/</guid>
+            <pubDate>Mon, 15 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 14, 2016</title>
+            <link>https://archive.cchits.net/show/2843/</link>
+            <description>Featured tracks: Fresh Body Shop - My Own Fantasy</description>
+            <guid>https://archive.cchits.net/show/2843/</guid>
+            <pubDate>Sun, 14 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 13, 2016</title>
+            <link>https://archive.cchits.net/show/2842/</link>
+            <description>Featured tracks: Lilly Wolf - Violence</description>
+            <guid>https://archive.cchits.net/show/2842/</guid>
+            <pubDate>Sat, 13 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 12, 2016</title>
+            <link>https://archive.cchits.net/show/2840/</link>
+            <description>Featured tracks: Desde La Caverna - Don&#x27;t Worry No More</description>
+            <guid>https://archive.cchits.net/show/2840/</guid>
+            <pubDate>Fri, 12 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 11, 2016</title>
+            <link>https://archive.cchits.net/show/2839/</link>
+            <description>Featured tracks: prince ringard - J&#x27;aime Pas Les Beaufs</description>
+            <guid>https://archive.cchits.net/show/2839/</guid>
+            <pubDate>Thu, 11 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 10, 2016</title>
+            <link>https://archive.cchits.net/show/2838/</link>
+            <description>Featured tracks: Tone - One To Be Loved</description>
+            <guid>https://archive.cchits.net/show/2838/</guid>
+            <pubDate>Wed, 10 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 09, 2016</title>
+            <link>https://archive.cchits.net/show/2837/</link>
+            <description>Featured tracks: Draco and the Zodiac - Twenty Six</description>
+            <guid>https://archive.cchits.net/show/2837/</guid>
+            <pubDate>Tue, 09 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 08, 2016</title>
+            <link>https://archive.cchits.net/show/2836/</link>
+            <description>Featured tracks: 10 Code - The Connection</description>
+            <guid>https://archive.cchits.net/show/2836/</guid>
+            <pubDate>Mon, 08 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 07, 2016</title>
+            <link>https://archive.cchits.net/show/2834/</link>
+            <description>Featured tracks: The Mind Orchestra - Nomad</description>
+            <guid>https://archive.cchits.net/show/2834/</guid>
+            <pubDate>Sun, 07 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 06, 2016</title>
+            <link>https://archive.cchits.net/show/2833/</link>
+            <description>Featured tracks: Jasmine Jordan - Smile</description>
+            <guid>https://archive.cchits.net/show/2833/</guid>
+            <pubDate>Sat, 06 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 05, 2016</title>
+            <link>https://archive.cchits.net/show/2831/</link>
+            <description>Featured tracks: Ty Andelman - Fairgrounds</description>
+            <guid>https://archive.cchits.net/show/2831/</guid>
+            <pubDate>Fri, 05 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 04, 2016</title>
+            <link>https://archive.cchits.net/show/2830/</link>
+            <description>Featured tracks: Deep Down Inside - Feather and Stone</description>
+            <guid>https://archive.cchits.net/show/2830/</guid>
+            <pubDate>Thu, 04 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 03, 2016</title>
+            <link>https://archive.cchits.net/show/2829/</link>
+            <description>Featured tracks: Michael Ellis - Hasselhoff Saved The Day</description>
+            <guid>https://archive.cchits.net/show/2829/</guid>
+            <pubDate>Wed, 03 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 02, 2016</title>
+            <link>https://archive.cchits.net/show/2828/</link>
+            <description>Featured tracks: Nido De Aristas - La Nada</description>
+            <guid>https://archive.cchits.net/show/2828/</guid>
+            <pubDate>Tue, 02 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 01, 2016</title>
+            <link>https://archive.cchits.net/show/2827/</link>
+            <description>Featured tracks: Tab &amp; Anitek - House Of The Rising Son</description>
+            <guid>https://archive.cchits.net/show/2827/</guid>
+            <pubDate>Mon, 01 Feb 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 31, 2016</title>
+            <link>https://archive.cchits.net/show/2824/</link>
+            <description>Featured tracks: Potta - Mr. Skycreaper</description>
+            <guid>https://archive.cchits.net/show/2824/</guid>
+            <pubDate>Sun, 31 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 30, 2016</title>
+            <link>https://archive.cchits.net/show/2823/</link>
+            <description>Featured tracks: The Madpix Project - Loaded Gun</description>
+            <guid>https://archive.cchits.net/show/2823/</guid>
+            <pubDate>Sat, 30 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 29, 2016</title>
+            <link>https://archive.cchits.net/show/2821/</link>
+            <description>Featured tracks: Boogie Belgique - Lucifer (ProleteR Remix)</description>
+            <guid>https://archive.cchits.net/show/2821/</guid>
+            <pubDate>Fri, 29 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 28, 2016</title>
+            <link>https://archive.cchits.net/show/2820/</link>
+            <description>Featured tracks: Jill Zimmerman - 1,001 Mistakes</description>
+            <guid>https://archive.cchits.net/show/2820/</guid>
+            <pubDate>Thu, 28 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 27, 2016</title>
+            <link>https://archive.cchits.net/show/2819/</link>
+            <description>Featured tracks: Anne Davis - Get Lost</description>
+            <guid>https://archive.cchits.net/show/2819/</guid>
+            <pubDate>Wed, 27 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 26, 2016</title>
+            <link>https://archive.cchits.net/show/2818/</link>
+            <description>Featured tracks: INNER FLUID - Forgiveness</description>
+            <guid>https://archive.cchits.net/show/2818/</guid>
+            <pubDate>Tue, 26 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 25, 2016</title>
+            <link>https://archive.cchits.net/show/2817/</link>
+            <description>Featured tracks: Sweet Play - Head Fake</description>
+            <guid>https://archive.cchits.net/show/2817/</guid>
+            <pubDate>Mon, 25 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 24, 2016</title>
+            <link>https://archive.cchits.net/show/2815/</link>
+            <description>Featured tracks: Steady Hussle - Blindly Opimistic</description>
+            <guid>https://archive.cchits.net/show/2815/</guid>
+            <pubDate>Sun, 24 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 23, 2016</title>
+            <link>https://archive.cchits.net/show/2814/</link>
+            <description>Featured tracks: Marco Buono - True Christmas</description>
+            <guid>https://archive.cchits.net/show/2814/</guid>
+            <pubDate>Sat, 23 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 22, 2016</title>
+            <link>https://archive.cchits.net/show/2812/</link>
+            <description>Featured tracks: Garmisch - And Now We Stand Against The Wall</description>
+            <guid>https://archive.cchits.net/show/2812/</guid>
+            <pubDate>Fri, 22 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 21, 2016</title>
+            <link>https://archive.cchits.net/show/2811/</link>
+            <description>Featured tracks: Nobody - The Same Song</description>
+            <guid>https://archive.cchits.net/show/2811/</guid>
+            <pubDate>Thu, 21 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 20, 2016</title>
+            <link>https://archive.cchits.net/show/2810/</link>
+            <description>Featured tracks: Bryan Art - Knowledge Is The Power (One Drop Mix)</description>
+            <guid>https://archive.cchits.net/show/2810/</guid>
+            <pubDate>Wed, 20 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 19, 2016</title>
+            <link>https://archive.cchits.net/show/2809/</link>
+            <description>Featured tracks: The Bourgeois - Perverting The American Dream</description>
+            <guid>https://archive.cchits.net/show/2809/</guid>
+            <pubDate>Tue, 19 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 18, 2016</title>
+            <link>https://archive.cchits.net/show/2808/</link>
+            <description>Featured tracks: Santa Kim - Calma Eterna</description>
+            <guid>https://archive.cchits.net/show/2808/</guid>
+            <pubDate>Mon, 18 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 17, 2016</title>
+            <link>https://archive.cchits.net/show/2806/</link>
+            <description>Featured tracks: Julia Haltigan - When I Shake My Chain</description>
+            <guid>https://archive.cchits.net/show/2806/</guid>
+            <pubDate>Sun, 17 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 16, 2016</title>
+            <link>https://archive.cchits.net/show/2805/</link>
+            <description>Featured tracks: Rude - Стыки</description>
+            <guid>https://archive.cchits.net/show/2805/</guid>
+            <pubDate>Sat, 16 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 15, 2016</title>
+            <link>https://archive.cchits.net/show/2803/</link>
+            <description>Featured tracks: Roby Baresi - Route66</description>
+            <guid>https://archive.cchits.net/show/2803/</guid>
+            <pubDate>Fri, 15 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 14, 2016</title>
+            <link>https://archive.cchits.net/show/2802/</link>
+            <description>Featured tracks: Michael Ellis - The Wee Spot</description>
+            <guid>https://archive.cchits.net/show/2802/</guid>
+            <pubDate>Thu, 14 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 13, 2016</title>
+            <link>https://archive.cchits.net/show/2801/</link>
+            <description>Featured tracks: Sueño De Dahlia - Encanto Natural</description>
+            <guid>https://archive.cchits.net/show/2801/</guid>
+            <pubDate>Wed, 13 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 12, 2016</title>
+            <link>https://archive.cchits.net/show/2800/</link>
+            <description>Featured tracks: The A.J. Gatz Project - Nothing</description>
+            <guid>https://archive.cchits.net/show/2800/</guid>
+            <pubDate>Tue, 12 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 11, 2016</title>
+            <link>https://archive.cchits.net/show/2799/</link>
+            <description>Featured tracks: The Glass Child - Give Myself Away</description>
+            <guid>https://archive.cchits.net/show/2799/</guid>
+            <pubDate>Mon, 11 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 10, 2016</title>
+            <link>https://archive.cchits.net/show/2797/</link>
+            <description>Featured tracks: Rambling Era - Life Goes On Some</description>
+            <guid>https://archive.cchits.net/show/2797/</guid>
+            <pubDate>Sun, 10 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 09, 2016</title>
+            <link>https://archive.cchits.net/show/2796/</link>
+            <description>Featured tracks: Fuzzy Logic - Vampire</description>
+            <guid>https://archive.cchits.net/show/2796/</guid>
+            <pubDate>Sat, 09 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 08, 2016</title>
+            <link>https://archive.cchits.net/show/2794/</link>
+            <description>Featured tracks: Manhat10 - Take It</description>
+            <guid>https://archive.cchits.net/show/2794/</guid>
+            <pubDate>Fri, 08 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 07, 2016</title>
+            <link>https://archive.cchits.net/show/2793/</link>
+            <description>Featured tracks: Josh Woodward - Memory Replaced</description>
+            <guid>https://archive.cchits.net/show/2793/</guid>
+            <pubDate>Thu, 07 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 06, 2016</title>
+            <link>https://archive.cchits.net/show/2792/</link>
+            <description>Featured tracks: Neon NiteClub - Just Right</description>
+            <guid>https://archive.cchits.net/show/2792/</guid>
+            <pubDate>Wed, 06 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 05, 2016</title>
+            <link>https://archive.cchits.net/show/2791/</link>
+            <description>Featured tracks: Other Noises - When You Cry</description>
+            <guid>https://archive.cchits.net/show/2791/</guid>
+            <pubDate>Tue, 05 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 04, 2016</title>
+            <link>https://archive.cchits.net/show/2790/</link>
+            <description>Featured tracks: Thomas Allan - Walks Like Chaplin</description>
+            <guid>https://archive.cchits.net/show/2790/</guid>
+            <pubDate>Mon, 04 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 03, 2016</title>
+            <link>https://archive.cchits.net/show/2788/</link>
+            <description>Featured tracks: May - I Could Have Been Someone</description>
+            <guid>https://archive.cchits.net/show/2788/</guid>
+            <pubDate>Sun, 03 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 02, 2016</title>
+            <link>https://archive.cchits.net/show/2787/</link>
+            <description>Featured tracks: Jill Zimmerman - Deep Deep Deep</description>
+            <guid>https://archive.cchits.net/show/2787/</guid>
+            <pubDate>Sat, 02 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 01, 2016</title>
+            <link>https://archive.cchits.net/show/2786/</link>
+            <description>Featured tracks: The Prefab Messiahs - Keep Your Stupid Dreams Alive</description>
+            <guid>https://archive.cchits.net/show/2786/</guid>
+            <pubDate>Fri, 01 Jan 2016 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

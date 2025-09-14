@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Daily Shows (December 2016)</title>
+        <link>https://archive.cchits.net/shows/daily/</link>
+        <description>Creative Commons music podcast - daily shows from December 2016</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Daily Show - December 31, 2016</title>
+            <link>https://archive.cchits.net/show/3312/</link>
+            <description>Featured tracks: Roller Genoa - Freak Show (Demo)</description>
+            <guid>https://archive.cchits.net/show/3312/</guid>
+            <pubDate>Sat, 31 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 30, 2016</title>
+            <link>https://archive.cchits.net/show/3310/</link>
+            <description>Featured tracks: Williamson Vedder - Crimson Tears</description>
+            <guid>https://archive.cchits.net/show/3310/</guid>
+            <pubDate>Fri, 30 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 29, 2016</title>
+            <link>https://archive.cchits.net/show/3309/</link>
+            <description>Featured tracks: Michael Harren - Five Tasks Of Grief</description>
+            <guid>https://archive.cchits.net/show/3309/</guid>
+            <pubDate>Thu, 29 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 28, 2016</title>
+            <link>https://archive.cchits.net/show/3308/</link>
+            <description>Featured tracks: Birdeatsbaby - Through Ten Walls</description>
+            <guid>https://archive.cchits.net/show/3308/</guid>
+            <pubDate>Wed, 28 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 27, 2016</title>
+            <link>https://archive.cchits.net/show/3307/</link>
+            <description>Featured tracks: Soundstatues - Admire: Inhumanize</description>
+            <guid>https://archive.cchits.net/show/3307/</guid>
+            <pubDate>Tue, 27 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 26, 2016</title>
+            <link>https://archive.cchits.net/show/3306/</link>
+            <description>Featured tracks: Racecar - Nashville</description>
+            <guid>https://archive.cchits.net/show/3306/</guid>
+            <pubDate>Mon, 26 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 25, 2016</title>
+            <link>https://archive.cchits.net/show/3304/</link>
+            <description>Featured tracks: Stoneface Priest - Rocky Road</description>
+            <guid>https://archive.cchits.net/show/3304/</guid>
+            <pubDate>Sun, 25 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 24, 2016</title>
+            <link>https://archive.cchits.net/show/3303/</link>
+            <description>Featured tracks: Fader Hill - Something&#x27;s Goin&#x27; On</description>
+            <guid>https://archive.cchits.net/show/3303/</guid>
+            <pubDate>Sat, 24 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 23, 2016</title>
+            <link>https://archive.cchits.net/show/3301/</link>
+            <description>Featured tracks: Zoro - Jah Warriors:Singama Warrior</description>
+            <guid>https://archive.cchits.net/show/3301/</guid>
+            <pubDate>Fri, 23 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 22, 2016</title>
+            <link>https://archive.cchits.net/show/3300/</link>
+            <description>Featured tracks: Kyle Cox - Life Is Good</description>
+            <guid>https://archive.cchits.net/show/3300/</guid>
+            <pubDate>Thu, 22 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 21, 2016</title>
+            <link>https://archive.cchits.net/show/3299/</link>
+            <description>Featured tracks: Indytronics - Mark Your Ships</description>
+            <guid>https://archive.cchits.net/show/3299/</guid>
+            <pubDate>Wed, 21 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 20, 2016</title>
+            <link>https://archive.cchits.net/show/3298/</link>
+            <description>Featured tracks: Azwel - Out On A Limb</description>
+            <guid>https://archive.cchits.net/show/3298/</guid>
+            <pubDate>Tue, 20 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 19, 2016</title>
+            <link>https://archive.cchits.net/show/3297/</link>
+            <description>Featured tracks: Warsaw Gun - IDA</description>
+            <guid>https://archive.cchits.net/show/3297/</guid>
+            <pubDate>Mon, 19 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 18, 2016</title>
+            <link>https://archive.cchits.net/show/3295/</link>
+            <description>Featured tracks: Melanie Ungar - What Is Love</description>
+            <guid>https://archive.cchits.net/show/3295/</guid>
+            <pubDate>Sun, 18 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 17, 2016</title>
+            <link>https://archive.cchits.net/show/3294/</link>
+            <description>Featured tracks: Jody Pou - Black Coffee</description>
+            <guid>https://archive.cchits.net/show/3294/</guid>
+            <pubDate>Sat, 17 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 16, 2016</title>
+            <link>https://archive.cchits.net/show/3293/</link>
+            <description>Featured tracks: Golden Duck Orchestra - On Sale</description>
+            <guid>https://archive.cchits.net/show/3293/</guid>
+            <pubDate>Fri, 16 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 15, 2016</title>
+            <link>https://archive.cchits.net/show/3292/</link>
+            <description>Featured tracks: waterpistol - The Blue, The Green And The Violet</description>
+            <guid>https://archive.cchits.net/show/3292/</guid>
+            <pubDate>Thu, 15 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 14, 2016</title>
+            <link>https://archive.cchits.net/show/3291/</link>
+            <description>Featured tracks: The Woods - An Angel In Fly</description>
+            <guid>https://archive.cchits.net/show/3291/</guid>
+            <pubDate>Wed, 14 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 13, 2016</title>
+            <link>https://archive.cchits.net/show/3288/</link>
+            <description>Featured tracks: Avenger Kills - The Trap</description>
+            <guid>https://archive.cchits.net/show/3288/</guid>
+            <pubDate>Tue, 13 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 12, 2016</title>
+            <link>https://archive.cchits.net/show/3287/</link>
+            <description>Featured tracks: Zack Linton - West Coast Highway</description>
+            <guid>https://archive.cchits.net/show/3287/</guid>
+            <pubDate>Mon, 12 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 11, 2016</title>
+            <link>https://archive.cchits.net/show/3284/</link>
+            <description>Featured tracks: Icon Girl Pistols - I Quit The Beatles</description>
+            <guid>https://archive.cchits.net/show/3284/</guid>
+            <pubDate>Sun, 11 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 10, 2016</title>
+            <link>https://archive.cchits.net/show/3282/</link>
+            <description>Featured tracks: Le-Fly - Sunset Party</description>
+            <guid>https://archive.cchits.net/show/3282/</guid>
+            <pubDate>Sat, 10 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 09, 2016</title>
+            <link>https://archive.cchits.net/show/3279/</link>
+            <description>Featured tracks: Jaief &amp;amp; Asong - Get Away (feat. Rebekka Salomea)</description>
+            <guid>https://archive.cchits.net/show/3279/</guid>
+            <pubDate>Fri, 09 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 08, 2016</title>
+            <link>https://archive.cchits.net/show/3277/</link>
+            <description>Featured tracks: Tamara Laurel - Come On Come On</description>
+            <guid>https://archive.cchits.net/show/3277/</guid>
+            <pubDate>Thu, 08 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 07, 2016</title>
+            <link>https://archive.cchits.net/show/3275/</link>
+            <description>Featured tracks: Anitek - Raining Rome</description>
+            <guid>https://archive.cchits.net/show/3275/</guid>
+            <pubDate>Wed, 07 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 06, 2016</title>
+            <link>https://archive.cchits.net/show/3273/</link>
+            <description>Featured tracks: Kaceo - Un p&#x27;tit crédit</description>
+            <guid>https://archive.cchits.net/show/3273/</guid>
+            <pubDate>Tue, 06 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 05, 2016</title>
+            <link>https://archive.cchits.net/show/3270/</link>
+            <description>Featured tracks: The Madpix Project - Say Goodbye</description>
+            <guid>https://archive.cchits.net/show/3270/</guid>
+            <pubDate>Mon, 05 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 04, 2016</title>
+            <link>https://archive.cchits.net/show/3268/</link>
+            <description>Featured tracks: Jokriss - Guayeteo (Dembow)</description>
+            <guid>https://archive.cchits.net/show/3268/</guid>
+            <pubDate>Sun, 04 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 03, 2016</title>
+            <link>https://archive.cchits.net/show/3266/</link>
+            <description>Featured tracks: Zamza - I Wanna Move</description>
+            <guid>https://archive.cchits.net/show/3266/</guid>
+            <pubDate>Sat, 03 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 02, 2016</title>
+            <link>https://archive.cchits.net/show/3263/</link>
+            <description>Featured tracks: Mad Glory - Red Wine Blues</description>
+            <guid>https://archive.cchits.net/show/3263/</guid>
+            <pubDate>Fri, 02 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 01, 2016</title>
+            <link>https://archive.cchits.net/show/3261/</link>
+            <description>Featured tracks: I&#x27;m Fresh! You&#x27;re Pretty! - Date</description>
+            <guid>https://archive.cchits.net/show/3261/</guid>
+            <pubDate>Thu, 01 Dec 2016 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

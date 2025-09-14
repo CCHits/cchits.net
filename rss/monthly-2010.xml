@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Monthly Shows (2010)</title>
+        <link>https://archive.cchits.net/shows/monthly/</link>
+        <description>Creative Commons music podcast - monthly shows from 2010</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Monthly Show - December 2010</title>
+            <link>https://archive.cchits.net/show/102/</link>
+            <description>Featured tracks: 20lb Sounds - Jimmy Carter, Lorenzo&#x27;s Music - Straight To Hell, Professor Kliq - All Control (Hard Version), Shearer - Change, Last Sunday - A Part of me and 35 more tracks</description>
+            <guid>https://archive.cchits.net/show/102/</guid>
+            <pubDate>Wed, 01 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - November 2010</title>
+            <link>https://archive.cchits.net/show/54/</link>
+            <description>Featured tracks: Lorenzo&#x27;s Music - Straight To Hell, The Phase - Dirty angel, Shearer - Change, Sway - Going Blind, Spinmeister - Remixing is OK and 34 more tracks</description>
+            <guid>https://archive.cchits.net/show/54/</guid>
+            <pubDate>Mon, 01 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

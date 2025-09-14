@@ -1,0 +1,2579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Daily Shows (2020)</title>
+        <link>https://archive.cchits.net/shows/daily/</link>
+        <description>Creative Commons music podcast - daily shows from 2020</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Daily Show - December 31, 2020</title>
+            <link>https://archive.cchits.net/show/5250/</link>
+            <description>Featured tracks: Lilly Wolf - Stitches (feat. Shane MauX)</description>
+            <guid>https://archive.cchits.net/show/5250/</guid>
+            <pubDate>Thu, 31 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 30, 2020</title>
+            <link>https://archive.cchits.net/show/5249/</link>
+            <description>Featured tracks: Duro Mambo - Yo No Quiero Casarme</description>
+            <guid>https://archive.cchits.net/show/5249/</guid>
+            <pubDate>Wed, 30 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 29, 2020</title>
+            <link>https://archive.cchits.net/show/5248/</link>
+            <description>Featured tracks: Samie Bower - Newport</description>
+            <guid>https://archive.cchits.net/show/5248/</guid>
+            <pubDate>Tue, 29 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 28, 2020</title>
+            <link>https://archive.cchits.net/show/5246/</link>
+            <description>Featured tracks: Lawrence Beamen - Get Your Medicine</description>
+            <guid>https://archive.cchits.net/show/5246/</guid>
+            <pubDate>Mon, 28 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 27, 2020</title>
+            <link>https://archive.cchits.net/show/5244/</link>
+            <description>Featured tracks: Patt Berry - Her (Extended Version)</description>
+            <guid>https://archive.cchits.net/show/5244/</guid>
+            <pubDate>Sun, 27 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 26, 2020</title>
+            <link>https://archive.cchits.net/show/5243/</link>
+            <description>Featured tracks: The Jist - Salty</description>
+            <guid>https://archive.cchits.net/show/5243/</guid>
+            <pubDate>Sat, 26 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 25, 2020</title>
+            <link>https://archive.cchits.net/show/5242/</link>
+            <description>Featured tracks: Rubbish Rabbits - Who Am I</description>
+            <guid>https://archive.cchits.net/show/5242/</guid>
+            <pubDate>Fri, 25 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 24, 2020</title>
+            <link>https://archive.cchits.net/show/5241/</link>
+            <description>Featured tracks: Hibai Aiestaran &amp; The Basauri Prison Folkies - Bilbo Dockers Can Rock</description>
+            <guid>https://archive.cchits.net/show/5241/</guid>
+            <pubDate>Thu, 24 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 23, 2020</title>
+            <link>https://archive.cchits.net/show/5240/</link>
+            <description>Featured tracks: Elephant Funeral - While We Are Here</description>
+            <guid>https://archive.cchits.net/show/5240/</guid>
+            <pubDate>Wed, 23 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 22, 2020</title>
+            <link>https://archive.cchits.net/show/5239/</link>
+            <description>Featured tracks: Noelle Chiodo - Yellow Van</description>
+            <guid>https://archive.cchits.net/show/5239/</guid>
+            <pubDate>Tue, 22 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 21, 2020</title>
+            <link>https://archive.cchits.net/show/5238/</link>
+            <description>Featured tracks: Paper Clips - Play</description>
+            <guid>https://archive.cchits.net/show/5238/</guid>
+            <pubDate>Mon, 21 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 20, 2020</title>
+            <link>https://archive.cchits.net/show/5236/</link>
+            <description>Featured tracks: Hungry Lucy - Bumble</description>
+            <guid>https://archive.cchits.net/show/5236/</guid>
+            <pubDate>Sun, 20 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 19, 2020</title>
+            <link>https://archive.cchits.net/show/5235/</link>
+            <description>Featured tracks: ikkubaru - Tik Tok</description>
+            <guid>https://archive.cchits.net/show/5235/</guid>
+            <pubDate>Sat, 19 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 18, 2020</title>
+            <link>https://archive.cchits.net/show/5233/</link>
+            <description>Featured tracks: Kristian Vuljar - Praying To The Moon</description>
+            <guid>https://archive.cchits.net/show/5233/</guid>
+            <pubDate>Fri, 18 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 17, 2020</title>
+            <link>https://archive.cchits.net/show/5232/</link>
+            <description>Featured tracks: An Amerikan Automobile Company - Oh, Honey</description>
+            <guid>https://archive.cchits.net/show/5232/</guid>
+            <pubDate>Thu, 17 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 16, 2020</title>
+            <link>https://archive.cchits.net/show/5231/</link>
+            <description>Featured tracks: Ris Charm - Nada Más</description>
+            <guid>https://archive.cchits.net/show/5231/</guid>
+            <pubDate>Wed, 16 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 15, 2020</title>
+            <link>https://archive.cchits.net/show/5230/</link>
+            <description>Featured tracks: Brunela Crochenci - Háblame</description>
+            <guid>https://archive.cchits.net/show/5230/</guid>
+            <pubDate>Tue, 15 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 14, 2020</title>
+            <link>https://archive.cchits.net/show/5229/</link>
+            <description>Featured tracks: Derek Clegg - I&#x27;ll Almost Get Us There</description>
+            <guid>https://archive.cchits.net/show/5229/</guid>
+            <pubDate>Mon, 14 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 13, 2020</title>
+            <link>https://archive.cchits.net/show/5227/</link>
+            <description>Featured tracks: Bradley Peck - Questions</description>
+            <guid>https://archive.cchits.net/show/5227/</guid>
+            <pubDate>Sun, 13 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 12, 2020</title>
+            <link>https://archive.cchits.net/show/5226/</link>
+            <description>Featured tracks: The Tunnel - Sultry Daggers</description>
+            <guid>https://archive.cchits.net/show/5226/</guid>
+            <pubDate>Sat, 12 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 11, 2020</title>
+            <link>https://archive.cchits.net/show/5224/</link>
+            <description>Featured tracks: Dr Groove Gang - It&#x27;s Got To Be Funky</description>
+            <guid>https://archive.cchits.net/show/5224/</guid>
+            <pubDate>Fri, 11 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 10, 2020</title>
+            <link>https://archive.cchits.net/show/5223/</link>
+            <description>Featured tracks: Strontium - Pour Vous</description>
+            <guid>https://archive.cchits.net/show/5223/</guid>
+            <pubDate>Thu, 10 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 09, 2020</title>
+            <link>https://archive.cchits.net/show/5222/</link>
+            <description>Featured tracks: The Madpix Project - Anyway</description>
+            <guid>https://archive.cchits.net/show/5222/</guid>
+            <pubDate>Wed, 09 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 08, 2020</title>
+            <link>https://archive.cchits.net/show/5221/</link>
+            <description>Featured tracks: SevVven - All I Need Is You</description>
+            <guid>https://archive.cchits.net/show/5221/</guid>
+            <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 07, 2020</title>
+            <link>https://archive.cchits.net/show/5220/</link>
+            <description>Featured tracks: Aussens@iter - A Day Like This (feat. panu)</description>
+            <guid>https://archive.cchits.net/show/5220/</guid>
+            <pubDate>Mon, 07 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 06, 2020</title>
+            <link>https://archive.cchits.net/show/5218/</link>
+            <description>Featured tracks: Scott Lloyd - With Different Eyes</description>
+            <guid>https://archive.cchits.net/show/5218/</guid>
+            <pubDate>Sun, 06 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 05, 2020</title>
+            <link>https://archive.cchits.net/show/5217/</link>
+            <description>Featured tracks: Back On Earth - Save Me</description>
+            <guid>https://archive.cchits.net/show/5217/</guid>
+            <pubDate>Sat, 05 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 04, 2020</title>
+            <link>https://archive.cchits.net/show/5215/</link>
+            <description>Featured tracks: Bert Jerred - Try To Listen</description>
+            <guid>https://archive.cchits.net/show/5215/</guid>
+            <pubDate>Fri, 04 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 03, 2020</title>
+            <link>https://archive.cchits.net/show/5214/</link>
+            <description>Featured tracks: Bessonn&amp;amp;sa - So Deep Into My Heart</description>
+            <guid>https://archive.cchits.net/show/5214/</guid>
+            <pubDate>Thu, 03 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 02, 2020</title>
+            <link>https://archive.cchits.net/show/5213/</link>
+            <description>Featured tracks: Jill Zimmerman - Wild Geese</description>
+            <guid>https://archive.cchits.net/show/5213/</guid>
+            <pubDate>Wed, 02 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - December 01, 2020</title>
+            <link>https://archive.cchits.net/show/5212/</link>
+            <description>Featured tracks: Emily Coulston - Follow You - Master</description>
+            <guid>https://archive.cchits.net/show/5212/</guid>
+            <pubDate>Tue, 01 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 30, 2020</title>
+            <link>https://archive.cchits.net/show/5210/</link>
+            <description>Featured tracks: The Hedgerow Folk - Nothing To Prove</description>
+            <guid>https://archive.cchits.net/show/5210/</guid>
+            <pubDate>Mon, 30 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 29, 2020</title>
+            <link>https://archive.cchits.net/show/5208/</link>
+            <description>Featured tracks: Keldamuzik - Swype Right</description>
+            <guid>https://archive.cchits.net/show/5208/</guid>
+            <pubDate>Sun, 29 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 28, 2020</title>
+            <link>https://archive.cchits.net/show/5207/</link>
+            <description>Featured tracks: The DŁX - Find A Way</description>
+            <guid>https://archive.cchits.net/show/5207/</guid>
+            <pubDate>Sat, 28 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 27, 2020</title>
+            <link>https://archive.cchits.net/show/5205/</link>
+            <description>Featured tracks: Brody Blackburn - The Dream</description>
+            <guid>https://archive.cchits.net/show/5205/</guid>
+            <pubDate>Fri, 27 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 26, 2020</title>
+            <link>https://archive.cchits.net/show/5204/</link>
+            <description>Featured tracks: The Manky Gnu - Everythings Fine (Between the Devil and the Deep Blue Sea)</description>
+            <guid>https://archive.cchits.net/show/5204/</guid>
+            <pubDate>Thu, 26 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 25, 2020</title>
+            <link>https://archive.cchits.net/show/5203/</link>
+            <description>Featured tracks: Rude - Call It A Day</description>
+            <guid>https://archive.cchits.net/show/5203/</guid>
+            <pubDate>Wed, 25 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 24, 2020</title>
+            <link>https://archive.cchits.net/show/5202/</link>
+            <description>Featured tracks: Cardinal Line - On The Edge</description>
+            <guid>https://archive.cchits.net/show/5202/</guid>
+            <pubDate>Tue, 24 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 23, 2020</title>
+            <link>https://archive.cchits.net/show/5201/</link>
+            <description>Featured tracks: Carter Vail - Love-15</description>
+            <guid>https://archive.cchits.net/show/5201/</guid>
+            <pubDate>Mon, 23 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 22, 2020</title>
+            <link>https://archive.cchits.net/show/5199/</link>
+            <description>Featured tracks: Kara Square and Piero Peluche - Gloom and Doom</description>
+            <guid>https://archive.cchits.net/show/5199/</guid>
+            <pubDate>Sun, 22 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 21, 2020</title>
+            <link>https://archive.cchits.net/show/5198/</link>
+            <description>Featured tracks: Kristian Vuljar - Shadow (feat. Stepa K) (Future Bass Version)</description>
+            <guid>https://archive.cchits.net/show/5198/</guid>
+            <pubDate>Sat, 21 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 20, 2020</title>
+            <link>https://archive.cchits.net/show/5196/</link>
+            <description>Featured tracks: Lea James - Mistake</description>
+            <guid>https://archive.cchits.net/show/5196/</guid>
+            <pubDate>Fri, 20 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 19, 2020</title>
+            <link>https://archive.cchits.net/show/5195/</link>
+            <description>Featured tracks: Square A Saw - Think About You</description>
+            <guid>https://archive.cchits.net/show/5195/</guid>
+            <pubDate>Thu, 19 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 18, 2020</title>
+            <link>https://archive.cchits.net/show/5194/</link>
+            <description>Featured tracks: Damn Hands - Two in the Wave</description>
+            <guid>https://archive.cchits.net/show/5194/</guid>
+            <pubDate>Wed, 18 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 17, 2020</title>
+            <link>https://archive.cchits.net/show/5193/</link>
+            <description>Featured tracks: La Batería de Intxixu - Ska Ska Ska</description>
+            <guid>https://archive.cchits.net/show/5193/</guid>
+            <pubDate>Tue, 17 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 16, 2020</title>
+            <link>https://archive.cchits.net/show/5192/</link>
+            <description>Featured tracks: The Woolly Hats - Not The Only One</description>
+            <guid>https://archive.cchits.net/show/5192/</guid>
+            <pubDate>Mon, 16 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 15, 2020</title>
+            <link>https://archive.cchits.net/show/5190/</link>
+            <description>Featured tracks: NF//GS - Face Down</description>
+            <guid>https://archive.cchits.net/show/5190/</guid>
+            <pubDate>Sun, 15 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 14, 2020</title>
+            <link>https://archive.cchits.net/show/5189/</link>
+            <description>Featured tracks: Estudiante - Regresar</description>
+            <guid>https://archive.cchits.net/show/5189/</guid>
+            <pubDate>Sat, 14 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 13, 2020</title>
+            <link>https://archive.cchits.net/show/5187/</link>
+            <description>Featured tracks: Dj Wallace - Body Up</description>
+            <guid>https://archive.cchits.net/show/5187/</guid>
+            <pubDate>Fri, 13 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 12, 2020</title>
+            <link>https://archive.cchits.net/show/5186/</link>
+            <description>Featured tracks: SevVven - Home</description>
+            <guid>https://archive.cchits.net/show/5186/</guid>
+            <pubDate>Thu, 12 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 11, 2020</title>
+            <link>https://archive.cchits.net/show/5185/</link>
+            <description>Featured tracks: oldmanyoung - Wavelength</description>
+            <guid>https://archive.cchits.net/show/5185/</guid>
+            <pubDate>Wed, 11 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 10, 2020</title>
+            <link>https://archive.cchits.net/show/5184/</link>
+            <description>Featured tracks: The Same Persons - For Me</description>
+            <guid>https://archive.cchits.net/show/5184/</guid>
+            <pubDate>Tue, 10 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 09, 2020</title>
+            <link>https://archive.cchits.net/show/5183/</link>
+            <description>Featured tracks: Bessonn&amp;amp;sa - Your Love Explodes</description>
+            <guid>https://archive.cchits.net/show/5183/</guid>
+            <pubDate>Mon, 09 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 08, 2020</title>
+            <link>https://archive.cchits.net/show/5181/</link>
+            <description>Featured tracks: Barefoot McCoy - Look For Me Among The Missing</description>
+            <guid>https://archive.cchits.net/show/5181/</guid>
+            <pubDate>Sun, 08 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 07, 2020</title>
+            <link>https://archive.cchits.net/show/5180/</link>
+            <description>Featured tracks: Dead Relic - Breathe Again</description>
+            <guid>https://archive.cchits.net/show/5180/</guid>
+            <pubDate>Sat, 07 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 06, 2020</title>
+            <link>https://archive.cchits.net/show/5178/</link>
+            <description>Featured tracks: Red Crickets - The Prisoner</description>
+            <guid>https://archive.cchits.net/show/5178/</guid>
+            <pubDate>Fri, 06 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 05, 2020</title>
+            <link>https://archive.cchits.net/show/5177/</link>
+            <description>Featured tracks: OnesteP - In War We Rust</description>
+            <guid>https://archive.cchits.net/show/5177/</guid>
+            <pubDate>Thu, 05 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 04, 2020</title>
+            <link>https://archive.cchits.net/show/5176/</link>
+            <description>Featured tracks: Kwasi Manni - Streets</description>
+            <guid>https://archive.cchits.net/show/5176/</guid>
+            <pubDate>Wed, 04 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 03, 2020</title>
+            <link>https://archive.cchits.net/show/5175/</link>
+            <description>Featured tracks: Soundstatues - Admire</description>
+            <guid>https://archive.cchits.net/show/5175/</guid>
+            <pubDate>Tue, 03 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 02, 2020</title>
+            <link>https://archive.cchits.net/show/5174/</link>
+            <description>Featured tracks: Square A Saw - A Little Of Hope</description>
+            <guid>https://archive.cchits.net/show/5174/</guid>
+            <pubDate>Mon, 02 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - November 01, 2020</title>
+            <link>https://archive.cchits.net/show/5172/</link>
+            <description>Featured tracks: Renae - Roses (Taurus)</description>
+            <guid>https://archive.cchits.net/show/5172/</guid>
+            <pubDate>Sun, 01 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 31, 2020</title>
+            <link>https://archive.cchits.net/show/5170/</link>
+            <description>Featured tracks: Kara Square and Piero Peluche - Stayin&#x27; At Home</description>
+            <guid>https://archive.cchits.net/show/5170/</guid>
+            <pubDate>Sat, 31 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 30, 2020</title>
+            <link>https://archive.cchits.net/show/5168/</link>
+            <description>Featured tracks: Color Out - Presage</description>
+            <guid>https://archive.cchits.net/show/5168/</guid>
+            <pubDate>Fri, 30 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 29, 2020</title>
+            <link>https://archive.cchits.net/show/5167/</link>
+            <description>Featured tracks: Daniel Guzman - Sometimes Things Go Wrong</description>
+            <guid>https://archive.cchits.net/show/5167/</guid>
+            <pubDate>Thu, 29 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 28, 2020</title>
+            <link>https://archive.cchits.net/show/5166/</link>
+            <description>Featured tracks: P Steve Officiel - Amina</description>
+            <guid>https://archive.cchits.net/show/5166/</guid>
+            <pubDate>Wed, 28 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 27, 2020</title>
+            <link>https://archive.cchits.net/show/5165/</link>
+            <description>Featured tracks: Emily and the Blackouts - Dead Eyes</description>
+            <guid>https://archive.cchits.net/show/5165/</guid>
+            <pubDate>Tue, 27 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 26, 2020</title>
+            <link>https://archive.cchits.net/show/5164/</link>
+            <description>Featured tracks: David Amber - BoomShaKaLaKa</description>
+            <guid>https://archive.cchits.net/show/5164/</guid>
+            <pubDate>Mon, 26 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 25, 2020</title>
+            <link>https://archive.cchits.net/show/5162/</link>
+            <description>Featured tracks: The Imaginary Suitcase - Driftwood</description>
+            <guid>https://archive.cchits.net/show/5162/</guid>
+            <pubDate>Sun, 25 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 24, 2020</title>
+            <link>https://archive.cchits.net/show/5161/</link>
+            <description>Featured tracks: Anna Niagara - Только будь рядом</description>
+            <guid>https://archive.cchits.net/show/5161/</guid>
+            <pubDate>Sat, 24 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 23, 2020</title>
+            <link>https://archive.cchits.net/show/5159/</link>
+            <description>Featured tracks: Elephant Funeral - The Second Son</description>
+            <guid>https://archive.cchits.net/show/5159/</guid>
+            <pubDate>Fri, 23 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 22, 2020</title>
+            <link>https://archive.cchits.net/show/5158/</link>
+            <description>Featured tracks: ElisaDay - Dark Queen</description>
+            <guid>https://archive.cchits.net/show/5158/</guid>
+            <pubDate>Thu, 22 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 21, 2020</title>
+            <link>https://archive.cchits.net/show/5157/</link>
+            <description>Featured tracks: COATS - Just Anxiety</description>
+            <guid>https://archive.cchits.net/show/5157/</guid>
+            <pubDate>Wed, 21 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 20, 2020</title>
+            <link>https://archive.cchits.net/show/5156/</link>
+            <description>Featured tracks: Semme - Live In Your Dreamz</description>
+            <guid>https://archive.cchits.net/show/5156/</guid>
+            <pubDate>Tue, 20 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 19, 2020</title>
+            <link>https://archive.cchits.net/show/5155/</link>
+            <description>Featured tracks: Forget The Whale - Suburban Outlaw</description>
+            <guid>https://archive.cchits.net/show/5155/</guid>
+            <pubDate>Mon, 19 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 18, 2020</title>
+            <link>https://archive.cchits.net/show/5153/</link>
+            <description>Featured tracks: InitiuM - Stay Wild</description>
+            <guid>https://archive.cchits.net/show/5153/</guid>
+            <pubDate>Sun, 18 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 17, 2020</title>
+            <link>https://archive.cchits.net/show/5152/</link>
+            <description>Featured tracks: Adam Scott York - Matter Of Time</description>
+            <guid>https://archive.cchits.net/show/5152/</guid>
+            <pubDate>Sat, 17 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 16, 2020</title>
+            <link>https://archive.cchits.net/show/5150/</link>
+            <description>Featured tracks: Tab - SoothSayer (feat.bARTek)</description>
+            <guid>https://archive.cchits.net/show/5150/</guid>
+            <pubDate>Fri, 16 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 15, 2020</title>
+            <link>https://archive.cchits.net/show/5149/</link>
+            <description>Featured tracks: Bessonn&amp;amp;sa - I Try</description>
+            <guid>https://archive.cchits.net/show/5149/</guid>
+            <pubDate>Thu, 15 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 14, 2020</title>
+            <link>https://archive.cchits.net/show/5148/</link>
+            <description>Featured tracks: Neon NiteClub - Somethin&#x27; Good Tonite</description>
+            <guid>https://archive.cchits.net/show/5148/</guid>
+            <pubDate>Wed, 14 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 13, 2020</title>
+            <link>https://archive.cchits.net/show/5147/</link>
+            <description>Featured tracks: Back On Earth - Youth</description>
+            <guid>https://archive.cchits.net/show/5147/</guid>
+            <pubDate>Tue, 13 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 12, 2020</title>
+            <link>https://archive.cchits.net/show/5146/</link>
+            <description>Featured tracks: Samie Bower - Talk A Little</description>
+            <guid>https://archive.cchits.net/show/5146/</guid>
+            <pubDate>Mon, 12 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 11, 2020</title>
+            <link>https://archive.cchits.net/show/5144/</link>
+            <description>Featured tracks: Noelle Chiodo - Damage Is Done</description>
+            <guid>https://archive.cchits.net/show/5144/</guid>
+            <pubDate>Sun, 11 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 10, 2020</title>
+            <link>https://archive.cchits.net/show/5143/</link>
+            <description>Featured tracks: Haydn Davies - Head Over Heels</description>
+            <guid>https://archive.cchits.net/show/5143/</guid>
+            <pubDate>Sat, 10 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 09, 2020</title>
+            <link>https://archive.cchits.net/show/5141/</link>
+            <description>Featured tracks: Strontium - Darkness Within</description>
+            <guid>https://archive.cchits.net/show/5141/</guid>
+            <pubDate>Fri, 09 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 08, 2020</title>
+            <link>https://archive.cchits.net/show/5140/</link>
+            <description>Featured tracks: Renae - F.E.A.R.</description>
+            <guid>https://archive.cchits.net/show/5140/</guid>
+            <pubDate>Thu, 08 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 07, 2020</title>
+            <link>https://archive.cchits.net/show/5139/</link>
+            <description>Featured tracks: Girlpants - Purple</description>
+            <guid>https://archive.cchits.net/show/5139/</guid>
+            <pubDate>Wed, 07 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 06, 2020</title>
+            <link>https://archive.cchits.net/show/5138/</link>
+            <description>Featured tracks: Talking To Sophie - Penny Board</description>
+            <guid>https://archive.cchits.net/show/5138/</guid>
+            <pubDate>Tue, 06 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 05, 2020</title>
+            <link>https://archive.cchits.net/show/5137/</link>
+            <description>Featured tracks: The Victory Drive - The Countdown Pt II</description>
+            <guid>https://archive.cchits.net/show/5137/</guid>
+            <pubDate>Mon, 05 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 04, 2020</title>
+            <link>https://archive.cchits.net/show/5135/</link>
+            <description>Featured tracks: Brunela Crochenci - Perdida</description>
+            <guid>https://archive.cchits.net/show/5135/</guid>
+            <pubDate>Sun, 04 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 03, 2020</title>
+            <link>https://archive.cchits.net/show/5134/</link>
+            <description>Featured tracks: Starmob - Stars and Snakes</description>
+            <guid>https://archive.cchits.net/show/5134/</guid>
+            <pubDate>Sat, 03 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 02, 2020</title>
+            <link>https://archive.cchits.net/show/5132/</link>
+            <description>Featured tracks: The Jist - Best Thing Yet (Live)</description>
+            <guid>https://archive.cchits.net/show/5132/</guid>
+            <pubDate>Fri, 02 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 01, 2020</title>
+            <link>https://archive.cchits.net/show/5131/</link>
+            <description>Featured tracks: Dr Groove Gang - Imagine</description>
+            <guid>https://archive.cchits.net/show/5131/</guid>
+            <pubDate>Thu, 01 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 30, 2020</title>
+            <link>https://archive.cchits.net/show/5129/</link>
+            <description>Featured tracks: Pleasantville - История</description>
+            <guid>https://archive.cchits.net/show/5129/</guid>
+            <pubDate>Wed, 30 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 29, 2020</title>
+            <link>https://archive.cchits.net/show/5128/</link>
+            <description>Featured tracks: sleeperspaceborn - Here To Stay</description>
+            <guid>https://archive.cchits.net/show/5128/</guid>
+            <pubDate>Tue, 29 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 28, 2020</title>
+            <link>https://archive.cchits.net/show/5127/</link>
+            <description>Featured tracks: Thanks For Noticing - Secawan Coffee</description>
+            <guid>https://archive.cchits.net/show/5127/</guid>
+            <pubDate>Mon, 28 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 27, 2020</title>
+            <link>https://archive.cchits.net/show/5125/</link>
+            <description>Featured tracks: Halynsky - Sekkle</description>
+            <guid>https://archive.cchits.net/show/5125/</guid>
+            <pubDate>Sun, 27 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 26, 2020</title>
+            <link>https://archive.cchits.net/show/5124/</link>
+            <description>Featured tracks: The Riders - Bring me the lite</description>
+            <guid>https://archive.cchits.net/show/5124/</guid>
+            <pubDate>Sat, 26 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 25, 2020</title>
+            <link>https://archive.cchits.net/show/5122/</link>
+            <description>Featured tracks: Rostov Groovers - Robots Can Dance</description>
+            <guid>https://archive.cchits.net/show/5122/</guid>
+            <pubDate>Fri, 25 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 24, 2020</title>
+            <link>https://archive.cchits.net/show/5121/</link>
+            <description>Featured tracks: The NUV - The Wolf Of Green Street</description>
+            <guid>https://archive.cchits.net/show/5121/</guid>
+            <pubDate>Thu, 24 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 23, 2020</title>
+            <link>https://archive.cchits.net/show/5120/</link>
+            <description>Featured tracks: Red Crickets - Flowers (From Her Gun)</description>
+            <guid>https://archive.cchits.net/show/5120/</guid>
+            <pubDate>Wed, 23 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 22, 2020</title>
+            <link>https://archive.cchits.net/show/5119/</link>
+            <description>Featured tracks: Paul Seling - Luna</description>
+            <guid>https://archive.cchits.net/show/5119/</guid>
+            <pubDate>Tue, 22 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 21, 2020</title>
+            <link>https://archive.cchits.net/show/5118/</link>
+            <description>Featured tracks: The Devil Music Co. - Waste My Time</description>
+            <guid>https://archive.cchits.net/show/5118/</guid>
+            <pubDate>Mon, 21 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 20, 2020</title>
+            <link>https://archive.cchits.net/show/5116/</link>
+            <description>Featured tracks: Forget The Whale - Giants</description>
+            <guid>https://archive.cchits.net/show/5116/</guid>
+            <pubDate>Sun, 20 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 19, 2020</title>
+            <link>https://archive.cchits.net/show/5115/</link>
+            <description>Featured tracks: Ashay Raut - Feeling (feat. Shaunghamitra Guha)</description>
+            <guid>https://archive.cchits.net/show/5115/</guid>
+            <pubDate>Sat, 19 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 18, 2020</title>
+            <link>https://archive.cchits.net/show/5113/</link>
+            <description>Featured tracks: Josh Woodward - Together On Our Own</description>
+            <guid>https://archive.cchits.net/show/5113/</guid>
+            <pubDate>Fri, 18 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 17, 2020</title>
+            <link>https://archive.cchits.net/show/5112/</link>
+            <description>Featured tracks: The Spin Wires - Night Life</description>
+            <guid>https://archive.cchits.net/show/5112/</guid>
+            <pubDate>Thu, 17 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 16, 2020</title>
+            <link>https://archive.cchits.net/show/5111/</link>
+            <description>Featured tracks: Edward Jay - Pa´Boca Chica (feat. Wanchy-Vamos)</description>
+            <guid>https://archive.cchits.net/show/5111/</guid>
+            <pubDate>Wed, 16 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 15, 2020</title>
+            <link>https://archive.cchits.net/show/5110/</link>
+            <description>Featured tracks: Mercury And The Architects - See The World</description>
+            <guid>https://archive.cchits.net/show/5110/</guid>
+            <pubDate>Tue, 15 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 14, 2020</title>
+            <link>https://archive.cchits.net/show/5109/</link>
+            <description>Featured tracks: Starmob - Wish In The Wind</description>
+            <guid>https://archive.cchits.net/show/5109/</guid>
+            <pubDate>Mon, 14 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 13, 2020</title>
+            <link>https://archive.cchits.net/show/5107/</link>
+            <description>Featured tracks: Paige Dineen - Up</description>
+            <guid>https://archive.cchits.net/show/5107/</guid>
+            <pubDate>Sun, 13 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 12, 2020</title>
+            <link>https://archive.cchits.net/show/5106/</link>
+            <description>Featured tracks: Helen &amp;amp; Shanna - Luminiscencia</description>
+            <guid>https://archive.cchits.net/show/5106/</guid>
+            <pubDate>Sat, 12 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 11, 2020</title>
+            <link>https://archive.cchits.net/show/5104/</link>
+            <description>Featured tracks: OnesteP - Torment Chapter</description>
+            <guid>https://archive.cchits.net/show/5104/</guid>
+            <pubDate>Fri, 11 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 10, 2020</title>
+            <link>https://archive.cchits.net/show/5103/</link>
+            <description>Featured tracks: Square A Saw - Falling Apart</description>
+            <guid>https://archive.cchits.net/show/5103/</guid>
+            <pubDate>Thu, 10 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 09, 2020</title>
+            <link>https://archive.cchits.net/show/5102/</link>
+            <description>Featured tracks: Romancoke - I Gotta Get Away</description>
+            <guid>https://archive.cchits.net/show/5102/</guid>
+            <pubDate>Wed, 09 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 08, 2020</title>
+            <link>https://archive.cchits.net/show/5101/</link>
+            <description>Featured tracks: Frank Rawel - Simple Life</description>
+            <guid>https://archive.cchits.net/show/5101/</guid>
+            <pubDate>Tue, 08 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 07, 2020</title>
+            <link>https://archive.cchits.net/show/5100/</link>
+            <description>Featured tracks: Jonathan Dimmel - Two Hearts and a Smile</description>
+            <guid>https://archive.cchits.net/show/5100/</guid>
+            <pubDate>Mon, 07 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 06, 2020</title>
+            <link>https://archive.cchits.net/show/5098/</link>
+            <description>Featured tracks: Rxbyn - Monster</description>
+            <guid>https://archive.cchits.net/show/5098/</guid>
+            <pubDate>Sun, 06 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 05, 2020</title>
+            <link>https://archive.cchits.net/show/5097/</link>
+            <description>Featured tracks: D.B. Ricapito - Lonely</description>
+            <guid>https://archive.cchits.net/show/5097/</guid>
+            <pubDate>Sat, 05 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 04, 2020</title>
+            <link>https://archive.cchits.net/show/5095/</link>
+            <description>Featured tracks: Living Camboya - Sin Miedo</description>
+            <guid>https://archive.cchits.net/show/5095/</guid>
+            <pubDate>Fri, 04 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 03, 2020</title>
+            <link>https://archive.cchits.net/show/5094/</link>
+            <description>Featured tracks: Giovanni Scarpelli Band - Darkness Behind</description>
+            <guid>https://archive.cchits.net/show/5094/</guid>
+            <pubDate>Thu, 03 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 02, 2020</title>
+            <link>https://archive.cchits.net/show/5093/</link>
+            <description>Featured tracks: The Hillbilly Love Ninjas - Santa Claus Is Coming</description>
+            <guid>https://archive.cchits.net/show/5093/</guid>
+            <pubDate>Wed, 02 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - September 01, 2020</title>
+            <link>https://archive.cchits.net/show/5092/</link>
+            <description>Featured tracks: ElisaDay - Inner War (Quarantine Acoustic Coronaversion)</description>
+            <guid>https://archive.cchits.net/show/5092/</guid>
+            <pubDate>Tue, 01 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 31, 2020</title>
+            <link>https://archive.cchits.net/show/5090/</link>
+            <description>Featured tracks: Bert Jerred - The Distant Sun</description>
+            <guid>https://archive.cchits.net/show/5090/</guid>
+            <pubDate>Mon, 31 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 30, 2020</title>
+            <link>https://archive.cchits.net/show/5088/</link>
+            <description>Featured tracks: King Elizabeth - Miami Sunrise</description>
+            <guid>https://archive.cchits.net/show/5088/</guid>
+            <pubDate>Sun, 30 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 29, 2020</title>
+            <link>https://archive.cchits.net/show/5087/</link>
+            <description>Featured tracks: Kinematic - Cookie Cutter</description>
+            <guid>https://archive.cchits.net/show/5087/</guid>
+            <pubDate>Sat, 29 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 28, 2020</title>
+            <link>https://archive.cchits.net/show/5085/</link>
+            <description>Featured tracks: I Am Not Lefthanded - Strawberries In Summer</description>
+            <guid>https://archive.cchits.net/show/5085/</guid>
+            <pubDate>Fri, 28 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 27, 2020</title>
+            <link>https://archive.cchits.net/show/5084/</link>
+            <description>Featured tracks: Carter Vail - Tigers On Trains</description>
+            <guid>https://archive.cchits.net/show/5084/</guid>
+            <pubDate>Thu, 27 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 26, 2020</title>
+            <link>https://archive.cchits.net/show/5083/</link>
+            <description>Featured tracks: Vitne - Encephalon</description>
+            <guid>https://archive.cchits.net/show/5083/</guid>
+            <pubDate>Wed, 26 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 25, 2020</title>
+            <link>https://archive.cchits.net/show/5082/</link>
+            <description>Featured tracks: Poly Action - The High Road</description>
+            <guid>https://archive.cchits.net/show/5082/</guid>
+            <pubDate>Tue, 25 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 24, 2020</title>
+            <link>https://archive.cchits.net/show/5081/</link>
+            <description>Featured tracks: Junk Love - Can&#x27;t Dance To Your Rhythm</description>
+            <guid>https://archive.cchits.net/show/5081/</guid>
+            <pubDate>Mon, 24 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 23, 2020</title>
+            <link>https://archive.cchits.net/show/5079/</link>
+            <description>Featured tracks: Barefoot McCoy - Ballyhoo</description>
+            <guid>https://archive.cchits.net/show/5079/</guid>
+            <pubDate>Sun, 23 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 22, 2020</title>
+            <link>https://archive.cchits.net/show/5078/</link>
+            <description>Featured tracks: Niki J Crawford - Right By My Side</description>
+            <guid>https://archive.cchits.net/show/5078/</guid>
+            <pubDate>Sat, 22 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 21, 2020</title>
+            <link>https://archive.cchits.net/show/5076/</link>
+            <description>Featured tracks: Paper Clips - Music</description>
+            <guid>https://archive.cchits.net/show/5076/</guid>
+            <pubDate>Fri, 21 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 20, 2020</title>
+            <link>https://archive.cchits.net/show/5075/</link>
+            <description>Featured tracks: Red Balls - Sing Rock N Roll</description>
+            <guid>https://archive.cchits.net/show/5075/</guid>
+            <pubDate>Thu, 20 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 19, 2020</title>
+            <link>https://archive.cchits.net/show/5074/</link>
+            <description>Featured tracks: Back On Earth - Until Tonight</description>
+            <guid>https://archive.cchits.net/show/5074/</guid>
+            <pubDate>Wed, 19 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 18, 2020</title>
+            <link>https://archive.cchits.net/show/5073/</link>
+            <description>Featured tracks: Color Out - Perspectives</description>
+            <guid>https://archive.cchits.net/show/5073/</guid>
+            <pubDate>Tue, 18 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 17, 2020</title>
+            <link>https://archive.cchits.net/show/5072/</link>
+            <description>Featured tracks: ElisaDay - Merry Song</description>
+            <guid>https://archive.cchits.net/show/5072/</guid>
+            <pubDate>Mon, 17 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 16, 2020</title>
+            <link>https://archive.cchits.net/show/5070/</link>
+            <description>Featured tracks: Renae - Waves (Cancer)</description>
+            <guid>https://archive.cchits.net/show/5070/</guid>
+            <pubDate>Sun, 16 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 15, 2020</title>
+            <link>https://archive.cchits.net/show/5069/</link>
+            <description>Featured tracks: On Returning - Dream Weavers</description>
+            <guid>https://archive.cchits.net/show/5069/</guid>
+            <pubDate>Sat, 15 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 14, 2020</title>
+            <link>https://archive.cchits.net/show/5067/</link>
+            <description>Featured tracks: Black Siren - Spell</description>
+            <guid>https://archive.cchits.net/show/5067/</guid>
+            <pubDate>Fri, 14 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 13, 2020</title>
+            <link>https://archive.cchits.net/show/5066/</link>
+            <description>Featured tracks: Monkeyland - Oscar Goldman</description>
+            <guid>https://archive.cchits.net/show/5066/</guid>
+            <pubDate>Thu, 13 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 12, 2020</title>
+            <link>https://archive.cchits.net/show/5065/</link>
+            <description>Featured tracks: Roller Genoa - Hanging Around</description>
+            <guid>https://archive.cchits.net/show/5065/</guid>
+            <pubDate>Wed, 12 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 11, 2020</title>
+            <link>https://archive.cchits.net/show/5064/</link>
+            <description>Featured tracks: Igor Pumphonia - Home (feat. DEKU, ITLP) (Radio Edit)</description>
+            <guid>https://archive.cchits.net/show/5064/</guid>
+            <pubDate>Tue, 11 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 10, 2020</title>
+            <link>https://archive.cchits.net/show/5063/</link>
+            <description>Featured tracks: Of The I - Stopping The World</description>
+            <guid>https://archive.cchits.net/show/5063/</guid>
+            <pubDate>Mon, 10 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 09, 2020</title>
+            <link>https://archive.cchits.net/show/5061/</link>
+            <description>Featured tracks: Tinmouth - Anxious Darlin&#x27;</description>
+            <guid>https://archive.cchits.net/show/5061/</guid>
+            <pubDate>Sun, 09 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 08, 2020</title>
+            <link>https://archive.cchits.net/show/5060/</link>
+            <description>Featured tracks: Karl Richardson - Curse Of The Hangman</description>
+            <guid>https://archive.cchits.net/show/5060/</guid>
+            <pubDate>Sat, 08 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 07, 2020</title>
+            <link>https://archive.cchits.net/show/5058/</link>
+            <description>Featured tracks: Haydn Davies - Round To My Way</description>
+            <guid>https://archive.cchits.net/show/5058/</guid>
+            <pubDate>Fri, 07 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 06, 2020</title>
+            <link>https://archive.cchits.net/show/5057/</link>
+            <description>Featured tracks: Josh Woodward - Nincompoop</description>
+            <guid>https://archive.cchits.net/show/5057/</guid>
+            <pubDate>Thu, 06 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 05, 2020</title>
+            <link>https://archive.cchits.net/show/5056/</link>
+            <description>Featured tracks: Sam Garbett - Calling You</description>
+            <guid>https://archive.cchits.net/show/5056/</guid>
+            <pubDate>Wed, 05 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 04, 2020</title>
+            <link>https://archive.cchits.net/show/5055/</link>
+            <description>Featured tracks: Staff Only - Come Back Home</description>
+            <guid>https://archive.cchits.net/show/5055/</guid>
+            <pubDate>Tue, 04 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 03, 2020</title>
+            <link>https://archive.cchits.net/show/5054/</link>
+            <description>Featured tracks: Atomic Cat - Signal</description>
+            <guid>https://archive.cchits.net/show/5054/</guid>
+            <pubDate>Mon, 03 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 02, 2020</title>
+            <link>https://archive.cchits.net/show/5052/</link>
+            <description>Featured tracks: RedSharp - Walk In The Row</description>
+            <guid>https://archive.cchits.net/show/5052/</guid>
+            <pubDate>Sun, 02 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - August 01, 2020</title>
+            <link>https://archive.cchits.net/show/5051/</link>
+            <description>Featured tracks: The Victory Drive - Hollywood</description>
+            <guid>https://archive.cchits.net/show/5051/</guid>
+            <pubDate>Sat, 01 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 31, 2020</title>
+            <link>https://archive.cchits.net/show/5048/</link>
+            <description>Featured tracks: Floppy Dee - Future</description>
+            <guid>https://archive.cchits.net/show/5048/</guid>
+            <pubDate>Fri, 31 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 30, 2020</title>
+            <link>https://archive.cchits.net/show/5047/</link>
+            <description>Featured tracks: Final Round - Shooting Stars</description>
+            <guid>https://archive.cchits.net/show/5047/</guid>
+            <pubDate>Thu, 30 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 29, 2020</title>
+            <link>https://archive.cchits.net/show/5046/</link>
+            <description>Featured tracks: Tab - b å r k a (feat. bARTek)</description>
+            <guid>https://archive.cchits.net/show/5046/</guid>
+            <pubDate>Wed, 29 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 28, 2020</title>
+            <link>https://archive.cchits.net/show/5045/</link>
+            <description>Featured tracks: Bent Muffbanger - Hit You With Love</description>
+            <guid>https://archive.cchits.net/show/5045/</guid>
+            <pubDate>Tue, 28 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 27, 2020</title>
+            <link>https://archive.cchits.net/show/5044/</link>
+            <description>Featured tracks: Kristian Vuljar - Fall to Pieces (feat. Rebecca Law)</description>
+            <guid>https://archive.cchits.net/show/5044/</guid>
+            <pubDate>Mon, 27 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 26, 2020</title>
+            <link>https://archive.cchits.net/show/5042/</link>
+            <description>Featured tracks: Goom - Bird</description>
+            <guid>https://archive.cchits.net/show/5042/</guid>
+            <pubDate>Sun, 26 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 25, 2020</title>
+            <link>https://archive.cchits.net/show/5041/</link>
+            <description>Featured tracks: Nghtshft - She Got A Way</description>
+            <guid>https://archive.cchits.net/show/5041/</guid>
+            <pubDate>Sat, 25 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 24, 2020</title>
+            <link>https://archive.cchits.net/show/5039/</link>
+            <description>Featured tracks: Raw Colors - Black Box</description>
+            <guid>https://archive.cchits.net/show/5039/</guid>
+            <pubDate>Fri, 24 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 23, 2020</title>
+            <link>https://archive.cchits.net/show/5038/</link>
+            <description>Featured tracks: Renae - Through My Eyes (Gemini)</description>
+            <guid>https://archive.cchits.net/show/5038/</guid>
+            <pubDate>Thu, 23 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 22, 2020</title>
+            <link>https://archive.cchits.net/show/5037/</link>
+            <description>Featured tracks: Kavi Jezzie Hockaday - See You Again</description>
+            <guid>https://archive.cchits.net/show/5037/</guid>
+            <pubDate>Wed, 22 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 21, 2020</title>
+            <link>https://archive.cchits.net/show/5036/</link>
+            <description>Featured tracks: Parker - Light</description>
+            <guid>https://archive.cchits.net/show/5036/</guid>
+            <pubDate>Tue, 21 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 20, 2020</title>
+            <link>https://archive.cchits.net/show/5034/</link>
+            <description>Featured tracks: The Madpix Project - Wherever You Go</description>
+            <guid>https://archive.cchits.net/show/5034/</guid>
+            <pubDate>Mon, 20 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 19, 2020</title>
+            <link>https://archive.cchits.net/show/5032/</link>
+            <description>Featured tracks: Paper Clips - Something Happened</description>
+            <guid>https://archive.cchits.net/show/5032/</guid>
+            <pubDate>Sun, 19 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 18, 2020</title>
+            <link>https://archive.cchits.net/show/5031/</link>
+            <description>Featured tracks: The Devil Music Co. - Head Over Heels</description>
+            <guid>https://archive.cchits.net/show/5031/</guid>
+            <pubDate>Sat, 18 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 17, 2020</title>
+            <link>https://archive.cchits.net/show/5029/</link>
+            <description>Featured tracks: Gemstone Heist - Daddy&#x27;s On The Mail Train</description>
+            <guid>https://archive.cchits.net/show/5029/</guid>
+            <pubDate>Fri, 17 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 16, 2020</title>
+            <link>https://archive.cchits.net/show/5028/</link>
+            <description>Featured tracks: Carrying Goodness - Lonely Lies</description>
+            <guid>https://archive.cchits.net/show/5028/</guid>
+            <pubDate>Thu, 16 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 15, 2020</title>
+            <link>https://archive.cchits.net/show/5027/</link>
+            <description>Featured tracks: D.B. Ricapito - So Crazy</description>
+            <guid>https://archive.cchits.net/show/5027/</guid>
+            <pubDate>Wed, 15 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 14, 2020</title>
+            <link>https://archive.cchits.net/show/5026/</link>
+            <description>Featured tracks: Emily and the Blackouts - Nope</description>
+            <guid>https://archive.cchits.net/show/5026/</guid>
+            <pubDate>Tue, 14 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 13, 2020</title>
+            <link>https://archive.cchits.net/show/5025/</link>
+            <description>Featured tracks: Ramova - Wonder What This Could Be</description>
+            <guid>https://archive.cchits.net/show/5025/</guid>
+            <pubDate>Mon, 13 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 12, 2020</title>
+            <link>https://archive.cchits.net/show/5023/</link>
+            <description>Featured tracks: The Rope River Blues Band - Whaletooth</description>
+            <guid>https://archive.cchits.net/show/5023/</guid>
+            <pubDate>Sun, 12 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 11, 2020</title>
+            <link>https://archive.cchits.net/show/5022/</link>
+            <description>Featured tracks: The Vow - Madrid</description>
+            <guid>https://archive.cchits.net/show/5022/</guid>
+            <pubDate>Sat, 11 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 10, 2020</title>
+            <link>https://archive.cchits.net/show/5020/</link>
+            <description>Featured tracks: Sammy Vulcano - Just One Race</description>
+            <guid>https://archive.cchits.net/show/5020/</guid>
+            <pubDate>Fri, 10 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 09, 2020</title>
+            <link>https://archive.cchits.net/show/5019/</link>
+            <description>Featured tracks: Rude - Cold Inside</description>
+            <guid>https://archive.cchits.net/show/5019/</guid>
+            <pubDate>Thu, 09 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 08, 2020</title>
+            <link>https://archive.cchits.net/show/5018/</link>
+            <description>Featured tracks: Maenoba - Incipiente</description>
+            <guid>https://archive.cchits.net/show/5018/</guid>
+            <pubDate>Wed, 08 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 07, 2020</title>
+            <link>https://archive.cchits.net/show/5017/</link>
+            <description>Featured tracks: J. Callis - You Sure?</description>
+            <guid>https://archive.cchits.net/show/5017/</guid>
+            <pubDate>Tue, 07 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 06, 2020</title>
+            <link>https://archive.cchits.net/show/5016/</link>
+            <description>Featured tracks: Kristian Vuljar - My Way</description>
+            <guid>https://archive.cchits.net/show/5016/</guid>
+            <pubDate>Mon, 06 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 05, 2020</title>
+            <link>https://archive.cchits.net/show/5014/</link>
+            <description>Featured tracks: Helen &amp;amp; Shanna - I&#x27;m Waiting</description>
+            <guid>https://archive.cchits.net/show/5014/</guid>
+            <pubDate>Sun, 05 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 04, 2020</title>
+            <link>https://archive.cchits.net/show/5013/</link>
+            <description>Featured tracks: issaamer - Anti Hayati</description>
+            <guid>https://archive.cchits.net/show/5013/</guid>
+            <pubDate>Sat, 04 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 03, 2020</title>
+            <link>https://archive.cchits.net/show/5011/</link>
+            <description>Featured tracks: Estudiante - Amor y amor</description>
+            <guid>https://archive.cchits.net/show/5011/</guid>
+            <pubDate>Fri, 03 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 02, 2020</title>
+            <link>https://archive.cchits.net/show/5010/</link>
+            <description>Featured tracks: Acting Like Heroes - Get Up Or Get Out!</description>
+            <guid>https://archive.cchits.net/show/5010/</guid>
+            <pubDate>Thu, 02 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - July 01, 2020</title>
+            <link>https://archive.cchits.net/show/5009/</link>
+            <description>Featured tracks: Atomsplit - Master Of Mistletoe</description>
+            <guid>https://archive.cchits.net/show/5009/</guid>
+            <pubDate>Wed, 01 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 30, 2020</title>
+            <link>https://archive.cchits.net/show/5007/</link>
+            <description>Featured tracks: The Spin Wires - Secret Beers</description>
+            <guid>https://archive.cchits.net/show/5007/</guid>
+            <pubDate>Tue, 30 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 29, 2020</title>
+            <link>https://archive.cchits.net/show/5006/</link>
+            <description>Featured tracks: Back On Earth - Brighten</description>
+            <guid>https://archive.cchits.net/show/5006/</guid>
+            <pubDate>Mon, 29 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 28, 2020</title>
+            <link>https://archive.cchits.net/show/5004/</link>
+            <description>Featured tracks: Emerald Park - Decease</description>
+            <guid>https://archive.cchits.net/show/5004/</guid>
+            <pubDate>Sun, 28 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 27, 2020</title>
+            <link>https://archive.cchits.net/show/5003/</link>
+            <description>Featured tracks: The Woods - An Old Man</description>
+            <guid>https://archive.cchits.net/show/5003/</guid>
+            <pubDate>Sat, 27 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 26, 2020</title>
+            <link>https://archive.cchits.net/show/5001/</link>
+            <description>Featured tracks: Fresh Body Shop - Lucky and Ugly</description>
+            <guid>https://archive.cchits.net/show/5001/</guid>
+            <pubDate>Fri, 26 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 25, 2020</title>
+            <link>https://archive.cchits.net/show/5000/</link>
+            <description>Featured tracks: Aquarius Blue - Sway</description>
+            <guid>https://archive.cchits.net/show/5000/</guid>
+            <pubDate>Thu, 25 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 24, 2020</title>
+            <link>https://archive.cchits.net/show/4999/</link>
+            <description>Featured tracks: LukHash - Walkman</description>
+            <guid>https://archive.cchits.net/show/4999/</guid>
+            <pubDate>Wed, 24 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 23, 2020</title>
+            <link>https://archive.cchits.net/show/4998/</link>
+            <description>Featured tracks: Husk - The Standoff</description>
+            <guid>https://archive.cchits.net/show/4998/</guid>
+            <pubDate>Tue, 23 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 22, 2020</title>
+            <link>https://archive.cchits.net/show/4997/</link>
+            <description>Featured tracks: Eliot Feldman - The Secret</description>
+            <guid>https://archive.cchits.net/show/4997/</guid>
+            <pubDate>Mon, 22 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 21, 2020</title>
+            <link>https://archive.cchits.net/show/4995/</link>
+            <description>Featured tracks: Always The Alibi - Mackenzie</description>
+            <guid>https://archive.cchits.net/show/4995/</guid>
+            <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 20, 2020</title>
+            <link>https://archive.cchits.net/show/4994/</link>
+            <description>Featured tracks: Moped Genius - Pale Blue Dot</description>
+            <guid>https://archive.cchits.net/show/4994/</guid>
+            <pubDate>Sat, 20 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 19, 2020</title>
+            <link>https://archive.cchits.net/show/4992/</link>
+            <description>Featured tracks: Talking To Sophie - Past</description>
+            <guid>https://archive.cchits.net/show/4992/</guid>
+            <pubDate>Fri, 19 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 18, 2020</title>
+            <link>https://archive.cchits.net/show/4991/</link>
+            <description>Featured tracks: Tom Orlando - Gospel</description>
+            <guid>https://archive.cchits.net/show/4991/</guid>
+            <pubDate>Thu, 18 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 17, 2020</title>
+            <link>https://archive.cchits.net/show/4990/</link>
+            <description>Featured tracks: Löhstana - Pour Noël</description>
+            <guid>https://archive.cchits.net/show/4990/</guid>
+            <pubDate>Wed, 17 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 16, 2020</title>
+            <link>https://archive.cchits.net/show/4989/</link>
+            <description>Featured tracks: Jamie Rumley - Back Scene</description>
+            <guid>https://archive.cchits.net/show/4989/</guid>
+            <pubDate>Tue, 16 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 15, 2020</title>
+            <link>https://archive.cchits.net/show/4988/</link>
+            <description>Featured tracks: I&#x27;m Fresh! You&#x27;re Pretty! - New York, Je T&#x27;Adore</description>
+            <guid>https://archive.cchits.net/show/4988/</guid>
+            <pubDate>Mon, 15 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 14, 2020</title>
+            <link>https://archive.cchits.net/show/4986/</link>
+            <description>Featured tracks: I Am Not Lefthanded - Stateline</description>
+            <guid>https://archive.cchits.net/show/4986/</guid>
+            <pubDate>Sun, 14 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 13, 2020</title>
+            <link>https://archive.cchits.net/show/4985/</link>
+            <description>Featured tracks: Kristian Vuljar - Seeding Dreams Max (feat. Snowflake)</description>
+            <guid>https://archive.cchits.net/show/4985/</guid>
+            <pubDate>Sat, 13 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 12, 2020</title>
+            <link>https://archive.cchits.net/show/4983/</link>
+            <description>Featured tracks: Bianca Smith - Chasing Freedom</description>
+            <guid>https://archive.cchits.net/show/4983/</guid>
+            <pubDate>Fri, 12 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 11, 2020</title>
+            <link>https://archive.cchits.net/show/4982/</link>
+            <description>Featured tracks: Samie Bower - Skyline</description>
+            <guid>https://archive.cchits.net/show/4982/</guid>
+            <pubDate>Thu, 11 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 10, 2020</title>
+            <link>https://archive.cchits.net/show/4981/</link>
+            <description>Featured tracks: Majed Salih - Eyeillfals</description>
+            <guid>https://archive.cchits.net/show/4981/</guid>
+            <pubDate>Wed, 10 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 09, 2020</title>
+            <link>https://archive.cchits.net/show/4980/</link>
+            <description>Featured tracks: Paper Clips - Ocean</description>
+            <guid>https://archive.cchits.net/show/4980/</guid>
+            <pubDate>Tue, 09 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 08, 2020</title>
+            <link>https://archive.cchits.net/show/4979/</link>
+            <description>Featured tracks: Midnight Préfou - Do You Miss Me</description>
+            <guid>https://archive.cchits.net/show/4979/</guid>
+            <pubDate>Mon, 08 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 07, 2020</title>
+            <link>https://archive.cchits.net/show/4977/</link>
+            <description>Featured tracks: Floppy Dee - Alley To The Exit</description>
+            <guid>https://archive.cchits.net/show/4977/</guid>
+            <pubDate>Sun, 07 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 06, 2020</title>
+            <link>https://archive.cchits.net/show/4976/</link>
+            <description>Featured tracks: Jaye - Dejavu</description>
+            <guid>https://archive.cchits.net/show/4976/</guid>
+            <pubDate>Sat, 06 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 05, 2020</title>
+            <link>https://archive.cchits.net/show/4974/</link>
+            <description>Featured tracks: Semme - 30,000 Miles</description>
+            <guid>https://archive.cchits.net/show/4974/</guid>
+            <pubDate>Fri, 05 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 04, 2020</title>
+            <link>https://archive.cchits.net/show/4973/</link>
+            <description>Featured tracks: Snowflake and ccMixter - Dream</description>
+            <guid>https://archive.cchits.net/show/4973/</guid>
+            <pubDate>Thu, 04 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 03, 2020</title>
+            <link>https://archive.cchits.net/show/4972/</link>
+            <description>Featured tracks: Caverns - Ambiguity</description>
+            <guid>https://archive.cchits.net/show/4972/</guid>
+            <pubDate>Wed, 03 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 02, 2020</title>
+            <link>https://archive.cchits.net/show/4971/</link>
+            <description>Featured tracks: Amy Sayer - Siren Song</description>
+            <guid>https://archive.cchits.net/show/4971/</guid>
+            <pubDate>Tue, 02 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - June 01, 2020</title>
+            <link>https://archive.cchits.net/show/4970/</link>
+            <description>Featured tracks: Roger Subirana Mata - The Other Way</description>
+            <guid>https://archive.cchits.net/show/4970/</guid>
+            <pubDate>Mon, 01 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 31, 2020</title>
+            <link>https://archive.cchits.net/show/4967/</link>
+            <description>Featured tracks: Gregor - Cinza</description>
+            <guid>https://archive.cchits.net/show/4967/</guid>
+            <pubDate>Sun, 31 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 30, 2020</title>
+            <link>https://archive.cchits.net/show/4966/</link>
+            <description>Featured tracks: Paxton Pennington - Smoke Rings</description>
+            <guid>https://archive.cchits.net/show/4966/</guid>
+            <pubDate>Sat, 30 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 29, 2020</title>
+            <link>https://archive.cchits.net/show/4964/</link>
+            <description>Featured tracks: Bod - Supergirl</description>
+            <guid>https://archive.cchits.net/show/4964/</guid>
+            <pubDate>Fri, 29 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 28, 2020</title>
+            <link>https://archive.cchits.net/show/4963/</link>
+            <description>Featured tracks: Carter Vail - Drive Home</description>
+            <guid>https://archive.cchits.net/show/4963/</guid>
+            <pubDate>Thu, 28 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 27, 2020</title>
+            <link>https://archive.cchits.net/show/4962/</link>
+            <description>Featured tracks: Paul Seling - 3 A.M.</description>
+            <guid>https://archive.cchits.net/show/4962/</guid>
+            <pubDate>Wed, 27 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 26, 2020</title>
+            <link>https://archive.cchits.net/show/4961/</link>
+            <description>Featured tracks: Barefoot McCoy - Ramble On October</description>
+            <guid>https://archive.cchits.net/show/4961/</guid>
+            <pubDate>Tue, 26 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 25, 2020</title>
+            <link>https://archive.cchits.net/show/4960/</link>
+            <description>Featured tracks: RedSharp - So Far</description>
+            <guid>https://archive.cchits.net/show/4960/</guid>
+            <pubDate>Mon, 25 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 24, 2020</title>
+            <link>https://archive.cchits.net/show/4958/</link>
+            <description>Featured tracks: Nick Gordy - Old Photo Album</description>
+            <guid>https://archive.cchits.net/show/4958/</guid>
+            <pubDate>Sun, 24 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 23, 2020</title>
+            <link>https://archive.cchits.net/show/4957/</link>
+            <description>Featured tracks: Square A Saw - Wake Up</description>
+            <guid>https://archive.cchits.net/show/4957/</guid>
+            <pubDate>Sat, 23 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 22, 2020</title>
+            <link>https://archive.cchits.net/show/4955/</link>
+            <description>Featured tracks: waterpistol - Shake Your Tush</description>
+            <guid>https://archive.cchits.net/show/4955/</guid>
+            <pubDate>Fri, 22 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 21, 2020</title>
+            <link>https://archive.cchits.net/show/4954/</link>
+            <description>Featured tracks: Deep Sea Gypsies - Breaking Me Down</description>
+            <guid>https://archive.cchits.net/show/4954/</guid>
+            <pubDate>Thu, 21 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 20, 2020</title>
+            <link>https://archive.cchits.net/show/4953/</link>
+            <description>Featured tracks: TriplosT - Fragile</description>
+            <guid>https://archive.cchits.net/show/4953/</guid>
+            <pubDate>Wed, 20 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 19, 2020</title>
+            <link>https://archive.cchits.net/show/4952/</link>
+            <description>Featured tracks: Café Del Chillia - Butterfly</description>
+            <guid>https://archive.cchits.net/show/4952/</guid>
+            <pubDate>Tue, 19 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 18, 2020</title>
+            <link>https://archive.cchits.net/show/4951/</link>
+            <description>Featured tracks: Awareness - Pink Glasses</description>
+            <guid>https://archive.cchits.net/show/4951/</guid>
+            <pubDate>Mon, 18 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 17, 2020</title>
+            <link>https://archive.cchits.net/show/4949/</link>
+            <description>Featured tracks: Omonoko - Emerald</description>
+            <guid>https://archive.cchits.net/show/4949/</guid>
+            <pubDate>Sun, 17 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 16, 2020</title>
+            <link>https://archive.cchits.net/show/4948/</link>
+            <description>Featured tracks: Wordsmith - A Wonderful Day</description>
+            <guid>https://archive.cchits.net/show/4948/</guid>
+            <pubDate>Sat, 16 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 15, 2020</title>
+            <link>https://archive.cchits.net/show/4946/</link>
+            <description>Featured tracks: Kinematic - Two</description>
+            <guid>https://archive.cchits.net/show/4946/</guid>
+            <pubDate>Fri, 15 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 14, 2020</title>
+            <link>https://archive.cchits.net/show/4945/</link>
+            <description>Featured tracks: Alfonso Lugo - Stamina (feat. Jasmine Crowe)</description>
+            <guid>https://archive.cchits.net/show/4945/</guid>
+            <pubDate>Thu, 14 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 13, 2020</title>
+            <link>https://archive.cchits.net/show/4944/</link>
+            <description>Featured tracks: Summer Ash - Milkman</description>
+            <guid>https://archive.cchits.net/show/4944/</guid>
+            <pubDate>Wed, 13 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 12, 2020</title>
+            <link>https://archive.cchits.net/show/4943/</link>
+            <description>Featured tracks: Paper Clips - I&#x27;m Dead</description>
+            <guid>https://archive.cchits.net/show/4943/</guid>
+            <pubDate>Tue, 12 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 11, 2020</title>
+            <link>https://archive.cchits.net/show/4942/</link>
+            <description>Featured tracks: The Vow - Venus Girl</description>
+            <guid>https://archive.cchits.net/show/4942/</guid>
+            <pubDate>Mon, 11 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 10, 2020</title>
+            <link>https://archive.cchits.net/show/4940/</link>
+            <description>Featured tracks: Seth Power - Get Up</description>
+            <guid>https://archive.cchits.net/show/4940/</guid>
+            <pubDate>Sun, 10 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 09, 2020</title>
+            <link>https://archive.cchits.net/show/4939/</link>
+            <description>Featured tracks: AIRE - This Is War</description>
+            <guid>https://archive.cchits.net/show/4939/</guid>
+            <pubDate>Sat, 09 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 08, 2020</title>
+            <link>https://archive.cchits.net/show/4937/</link>
+            <description>Featured tracks: Quietly Concerned - The End</description>
+            <guid>https://archive.cchits.net/show/4937/</guid>
+            <pubDate>Fri, 08 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 07, 2020</title>
+            <link>https://archive.cchits.net/show/4936/</link>
+            <description>Featured tracks: Back On Earth - Don&#x27;t Stay</description>
+            <guid>https://archive.cchits.net/show/4936/</guid>
+            <pubDate>Thu, 07 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 06, 2020</title>
+            <link>https://archive.cchits.net/show/4935/</link>
+            <description>Featured tracks: Dash - Booty Clap</description>
+            <guid>https://archive.cchits.net/show/4935/</guid>
+            <pubDate>Wed, 06 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 05, 2020</title>
+            <link>https://archive.cchits.net/show/4934/</link>
+            <description>Featured tracks: Deanmoore - Cannot Run/Cannot Hide</description>
+            <guid>https://archive.cchits.net/show/4934/</guid>
+            <pubDate>Tue, 05 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 04, 2020</title>
+            <link>https://archive.cchits.net/show/4933/</link>
+            <description>Featured tracks: Virgin Joy - Let Go</description>
+            <guid>https://archive.cchits.net/show/4933/</guid>
+            <pubDate>Mon, 04 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 03, 2020</title>
+            <link>https://archive.cchits.net/show/4931/</link>
+            <description>Featured tracks: Eliot Feldman - Only Dreaming</description>
+            <guid>https://archive.cchits.net/show/4931/</guid>
+            <pubDate>Sun, 03 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 02, 2020</title>
+            <link>https://archive.cchits.net/show/4930/</link>
+            <description>Featured tracks: OnesteP - Endless Chain</description>
+            <guid>https://archive.cchits.net/show/4930/</guid>
+            <pubDate>Sat, 02 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - May 01, 2020</title>
+            <link>https://archive.cchits.net/show/4928/</link>
+            <description>Featured tracks: Ralf G. - When The Snow Falls</description>
+            <guid>https://archive.cchits.net/show/4928/</guid>
+            <pubDate>Fri, 01 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 30, 2020</title>
+            <link>https://archive.cchits.net/show/4926/</link>
+            <description>Featured tracks: Monkeyland - The House That Leaves You Always Wanting More</description>
+            <guid>https://archive.cchits.net/show/4926/</guid>
+            <pubDate>Thu, 30 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 29, 2020</title>
+            <link>https://archive.cchits.net/show/4925/</link>
+            <description>Featured tracks: Vitne - Winter Love Song</description>
+            <guid>https://archive.cchits.net/show/4925/</guid>
+            <pubDate>Wed, 29 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 28, 2020</title>
+            <link>https://archive.cchits.net/show/4924/</link>
+            <description>Featured tracks: The Rabbitts - Midnight Moon</description>
+            <guid>https://archive.cchits.net/show/4924/</guid>
+            <pubDate>Tue, 28 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 27, 2020</title>
+            <link>https://archive.cchits.net/show/4923/</link>
+            <description>Featured tracks: West Coast Weekend - Heart Attack</description>
+            <guid>https://archive.cchits.net/show/4923/</guid>
+            <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 26, 2020</title>
+            <link>https://archive.cchits.net/show/4921/</link>
+            <description>Featured tracks: The Gays - Out Of Love</description>
+            <guid>https://archive.cchits.net/show/4921/</guid>
+            <pubDate>Sun, 26 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 25, 2020</title>
+            <link>https://archive.cchits.net/show/4920/</link>
+            <description>Featured tracks: Sam Smithwick - Tennessee</description>
+            <guid>https://archive.cchits.net/show/4920/</guid>
+            <pubDate>Sat, 25 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 24, 2020</title>
+            <link>https://archive.cchits.net/show/4918/</link>
+            <description>Featured tracks: The Spin Wires - So Hot</description>
+            <guid>https://archive.cchits.net/show/4918/</guid>
+            <pubDate>Fri, 24 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 23, 2020</title>
+            <link>https://archive.cchits.net/show/4917/</link>
+            <description>Featured tracks: Rude - Never Let Me Down</description>
+            <guid>https://archive.cchits.net/show/4917/</guid>
+            <pubDate>Thu, 23 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 22, 2020</title>
+            <link>https://archive.cchits.net/show/4916/</link>
+            <description>Featured tracks: MoOt - Yer Gorra Cob On</description>
+            <guid>https://archive.cchits.net/show/4916/</guid>
+            <pubDate>Wed, 22 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 21, 2020</title>
+            <link>https://archive.cchits.net/show/4915/</link>
+            <description>Featured tracks: Paxton Pennington - Honey</description>
+            <guid>https://archive.cchits.net/show/4915/</guid>
+            <pubDate>Tue, 21 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 20, 2020</title>
+            <link>https://archive.cchits.net/show/4914/</link>
+            <description>Featured tracks: Natasha Niycole - It Wasn&#x27;t You</description>
+            <guid>https://archive.cchits.net/show/4914/</guid>
+            <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 19, 2020</title>
+            <link>https://archive.cchits.net/show/4912/</link>
+            <description>Featured tracks: Loveshadow - Unbury Your Heart (feat. Snowflake)</description>
+            <guid>https://archive.cchits.net/show/4912/</guid>
+            <pubDate>Sun, 19 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 18, 2020</title>
+            <link>https://archive.cchits.net/show/4911/</link>
+            <description>Featured tracks: Secret Jane - Wakey Wakey</description>
+            <guid>https://archive.cchits.net/show/4911/</guid>
+            <pubDate>Sat, 18 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 17, 2020</title>
+            <link>https://archive.cchits.net/show/4909/</link>
+            <description>Featured tracks: The Tunnel - Apparition Overdrive</description>
+            <guid>https://archive.cchits.net/show/4909/</guid>
+            <pubDate>Fri, 17 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 16, 2020</title>
+            <link>https://archive.cchits.net/show/4908/</link>
+            <description>Featured tracks: Sick and Fancy - Mr. White</description>
+            <guid>https://archive.cchits.net/show/4908/</guid>
+            <pubDate>Thu, 16 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 15, 2020</title>
+            <link>https://archive.cchits.net/show/4907/</link>
+            <description>Featured tracks: Lewis - Handmedown Love</description>
+            <guid>https://archive.cchits.net/show/4907/</guid>
+            <pubDate>Wed, 15 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 14, 2020</title>
+            <link>https://archive.cchits.net/show/4906/</link>
+            <description>Featured tracks: APG - Only Black And White</description>
+            <guid>https://archive.cchits.net/show/4906/</guid>
+            <pubDate>Tue, 14 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 13, 2020</title>
+            <link>https://archive.cchits.net/show/4905/</link>
+            <description>Featured tracks: Kavi Jezzie Hockaday - The Final Dance</description>
+            <guid>https://archive.cchits.net/show/4905/</guid>
+            <pubDate>Mon, 13 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 12, 2020</title>
+            <link>https://archive.cchits.net/show/4903/</link>
+            <description>Featured tracks: Brody Blackburn - Silhouette</description>
+            <guid>https://archive.cchits.net/show/4903/</guid>
+            <pubDate>Sun, 12 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 11, 2020</title>
+            <link>https://archive.cchits.net/show/4902/</link>
+            <description>Featured tracks: Kristian Vuljar - Borrowing 2020</description>
+            <guid>https://archive.cchits.net/show/4902/</guid>
+            <pubDate>Sat, 11 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 10, 2020</title>
+            <link>https://archive.cchits.net/show/4900/</link>
+            <description>Featured tracks: Strained - The Cage</description>
+            <guid>https://archive.cchits.net/show/4900/</guid>
+            <pubDate>Fri, 10 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 09, 2020</title>
+            <link>https://archive.cchits.net/show/4899/</link>
+            <description>Featured tracks: Monocyte - Monsters</description>
+            <guid>https://archive.cchits.net/show/4899/</guid>
+            <pubDate>Thu, 09 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 08, 2020</title>
+            <link>https://archive.cchits.net/show/4898/</link>
+            <description>Featured tracks: Studio In The Sticks - Blow Your Ashes Away</description>
+            <guid>https://archive.cchits.net/show/4898/</guid>
+            <pubDate>Wed, 08 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 07, 2020</title>
+            <link>https://archive.cchits.net/show/4897/</link>
+            <description>Featured tracks: Renae - Rebels With A Cause</description>
+            <guid>https://archive.cchits.net/show/4897/</guid>
+            <pubDate>Tue, 07 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 06, 2020</title>
+            <link>https://archive.cchits.net/show/4896/</link>
+            <description>Featured tracks: Richard Shekari - Forever and Beyond</description>
+            <guid>https://archive.cchits.net/show/4896/</guid>
+            <pubDate>Mon, 06 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 05, 2020</title>
+            <link>https://archive.cchits.net/show/4894/</link>
+            <description>Featured tracks: Chalk Dinosaur - Donutman</description>
+            <guid>https://archive.cchits.net/show/4894/</guid>
+            <pubDate>Sun, 05 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 04, 2020</title>
+            <link>https://archive.cchits.net/show/4893/</link>
+            <description>Featured tracks: Bellevue - Paper Town</description>
+            <guid>https://archive.cchits.net/show/4893/</guid>
+            <pubDate>Sat, 04 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 03, 2020</title>
+            <link>https://archive.cchits.net/show/4891/</link>
+            <description>Featured tracks: bARTek - Miau (feat. Anne Groen)</description>
+            <guid>https://archive.cchits.net/show/4891/</guid>
+            <pubDate>Fri, 03 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 02, 2020</title>
+            <link>https://archive.cchits.net/show/4890/</link>
+            <description>Featured tracks: Adam Scott York - Two Years Away</description>
+            <guid>https://archive.cchits.net/show/4890/</guid>
+            <pubDate>Thu, 02 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - April 01, 2020</title>
+            <link>https://archive.cchits.net/show/4889/</link>
+            <description>Featured tracks: The Absolute Sky - Blink Of An Eye</description>
+            <guid>https://archive.cchits.net/show/4889/</guid>
+            <pubDate>Wed, 01 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 31, 2020</title>
+            <link>https://archive.cchits.net/show/4887/</link>
+            <description>Featured tracks: Yuri V. Antonov - Smell Of Fear</description>
+            <guid>https://archive.cchits.net/show/4887/</guid>
+            <pubDate>Tue, 31 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 30, 2020</title>
+            <link>https://archive.cchits.net/show/4886/</link>
+            <description>Featured tracks: Romancoke - Heed The Day</description>
+            <guid>https://archive.cchits.net/show/4886/</guid>
+            <pubDate>Mon, 30 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 29, 2020</title>
+            <link>https://archive.cchits.net/show/4884/</link>
+            <description>Featured tracks: Curtis Holland Jr. - Good Man</description>
+            <guid>https://archive.cchits.net/show/4884/</guid>
+            <pubDate>Sun, 29 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 28, 2020</title>
+            <link>https://archive.cchits.net/show/4883/</link>
+            <description>Featured tracks: Anydoll - Paranoid</description>
+            <guid>https://archive.cchits.net/show/4883/</guid>
+            <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 27, 2020</title>
+            <link>https://archive.cchits.net/show/4881/</link>
+            <description>Featured tracks: Kinematic - 5 O&#x27;Clock High</description>
+            <guid>https://archive.cchits.net/show/4881/</guid>
+            <pubDate>Fri, 27 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 26, 2020</title>
+            <link>https://archive.cchits.net/show/4880/</link>
+            <description>Featured tracks: The Spin Wires - Blackout Romeo</description>
+            <guid>https://archive.cchits.net/show/4880/</guid>
+            <pubDate>Thu, 26 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 25, 2020</title>
+            <link>https://archive.cchits.net/show/4879/</link>
+            <description>Featured tracks: Tab - Syncopatience (feat. Jade Gritty &amp; Lusty Apricot)</description>
+            <guid>https://archive.cchits.net/show/4879/</guid>
+            <pubDate>Wed, 25 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 24, 2020</title>
+            <link>https://archive.cchits.net/show/4878/</link>
+            <description>Featured tracks: Final Round - Hey Tracey</description>
+            <guid>https://archive.cchits.net/show/4878/</guid>
+            <pubDate>Tue, 24 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 23, 2020</title>
+            <link>https://archive.cchits.net/show/4877/</link>
+            <description>Featured tracks: Quentin Hannappe - Go Away</description>
+            <guid>https://archive.cchits.net/show/4877/</guid>
+            <pubDate>Mon, 23 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 22, 2020</title>
+            <link>https://archive.cchits.net/show/4875/</link>
+            <description>Featured tracks: Leslie Hunt - I</description>
+            <guid>https://archive.cchits.net/show/4875/</guid>
+            <pubDate>Sun, 22 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 21, 2020</title>
+            <link>https://archive.cchits.net/show/4874/</link>
+            <description>Featured tracks: Eliot Feldman - Song Of My Life</description>
+            <guid>https://archive.cchits.net/show/4874/</guid>
+            <pubDate>Sat, 21 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 20, 2020</title>
+            <link>https://archive.cchits.net/show/4872/</link>
+            <description>Featured tracks: LadyLau - Rainbow Thoughts</description>
+            <guid>https://archive.cchits.net/show/4872/</guid>
+            <pubDate>Fri, 20 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 19, 2020</title>
+            <link>https://archive.cchits.net/show/4871/</link>
+            <description>Featured tracks: The Woods - Man On The Sea (feat. Mauro Castucci)</description>
+            <guid>https://archive.cchits.net/show/4871/</guid>
+            <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 18, 2020</title>
+            <link>https://archive.cchits.net/show/4870/</link>
+            <description>Featured tracks: Brody Blackburn - Twenty Something</description>
+            <guid>https://archive.cchits.net/show/4870/</guid>
+            <pubDate>Wed, 18 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 17, 2020</title>
+            <link>https://archive.cchits.net/show/4869/</link>
+            <description>Featured tracks: RVNS - Somebody</description>
+            <guid>https://archive.cchits.net/show/4869/</guid>
+            <pubDate>Tue, 17 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 16, 2020</title>
+            <link>https://archive.cchits.net/show/4868/</link>
+            <description>Featured tracks: Igor Pumphonia - What A Feeling (Original Mix)</description>
+            <guid>https://archive.cchits.net/show/4868/</guid>
+            <pubDate>Mon, 16 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 15, 2020</title>
+            <link>https://archive.cchits.net/show/4866/</link>
+            <description>Featured tracks: SICK - Close Call</description>
+            <guid>https://archive.cchits.net/show/4866/</guid>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 14, 2020</title>
+            <link>https://archive.cchits.net/show/4865/</link>
+            <description>Featured tracks: Starmob - Mooncaves</description>
+            <guid>https://archive.cchits.net/show/4865/</guid>
+            <pubDate>Sat, 14 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 13, 2020</title>
+            <link>https://archive.cchits.net/show/4863/</link>
+            <description>Featured tracks: The Liquid Kitchen - Song No.9</description>
+            <guid>https://archive.cchits.net/show/4863/</guid>
+            <pubDate>Fri, 13 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 12, 2020</title>
+            <link>https://archive.cchits.net/show/4862/</link>
+            <description>Featured tracks: Brady Harris - Starlite Tonight</description>
+            <guid>https://archive.cchits.net/show/4862/</guid>
+            <pubDate>Thu, 12 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 11, 2020</title>
+            <link>https://archive.cchits.net/show/4861/</link>
+            <description>Featured tracks: The Rabbitts - Luna Lupe</description>
+            <guid>https://archive.cchits.net/show/4861/</guid>
+            <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 10, 2020</title>
+            <link>https://archive.cchits.net/show/4860/</link>
+            <description>Featured tracks: Daniel Catarino - Frontline</description>
+            <guid>https://archive.cchits.net/show/4860/</guid>
+            <pubDate>Tue, 10 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 09, 2020</title>
+            <link>https://archive.cchits.net/show/4859/</link>
+            <description>Featured tracks: Toko Joyce - What Do I Know About Stars?</description>
+            <guid>https://archive.cchits.net/show/4859/</guid>
+            <pubDate>Mon, 09 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 08, 2020</title>
+            <link>https://archive.cchits.net/show/4857/</link>
+            <description>Featured tracks: Carter Vail - Milk Carton</description>
+            <guid>https://archive.cchits.net/show/4857/</guid>
+            <pubDate>Sun, 08 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 07, 2020</title>
+            <link>https://archive.cchits.net/show/4856/</link>
+            <description>Featured tracks: The Zombie Dandies - Boogeyman</description>
+            <guid>https://archive.cchits.net/show/4856/</guid>
+            <pubDate>Sat, 07 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 06, 2020</title>
+            <link>https://archive.cchits.net/show/4854/</link>
+            <description>Featured tracks: The Spin Wires - Fifth Grade</description>
+            <guid>https://archive.cchits.net/show/4854/</guid>
+            <pubDate>Fri, 06 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 05, 2020</title>
+            <link>https://archive.cchits.net/show/4853/</link>
+            <description>Featured tracks: Parker - Television</description>
+            <guid>https://archive.cchits.net/show/4853/</guid>
+            <pubDate>Thu, 05 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 04, 2020</title>
+            <link>https://archive.cchits.net/show/4852/</link>
+            <description>Featured tracks: Rasmus Söderberg - Run Like Fire</description>
+            <guid>https://archive.cchits.net/show/4852/</guid>
+            <pubDate>Wed, 04 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 03, 2020</title>
+            <link>https://archive.cchits.net/show/4851/</link>
+            <description>Featured tracks: Pokki DJ - No Prayers</description>
+            <guid>https://archive.cchits.net/show/4851/</guid>
+            <pubDate>Tue, 03 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 02, 2020</title>
+            <link>https://archive.cchits.net/show/4850/</link>
+            <description>Featured tracks: Heifervescent - What Have I Done Now</description>
+            <guid>https://archive.cchits.net/show/4850/</guid>
+            <pubDate>Mon, 02 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - March 01, 2020</title>
+            <link>https://archive.cchits.net/show/4848/</link>
+            <description>Featured tracks: Josh Woodward - Vanishing Note</description>
+            <guid>https://archive.cchits.net/show/4848/</guid>
+            <pubDate>Sun, 01 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 29, 2020</title>
+            <link>https://archive.cchits.net/show/4846/</link>
+            <description>Featured tracks: Tedesko &amp;amp; The Monomagical Band - Blind</description>
+            <guid>https://archive.cchits.net/show/4846/</guid>
+            <pubDate>Sat, 29 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 28, 2020</title>
+            <link>https://archive.cchits.net/show/4844/</link>
+            <description>Featured tracks: Carrying Goodness - Brothers</description>
+            <guid>https://archive.cchits.net/show/4844/</guid>
+            <pubDate>Fri, 28 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 27, 2020</title>
+            <link>https://archive.cchits.net/show/4843/</link>
+            <description>Featured tracks: NF//GS - All I Know</description>
+            <guid>https://archive.cchits.net/show/4843/</guid>
+            <pubDate>Thu, 27 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 26, 2020</title>
+            <link>https://archive.cchits.net/show/4842/</link>
+            <description>Featured tracks: Estudiante - Acompañame</description>
+            <guid>https://archive.cchits.net/show/4842/</guid>
+            <pubDate>Wed, 26 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 25, 2020</title>
+            <link>https://archive.cchits.net/show/4841/</link>
+            <description>Featured tracks: Simillar - Runaway</description>
+            <guid>https://archive.cchits.net/show/4841/</guid>
+            <pubDate>Tue, 25 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 24, 2020</title>
+            <link>https://archive.cchits.net/show/4840/</link>
+            <description>Featured tracks: The Man In Washington - Coastline Meets Atmosphere</description>
+            <guid>https://archive.cchits.net/show/4840/</guid>
+            <pubDate>Mon, 24 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 23, 2020</title>
+            <link>https://archive.cchits.net/show/4838/</link>
+            <description>Featured tracks: Lea Anderson - Love Yah!</description>
+            <guid>https://archive.cchits.net/show/4838/</guid>
+            <pubDate>Sun, 23 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 22, 2020</title>
+            <link>https://archive.cchits.net/show/4837/</link>
+            <description>Featured tracks: The Devil Music Co. - Fool&#x27;s Gold</description>
+            <guid>https://archive.cchits.net/show/4837/</guid>
+            <pubDate>Sat, 22 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 21, 2020</title>
+            <link>https://archive.cchits.net/show/4835/</link>
+            <description>Featured tracks: Emerson - Nothing Sink Into Oblivion</description>
+            <guid>https://archive.cchits.net/show/4835/</guid>
+            <pubDate>Fri, 21 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 20, 2020</title>
+            <link>https://archive.cchits.net/show/4834/</link>
+            <description>Featured tracks: Color Out - High Hopes</description>
+            <guid>https://archive.cchits.net/show/4834/</guid>
+            <pubDate>Thu, 20 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 19, 2020</title>
+            <link>https://archive.cchits.net/show/4833/</link>
+            <description>Featured tracks: Living Camboya - Amor Pletórico</description>
+            <guid>https://archive.cchits.net/show/4833/</guid>
+            <pubDate>Wed, 19 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 18, 2020</title>
+            <link>https://archive.cchits.net/show/4832/</link>
+            <description>Featured tracks: Quentin Hannappe - The World Is Yours</description>
+            <guid>https://archive.cchits.net/show/4832/</guid>
+            <pubDate>Tue, 18 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 17, 2020</title>
+            <link>https://archive.cchits.net/show/4831/</link>
+            <description>Featured tracks: Haka - Down On My Knees</description>
+            <guid>https://archive.cchits.net/show/4831/</guid>
+            <pubDate>Mon, 17 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 16, 2020</title>
+            <link>https://archive.cchits.net/show/4829/</link>
+            <description>Featured tracks: ikkubaru - Street Walkin&#x27;</description>
+            <guid>https://archive.cchits.net/show/4829/</guid>
+            <pubDate>Sun, 16 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 15, 2020</title>
+            <link>https://archive.cchits.net/show/4828/</link>
+            <description>Featured tracks: Kavi Jezzie Hockaday - Love You More</description>
+            <guid>https://archive.cchits.net/show/4828/</guid>
+            <pubDate>Sat, 15 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 14, 2020</title>
+            <link>https://archive.cchits.net/show/4826/</link>
+            <description>Featured tracks: Tab - Typical</description>
+            <guid>https://archive.cchits.net/show/4826/</guid>
+            <pubDate>Fri, 14 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 13, 2020</title>
+            <link>https://archive.cchits.net/show/4825/</link>
+            <description>Featured tracks: Neon NiteClub - Money</description>
+            <guid>https://archive.cchits.net/show/4825/</guid>
+            <pubDate>Thu, 13 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 12, 2020</title>
+            <link>https://archive.cchits.net/show/4824/</link>
+            <description>Featured tracks: Liv Margaret - Kiss Me</description>
+            <guid>https://archive.cchits.net/show/4824/</guid>
+            <pubDate>Wed, 12 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 11, 2020</title>
+            <link>https://archive.cchits.net/show/4823/</link>
+            <description>Featured tracks: Glass Violet - Over The Moor</description>
+            <guid>https://archive.cchits.net/show/4823/</guid>
+            <pubDate>Tue, 11 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 10, 2020</title>
+            <link>https://archive.cchits.net/show/4822/</link>
+            <description>Featured tracks: Josh Woodward - Bully</description>
+            <guid>https://archive.cchits.net/show/4822/</guid>
+            <pubDate>Mon, 10 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 09, 2020</title>
+            <link>https://archive.cchits.net/show/4820/</link>
+            <description>Featured tracks: Niki J Crawford - Mama Cried</description>
+            <guid>https://archive.cchits.net/show/4820/</guid>
+            <pubDate>Sun, 09 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 08, 2020</title>
+            <link>https://archive.cchits.net/show/4819/</link>
+            <description>Featured tracks: Tom Orlando - Wasn&#x27;t Enough (feat. Michelle)</description>
+            <guid>https://archive.cchits.net/show/4819/</guid>
+            <pubDate>Sat, 08 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 07, 2020</title>
+            <link>https://archive.cchits.net/show/4818/</link>
+            <description>Featured tracks: Julie &amp;amp; Gent - Partners In Crime</description>
+            <guid>https://archive.cchits.net/show/4818/</guid>
+            <pubDate>Fri, 07 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 06, 2020</title>
+            <link>https://archive.cchits.net/show/4816/</link>
+            <description>Featured tracks: Dr Groove Gang - Sweet Soul Musik</description>
+            <guid>https://archive.cchits.net/show/4816/</guid>
+            <pubDate>Thu, 06 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 05, 2020</title>
+            <link>https://archive.cchits.net/show/4815/</link>
+            <description>Featured tracks: The DŁX - Don&#x27;t Wanna Go</description>
+            <guid>https://archive.cchits.net/show/4815/</guid>
+            <pubDate>Wed, 05 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 04, 2020</title>
+            <link>https://archive.cchits.net/show/4814/</link>
+            <description>Featured tracks: Caeleb Doughty - Distant Memory</description>
+            <guid>https://archive.cchits.net/show/4814/</guid>
+            <pubDate>Tue, 04 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 03, 2020</title>
+            <link>https://archive.cchits.net/show/4813/</link>
+            <description>Featured tracks: Mike Phirman - Thanksgiving Dinner</description>
+            <guid>https://archive.cchits.net/show/4813/</guid>
+            <pubDate>Mon, 03 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 02, 2020</title>
+            <link>https://archive.cchits.net/show/4811/</link>
+            <description>Featured tracks: The Devil Music Co. - Acid (Redux)</description>
+            <guid>https://archive.cchits.net/show/4811/</guid>
+            <pubDate>Sun, 02 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - February 01, 2020</title>
+            <link>https://archive.cchits.net/show/4810/</link>
+            <description>Featured tracks: Allie Farris - Work, Work, Work</description>
+            <guid>https://archive.cchits.net/show/4810/</guid>
+            <pubDate>Sat, 01 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 31, 2020</title>
+            <link>https://archive.cchits.net/show/4807/</link>
+            <description>Featured tracks: Sick and Fancy - Violet Mind</description>
+            <guid>https://archive.cchits.net/show/4807/</guid>
+            <pubDate>Fri, 31 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 30, 2020</title>
+            <link>https://archive.cchits.net/show/4806/</link>
+            <description>Featured tracks: Forget The Whale - Man Outta Town</description>
+            <guid>https://archive.cchits.net/show/4806/</guid>
+            <pubDate>Thu, 30 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 29, 2020</title>
+            <link>https://archive.cchits.net/show/4805/</link>
+            <description>Featured tracks: George Capon - Underground</description>
+            <guid>https://archive.cchits.net/show/4805/</guid>
+            <pubDate>Wed, 29 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 28, 2020</title>
+            <link>https://archive.cchits.net/show/4804/</link>
+            <description>Featured tracks: Aquarius Blue - They’re Watching You</description>
+            <guid>https://archive.cchits.net/show/4804/</guid>
+            <pubDate>Tue, 28 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 27, 2020</title>
+            <link>https://archive.cchits.net/show/4803/</link>
+            <description>Featured tracks: Sam Garbett - When I Saw You Dance</description>
+            <guid>https://archive.cchits.net/show/4803/</guid>
+            <pubDate>Mon, 27 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 26, 2020</title>
+            <link>https://archive.cchits.net/show/4801/</link>
+            <description>Featured tracks: John Dada &amp; the Weathermen - M.O.</description>
+            <guid>https://archive.cchits.net/show/4801/</guid>
+            <pubDate>Sun, 26 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 25, 2020</title>
+            <link>https://archive.cchits.net/show/4800/</link>
+            <description>Featured tracks: Neon NiteClub - Undercover</description>
+            <guid>https://archive.cchits.net/show/4800/</guid>
+            <pubDate>Sat, 25 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 24, 2020</title>
+            <link>https://archive.cchits.net/show/4798/</link>
+            <description>Featured tracks: MOGU - Dancing Like Fire</description>
+            <guid>https://archive.cchits.net/show/4798/</guid>
+            <pubDate>Fri, 24 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 23, 2020</title>
+            <link>https://archive.cchits.net/show/4797/</link>
+            <description>Featured tracks: Axl &amp;amp; Arth - Triumphant</description>
+            <guid>https://archive.cchits.net/show/4797/</guid>
+            <pubDate>Thu, 23 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 22, 2020</title>
+            <link>https://archive.cchits.net/show/4796/</link>
+            <description>Featured tracks: Kinematic - (Even Then) The Band Played On</description>
+            <guid>https://archive.cchits.net/show/4796/</guid>
+            <pubDate>Wed, 22 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 21, 2020</title>
+            <link>https://archive.cchits.net/show/4795/</link>
+            <description>Featured tracks: Kwasi Manni - Sleepless Nights</description>
+            <guid>https://archive.cchits.net/show/4795/</guid>
+            <pubDate>Tue, 21 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 20, 2020</title>
+            <link>https://archive.cchits.net/show/4794/</link>
+            <description>Featured tracks: Rivers and Leaves - If I</description>
+            <guid>https://archive.cchits.net/show/4794/</guid>
+            <pubDate>Mon, 20 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 19, 2020</title>
+            <link>https://archive.cchits.net/show/4792/</link>
+            <description>Featured tracks: BLC Mirror CLB - Punk Scum Singalong</description>
+            <guid>https://archive.cchits.net/show/4792/</guid>
+            <pubDate>Sun, 19 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 18, 2020</title>
+            <link>https://archive.cchits.net/show/4791/</link>
+            <description>Featured tracks: Emmanuel Dalmas - Lorelei (Girl version)</description>
+            <guid>https://archive.cchits.net/show/4791/</guid>
+            <pubDate>Sat, 18 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 17, 2020</title>
+            <link>https://archive.cchits.net/show/4789/</link>
+            <description>Featured tracks: A Sunday Afternoon - Times Journey</description>
+            <guid>https://archive.cchits.net/show/4789/</guid>
+            <pubDate>Fri, 17 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 16, 2020</title>
+            <link>https://archive.cchits.net/show/4788/</link>
+            <description>Featured tracks: Vitne - Escape</description>
+            <guid>https://archive.cchits.net/show/4788/</guid>
+            <pubDate>Thu, 16 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 15, 2020</title>
+            <link>https://archive.cchits.net/show/4787/</link>
+            <description>Featured tracks: Marco Buono - Mister Snowman</description>
+            <guid>https://archive.cchits.net/show/4787/</guid>
+            <pubDate>Wed, 15 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 14, 2020</title>
+            <link>https://archive.cchits.net/show/4786/</link>
+            <description>Featured tracks: Square A Saw - Don&#x27;t Lock Me Out</description>
+            <guid>https://archive.cchits.net/show/4786/</guid>
+            <pubDate>Tue, 14 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 13, 2020</title>
+            <link>https://archive.cchits.net/show/4785/</link>
+            <description>Featured tracks: SadMe - Zarathustra (Live)</description>
+            <guid>https://archive.cchits.net/show/4785/</guid>
+            <pubDate>Mon, 13 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 12, 2020</title>
+            <link>https://archive.cchits.net/show/4783/</link>
+            <description>Featured tracks: Sunflower - Fading</description>
+            <guid>https://archive.cchits.net/show/4783/</guid>
+            <pubDate>Sun, 12 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 11, 2020</title>
+            <link>https://archive.cchits.net/show/4782/</link>
+            <description>Featured tracks: Sonic Wash - Can You See The Sun?</description>
+            <guid>https://archive.cchits.net/show/4782/</guid>
+            <pubDate>Sat, 11 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 10, 2020</title>
+            <link>https://archive.cchits.net/show/4780/</link>
+            <description>Featured tracks: The Ladies Of - Two Trains One Track</description>
+            <guid>https://archive.cchits.net/show/4780/</guid>
+            <pubDate>Fri, 10 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 09, 2020</title>
+            <link>https://archive.cchits.net/show/4779/</link>
+            <description>Featured tracks: Lilly Wolf - Missed Connection</description>
+            <guid>https://archive.cchits.net/show/4779/</guid>
+            <pubDate>Thu, 09 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 08, 2020</title>
+            <link>https://archive.cchits.net/show/4778/</link>
+            <description>Featured tracks: Devon Elizabeth - Paper Lantern</description>
+            <guid>https://archive.cchits.net/show/4778/</guid>
+            <pubDate>Wed, 08 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 07, 2020</title>
+            <link>https://archive.cchits.net/show/4777/</link>
+            <description>Featured tracks: The Gray Havens - Let&#x27;s Get Married</description>
+            <guid>https://archive.cchits.net/show/4777/</guid>
+            <pubDate>Tue, 07 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 06, 2020</title>
+            <link>https://archive.cchits.net/show/4776/</link>
+            <description>Featured tracks: Monkeyland - Come Fly With Me</description>
+            <guid>https://archive.cchits.net/show/4776/</guid>
+            <pubDate>Mon, 06 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 05, 2020</title>
+            <link>https://archive.cchits.net/show/4774/</link>
+            <description>Featured tracks: Lawrence Beamen - A Night Just Like Tonight</description>
+            <guid>https://archive.cchits.net/show/4774/</guid>
+            <pubDate>Sun, 05 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 04, 2020</title>
+            <link>https://archive.cchits.net/show/4773/</link>
+            <description>Featured tracks: The Spin Wires - Hipster Girls</description>
+            <guid>https://archive.cchits.net/show/4773/</guid>
+            <pubDate>Sat, 04 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 03, 2020</title>
+            <link>https://archive.cchits.net/show/4771/</link>
+            <description>Featured tracks: Rubbish Rabbits - By Myself</description>
+            <guid>https://archive.cchits.net/show/4771/</guid>
+            <pubDate>Fri, 03 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 02, 2020</title>
+            <link>https://archive.cchits.net/show/4770/</link>
+            <description>Featured tracks: Wordsmith - Topics</description>
+            <guid>https://archive.cchits.net/show/4770/</guid>
+            <pubDate>Thu, 02 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - January 01, 2020</title>
+            <link>https://archive.cchits.net/show/4769/</link>
+            <description>Featured tracks: Ping Pong Club - She&#x27;s Your Trouble</description>
+            <guid>https://archive.cchits.net/show/4769/</guid>
+            <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

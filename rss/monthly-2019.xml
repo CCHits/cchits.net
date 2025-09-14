@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Monthly Shows (2019)</title>
+        <link>https://archive.cchits.net/shows/monthly/</link>
+        <description>Creative Commons music podcast - monthly shows from 2019</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Monthly Show - December 2019</title>
+            <link>https://archive.cchits.net/show/4768/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4768/</guid>
+            <pubDate>Sun, 01 Dec 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - November 2019</title>
+            <link>https://archive.cchits.net/show/4727/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4727/</guid>
+            <pubDate>Fri, 01 Nov 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - October 2019</title>
+            <link>https://archive.cchits.net/show/4687/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4687/</guid>
+            <pubDate>Tue, 01 Oct 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - September 2019</title>
+            <link>https://archive.cchits.net/show/4647/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4647/</guid>
+            <pubDate>Sun, 01 Sep 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - August 2019</title>
+            <link>https://archive.cchits.net/show/4605/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4605/</guid>
+            <pubDate>Thu, 01 Aug 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - July 2019</title>
+            <link>https://archive.cchits.net/show/4564/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4564/</guid>
+            <pubDate>Mon, 01 Jul 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - June 2019</title>
+            <link>https://archive.cchits.net/show/4524/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4524/</guid>
+            <pubDate>Sat, 01 Jun 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - May 2019</title>
+            <link>https://archive.cchits.net/show/4483/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4483/</guid>
+            <pubDate>Wed, 01 May 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - April 2019</title>
+            <link>https://archive.cchits.net/show/4443/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4443/</guid>
+            <pubDate>Mon, 01 Apr 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - March 2019</title>
+            <link>https://archive.cchits.net/show/4404/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4404/</guid>
+            <pubDate>Fri, 01 Mar 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - February 2019</title>
+            <link>https://archive.cchits.net/show/4362/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4362/</guid>
+            <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - January 2019</title>
+            <link>https://archive.cchits.net/show/4326/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4326/</guid>
+            <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

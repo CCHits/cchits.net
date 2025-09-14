@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Weekly Shows (2010)</title>
+        <link>https://archive.cchits.net/shows/weekly/</link>
+        <description>Creative Commons music podcast - weekly shows from 2010</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Weekly Show - December 26, 2010</title>
+            <link>https://archive.cchits.net/show/96/</link>
+            <description>Featured tracks: Juanitos - Buenos Dias Senorita, Shearer - Pirates, Ant On Wax - Magic Of Dreams, Blue Swerver - Zinedine Zidane, Fit and the Conniptions - Drinking On My Own Again and 5 more tracks</description>
+            <guid>https://archive.cchits.net/show/96/</guid>
+            <pubDate>Sun, 26 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Weekly Show - December 19, 2010</title>
+            <link>https://archive.cchits.net/show/86/</link>
+            <description>Featured tracks: Jonay - Skydiving feat. Jasmine Kara, The Rest - The Close Western, Jonathan Coulton - Blue Sunny Day, ish_kosova - Missing You, tet production - yepa and 5 more tracks</description>
+            <guid>https://archive.cchits.net/show/86/</guid>
+            <pubDate>Sun, 19 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Weekly Show - December 12, 2010</title>
+            <link>https://archive.cchits.net/show/77/</link>
+            <description>Featured tracks: 20lb Sounds - Jimmy Carter, Moneypenny - Destroy (Midnight Conspiracy Remix), Strobelight - This Gravity, Baby Scream - Nicole, Loveshadow - The Sweetest Sin and 5 more tracks</description>
+            <guid>https://archive.cchits.net/show/77/</guid>
+            <pubDate>Sun, 12 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Weekly Show - December 05, 2010</title>
+            <link>https://archive.cchits.net/show/61/</link>
+            <description>Featured tracks: Professor Kliq - All Control (Hard Version), tenpenny joke - Evil Things, Bert Jerred - Paramour, Mad Mush - Don&#x27;t tell me that I don&#x27;t care, Trundicho - Leolyna and 5 more tracks</description>
+            <guid>https://archive.cchits.net/show/61/</guid>
+            <pubDate>Sun, 05 Dec 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Weekly Show - November 28, 2010</title>
+            <link>https://archive.cchits.net/show/50/</link>
+            <description>Featured tracks: Shearer - Change, Allison Crowe - Sea of a Million Faces, Crazed Outlook - Trivial Details, James Corachea - Confidence, Paul Lisak &amp; After The Ice - Tripping and 5 more tracks</description>
+            <guid>https://archive.cchits.net/show/50/</guid>
+            <pubDate>Sun, 28 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Weekly Show - November 21, 2010</title>
+            <link>https://archive.cchits.net/show/36/</link>
+            <description>Featured tracks: snowflake - Persephone, Houdini Roadshow - Down in the City, George_Ellinas - Hornet, Jonathan Coulton - Pull The String, DevonMiles - Bad Habits and 5 more tracks</description>
+            <guid>https://archive.cchits.net/show/36/</guid>
+            <pubDate>Sun, 21 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Weekly Show - November 14, 2010</title>
+            <link>https://archive.cchits.net/show/28/</link>
+            <description>Featured tracks: Flykkiller - Sell My Pulse, Last Sunday - A Part of me, Loudog - Gone, Amélie - Do It Over, DROP ALIVE - Never Happy and 5 more tracks</description>
+            <guid>https://archive.cchits.net/show/28/</guid>
+            <pubDate>Sun, 14 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Weekly Show - November 07, 2010</title>
+            <link>https://archive.cchits.net/show/19/</link>
+            <description>Featured tracks: Sway - Going Blind, Lorenzo&#x27;s Music - Straight To Hell, Predator - I Love Alcohol, The Scare Bears - Girls Don&#x27;t Game, Jonay - Whatcha Wanna Do and 5 more tracks</description>
+            <guid>https://archive.cchits.net/show/19/</guid>
+            <pubDate>Sun, 07 Nov 2010 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

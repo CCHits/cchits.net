@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Monthly Shows (2020)</title>
+        <link>https://archive.cchits.net/shows/monthly/</link>
+        <description>Creative Commons music podcast - monthly shows from 2020</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Monthly Show - December 2020</title>
+            <link>https://archive.cchits.net/show/5251/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/5251/</guid>
+            <pubDate>Tue, 01 Dec 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - November 2020</title>
+            <link>https://archive.cchits.net/show/5211/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/5211/</guid>
+            <pubDate>Sun, 01 Nov 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - October 2020</title>
+            <link>https://archive.cchits.net/show/5171/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/5171/</guid>
+            <pubDate>Thu, 01 Oct 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - September 2020</title>
+            <link>https://archive.cchits.net/show/5130/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/5130/</guid>
+            <pubDate>Tue, 01 Sep 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - August 2020</title>
+            <link>https://archive.cchits.net/show/5091/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/5091/</guid>
+            <pubDate>Sat, 01 Aug 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - July 2020</title>
+            <link>https://archive.cchits.net/show/5049/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/5049/</guid>
+            <pubDate>Wed, 01 Jul 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - June 2020</title>
+            <link>https://archive.cchits.net/show/5008/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/5008/</guid>
+            <pubDate>Mon, 01 Jun 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - May 2020</title>
+            <link>https://archive.cchits.net/show/4969/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4969/</guid>
+            <pubDate>Fri, 01 May 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - April 2020</title>
+            <link>https://archive.cchits.net/show/4927/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4927/</guid>
+            <pubDate>Wed, 01 Apr 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - March 2020</title>
+            <link>https://archive.cchits.net/show/4888/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4888/</guid>
+            <pubDate>Sun, 01 Mar 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - February 2020</title>
+            <link>https://archive.cchits.net/show/4847/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4847/</guid>
+            <pubDate>Sat, 01 Feb 2020 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - January 2020</title>
+            <link>https://archive.cchits.net/show/4808/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4808/</guid>
+            <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

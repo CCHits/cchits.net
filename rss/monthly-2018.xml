@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Monthly Shows (2018)</title>
+        <link>https://archive.cchits.net/shows/monthly/</link>
+        <description>Creative Commons music podcast - monthly shows from 2018</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Monthly Show - December 2018</title>
+            <link>https://archive.cchits.net/show/4285/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4285/</guid>
+            <pubDate>Sat, 01 Dec 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - November 2018</title>
+            <link>https://archive.cchits.net/show/4244/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4244/</guid>
+            <pubDate>Thu, 01 Nov 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - October 2018</title>
+            <link>https://archive.cchits.net/show/4205/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4205/</guid>
+            <pubDate>Mon, 01 Oct 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - September 2018</title>
+            <link>https://archive.cchits.net/show/4166/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4166/</guid>
+            <pubDate>Sat, 01 Sep 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - August 2018</title>
+            <link>https://archive.cchits.net/show/4123/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4123/</guid>
+            <pubDate>Wed, 01 Aug 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - July 2018</title>
+            <link>https://archive.cchits.net/show/4083/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4083/</guid>
+            <pubDate>Sun, 01 Jul 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - June 2018</title>
+            <link>https://archive.cchits.net/show/4042/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4042/</guid>
+            <pubDate>Fri, 01 Jun 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - May 2018</title>
+            <link>https://archive.cchits.net/show/4002/</link>
+            <description>Creative Commons music show</description>
+            <guid>https://archive.cchits.net/show/4002/</guid>
+            <pubDate>Tue, 01 May 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - March 2018</title>
+            <link>https://archive.cchits.net/show/3925/</link>
+            <description>Featured tracks: Richtaste - The Sea, Hungry Lucy - The Chase (F9 Mix), Mad Mush - Don&#x27;t tell me that I don&#x27;t care, Jonathan Coulton - Pull The String, Loudog - Gone and 35 more tracks</description>
+            <guid>https://archive.cchits.net/show/3925/</guid>
+            <pubDate>Thu, 01 Mar 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - February 2018</title>
+            <link>https://archive.cchits.net/show/3884/</link>
+            <description>Featured tracks: Dumbo Gets Mad - You Make Me Feel (DIVA Remix), Broken Cities - Strumming Bass, Bella Ruse - Push On, Aleksey Chistilin - Stop Motion, Rob Warren - Rise and 35 more tracks</description>
+            <guid>https://archive.cchits.net/show/3884/</guid>
+            <pubDate>Thu, 01 Feb 2018 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Monthly Show - January 2018</title>
+            <link>https://archive.cchits.net/show/3846/</link>
+            <description>Featured tracks: Dano from DanoSongs.com - Rescue Me, Will Godfrey - Lair Of The Dragon King, Fresh Body Shop - The Cost Of A Dream, Crazy Quilt Bouquet - (I&#x27;ve Got A) Woolly Hat, Brigitte Wittenhagen - Snow flies over the mountains and 35 more tracks</description>
+            <guid>https://archive.cchits.net/show/3846/</guid>
+            <pubDate>Mon, 01 Jan 2018 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

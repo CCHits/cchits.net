@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>CCHits.net - Daily Shows (October 2022)</title>
+        <link>https://archive.cchits.net/shows/daily/</link>
+        <description>Creative Commons music podcast - daily shows from October 2022</description>
+        <language>en-us</language>
+        <category>Music</category>
+        <itunes:category text="Music"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>CCHits.net</itunes:author>
+        <itunes:summary>Creative Commons licensed music podcast featuring independent artists</itunes:summary>
+        <generator>CCHits.net Static Site Generator</generator>
+        <lastBuildDate>Sat, 13 Sep 2025 22:19:48 +0000</lastBuildDate>
+
+        <item>
+            <title>CCHits.net Daily Show - October 12, 2022</title>
+            <link>https://archive.cchits.net/show/6090/</link>
+            <description>Featured tracks: Scott Altham - GMZ</description>
+            <guid>https://archive.cchits.net/show/6090/</guid>
+            <pubDate>Wed, 12 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 11, 2022</title>
+            <link>https://archive.cchits.net/show/6089/</link>
+            <description>Featured tracks: Frederico Sawabini - A Garota da Praia (The Beach Girl)</description>
+            <guid>https://archive.cchits.net/show/6089/</guid>
+            <pubDate>Tue, 11 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 10, 2022</title>
+            <link>https://archive.cchits.net/show/6088/</link>
+            <description>Featured tracks: Nick Ray - Shells of Men (Future Bounce Remix)</description>
+            <guid>https://archive.cchits.net/show/6088/</guid>
+            <pubDate>Mon, 10 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 09, 2022</title>
+            <link>https://archive.cchits.net/show/6086/</link>
+            <description>Featured tracks: Laurence DaNova - Rest Easy</description>
+            <guid>https://archive.cchits.net/show/6086/</guid>
+            <pubDate>Sun, 09 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 08, 2022</title>
+            <link>https://archive.cchits.net/show/6085/</link>
+            <description>Featured tracks: The Silhouet - Plaything</description>
+            <guid>https://archive.cchits.net/show/6085/</guid>
+            <pubDate>Sat, 08 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 07, 2022</title>
+            <link>https://archive.cchits.net/show/6084/</link>
+            <description>Featured tracks: Emily and the Blackouts - Nice Girls</description>
+            <guid>https://archive.cchits.net/show/6084/</guid>
+            <pubDate>Fri, 07 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 06, 2022</title>
+            <link>https://archive.cchits.net/show/6083/</link>
+            <description>Featured tracks: Obsidian Shell - Mirror</description>
+            <guid>https://archive.cchits.net/show/6083/</guid>
+            <pubDate>Thu, 06 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 05, 2022</title>
+            <link>https://archive.cchits.net/show/6082/</link>
+            <description>Featured tracks: Kristian Vuljar - Under The Stars (feat. Madam Snowflake)</description>
+            <guid>https://archive.cchits.net/show/6082/</guid>
+            <pubDate>Wed, 05 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 04, 2022</title>
+            <link>https://archive.cchits.net/show/6081/</link>
+            <description>Featured tracks: Ozella - Dreams</description>
+            <guid>https://archive.cchits.net/show/6081/</guid>
+            <pubDate>Tue, 04 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 03, 2022</title>
+            <link>https://archive.cchits.net/show/6080/</link>
+            <description>Featured tracks: Rubbish Rabbits - From Nowhere</description>
+            <guid>https://archive.cchits.net/show/6080/</guid>
+            <pubDate>Mon, 03 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 02, 2022</title>
+            <link>https://archive.cchits.net/show/6078/</link>
+            <description>Featured tracks: The League - Heavy Radio</description>
+            <guid>https://archive.cchits.net/show/6078/</guid>
+            <pubDate>Sun, 02 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>CCHits.net Daily Show - October 01, 2022</title>
+            <link>https://archive.cchits.net/show/6077/</link>
+            <description>Featured tracks: Mister Sir - Oh, The Payday! (Midnight)</description>
+            <guid>https://archive.cchits.net/show/6077/</guid>
+            <pubDate>Sat, 01 Oct 2022 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
